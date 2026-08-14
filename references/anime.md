@@ -15,3 +15,20 @@
 - Camera / editing: effects and shot design are used to compress transitions that would otherwise slow the action.
 - AI-video takeaway: when prompting exaggerated anime combat, do not describe every transitional movement. Keep the key contact poses and use controlled motion blur or effects to bridge only the fastest transitions.
 - Tags: anime-action, swordplay, effects, readability, motion-compression
+
+## Blue Eye Samurai — Live-Action Stunts to Animation
+- Source: https://www.netflix.com/tudum/articles/blue-eye-samurai-stunt-scene-explained
+- Watch: https://www.netflix.com/tudum/videos/blue-eye-samurai-behind-the-animation
+- Study: stunt choreographer Sunny Sun stages and films fights with live performers before the footage is cut into the storyboard and translated into animation.
+- Movement design: character personality determines posture, economy of movement and weapon handling, so choreography serves story instead of existing only for spectacle.
+- Camera / editing: the team treats the sequence like live action first, using connected stunt footage to keep the spatial logic readable before stylization.
+- AI-video takeaway: a strong workflow for AI action—record or choose a simple live-action reference, preserve its timing and contact points, then stylize camera, lighting and environment afterward.
+- Tags: swordfight, live-action-reference, animation, choreography, storyboard, character-movement
+
+## KPop Demon Hunters — “How It’s Done” Sky-High Fight
+- Source: https://www.netflix.com/tudum/videos/kpop-demon-hunters-how-its-done-music-video
+- Study: a directly watchable action-music sequence that mixes synchronized group choreography, weapon combat and moving-vehicle staging.
+- Movement design: each fighter has a readable role while combat beats align with musical accents, giving a dense multi-character scene unusually clear rhythm.
+- Camera / editing: quick reframes and cuts are motivated by beat changes and target switches rather than arbitrary speed.
+- AI-video takeaway: useful for action synced to music. Assign one visible action per beat, preserve a clear hero subject, and let camera changes occur on musical or impact accents.
+- Tags: animated-action, group-fight, music-sync, weapon-combat, moving-vehicle, rhythm
