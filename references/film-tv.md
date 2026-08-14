@@ -35,3 +35,19 @@
 - Camera / editing: coverage shifts between individual impact beats and group geography so the viewer always understands who is attacking and how quickly Sentry reverses momentum.
 - AI-video takeaway: when generating multi-character combat, assign each participant a short role in the sequence and define the power hierarchy explicitly. This is far more reliable than prompting a generic group battle.
 - Tags: team-fight, superpowered-combat, power-imbalance, multi-character, escalation
+
+## From the World of John Wick: Ballerina — Long-Take Close-Quarters Action
+- Source: https://www.gq.com/video/watch/rules-of-revenge
+- Study: character-centered John Wick-style action built around preparation, close-range striking, firearm handling and long physical takes rather than hyper-fragmented cutting.
+- Movement design: compact elbows, grappling and weapon transitions are chained into short tactical problems instead of isolated flashy moves.
+- Camera / editing: the action favors sustained takes where the performer remains readable, then reframes only when the tactical objective changes.
+- AI-video takeaway: useful for 10–15 second gun-fu or assassin sequences. Keep the protagonist locked, connect every strike to the next objective, and use only one or two motivated camera changes.
+- Tags: gun-fu, long-take, close-quarters, grappling, tactical-action
+
+## Ironheart — White Castle Fight
+- Source: https://www.marvel.com/articles/tv-shows/ironheart-white-castle-fight-scene
+- Study: a resourceful restaurant fight designed around an open floorplan and improvised objects rather than superior raw power.
+- Movement design: tables, trays, cutlery, counters and kitchen equipment become defensive or offensive beats, giving the action a clear environmental logic.
+- Camera / editing: the set was deliberately opened up so performers could jump counters, smash into surfaces and move between interior zones without losing geography.
+- AI-video takeaway: strong reference for an AI kitchen or restaurant fight. Prompt the environment as a sequence of usable stations—table → counter → tray → fridge—then attach one physical action to each station.
+- Tags: restaurant-fight, environmental-action, improvised-weapons, kitchen, spatial-design
