@@ -31,3 +31,11 @@
 - Camera: blockbuster-style framing stays mobile while preserving subject continuity.
 - AI-video takeaway: for gun-fu generations, write the action as one connected chain—disarm or parry → body turn → close strike → target switch → weapon presentation—instead of independent flashy moves.
 - Tags: gun-fu, mocap, freeflow, stunt-performers, target-switching, cinematic-gameplay
+
+## Onimusha: Way of the Sword — Grounded Sword-Fight Motion Capture
+- Source: https://www.pcgamer.com/games/action/onimusha-way-of-the-swords-incredible-sword-fighting-secret-sauce-explained-we-really-wanted-to-focus-on-creating-this-very-realistic-grounded-sword-action/
+- Study: Capcom's animation team explains how professional sword-fight choreographers and stunt performers rehearse encounters before capture, then review the captured motion immediately in-engine.
+- Movement design: attacks are constrained by encounter rules and approach directions, so the swordplay reads as a tactical exchange rather than generic slashing.
+- Camera / editing: over 150 mocap cameras capture full-body action while the team iterates on timing and spacing before final animation polish.
+- AI-video takeaway: excellent reference for realistic sword combat. Define attack side, distance, parry direction and recovery pose for each beat; review the sequence like previs before adding speed, debris or VFX.
+- Tags: swordfight, mocap, grounded-action, samurai, previs, game-animation
