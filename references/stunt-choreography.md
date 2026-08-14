@@ -31,3 +31,11 @@
 - Camera / editing: short shot pieces still preserve a continuous sense of physical exhaustion and escalating stakes.
 - AI-video takeaway: define phases in longer generations: controlled parry/counter exchange → weapon introduction → fatigue → brutal final beat. Keep each phase visually distinct.
 - Tags: pencak-silat, knife-fight, escalation, fatigue, choreography-arc
+
+## ONE PIECE Live Action Season 2 — Behind the Stunts
+- Source: https://www.netflix.com/tudum/videos/one-piece-season-2-behind-the-stunts
+- Study: an official stunt featurette showing how the returning stunt team scales up live-action battles while keeping recognizable character movement.
+- Movement design: highly stylized attacks are grounded by performer training, practical rehearsal and clear body mechanics before spectacle is layered on top.
+- Camera / editing: useful reference for blending larger-than-life character action with readable live-action staging.
+- AI-video takeaway: when adapting anime-like movement into photorealistic AI video, first define a believable physical base action, then add only one exaggerated signature beat rather than making every motion superhuman.
+- Tags: live-action-anime, stunt-team, adaptation, character-movement, grounded-spectacle
