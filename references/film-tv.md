@@ -27,3 +27,11 @@
 - Camera: controlled graphic framing and poetic inserts.
 - AI-video takeaway: combine a clear visual motif with readable weapon motion and restrained environmental effects.
 - Tags: wuxia, swordplay, calligraphy, cinematic-composition
+
+## Thunderbolts* — Team vs. Sentry Penthouse Fight
+- Source: https://www.marvel.com/articles/movies/marvel-studios-thunderbolts-sentry-fight-behind-the-scenes
+- Study: an ensemble fight where the choreography communicates a power mismatch—the team attacks with coordinated tactics but nothing meaningfully stops Sentry.
+- Movement design: staggered team entries, chained attacks, throws and counters all reinforce one narrative idea: escalating effort against an overwhelmingly stronger opponent.
+- Camera / editing: coverage shifts between individual impact beats and group geography so the viewer always understands who is attacking and how quickly Sentry reverses momentum.
+- AI-video takeaway: when generating multi-character combat, assign each participant a short role in the sequence and define the power hierarchy explicitly. This is far more reliable than prompting a generic group battle.
+- Tags: team-fight, superpowered-combat, power-imbalance, multi-character, escalation
