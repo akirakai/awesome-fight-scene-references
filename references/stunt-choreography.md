@@ -39,3 +39,12 @@
 - Camera / editing: useful reference for blending larger-than-life character action with readable live-action staging.
 - AI-video takeaway: when adapting anime-like movement into photorealistic AI video, first define a believable physical base action, then add only one exaggerated signature beat rather than making every motion superhuman.
 - Tags: live-action-anime, stunt-team, adaptation, character-movement, grounded-spectacle
+
+## Extraction 2 — 21-Minute Oner Breakdown
+- Watch: https://www.youtube.com/watch?v=2R_C_4Ezh2U
+- Source: https://www.netflix.com/tudum/videos/extraction-2-fight-sequence-break-down
+- Study: Sam Hargrave and Chris Hemsworth break down the centerpiece action sequence designed to appear as one continuous shot across prison combat, vehicles and large-scale pursuit.
+- Movement design: each local fight is short and goal-driven; the sequence keeps changing the tactical problem instead of simply increasing move complexity.
+- Camera / editing: camera handoffs and hidden transitions preserve forward momentum while scale expands from close-quarters fighting to moving vehicles and wider geography.
+- AI-video takeaway: a strong reference for fake-oner generation. Build a 15-second clip as 3 connected modules—close fight → motivated travel/handoff → new threat—and hide the transition behind a body, wall or whip move rather than asking the model for nonstop chaos.
+- Tags: oner, camera-handoff, hidden-cut, close-quarters, pursuit, action-design
