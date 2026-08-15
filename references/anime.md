@@ -32,3 +32,11 @@
 - Camera / editing: quick reframes and cuts are motivated by beat changes and target switches rather than arbitrary speed.
 - AI-video takeaway: useful for action synced to music. Assign one visible action per beat, preserve a clear hero subject, and let camera changes occur on musical or impact accents.
 - Tags: animated-action, group-fight, music-sync, weapon-combat, moving-vehicle, rhythm
+
+## New Gintama the Movie: Yoshiwara in Flames — “Ultimate Showdown” Trailer
+- Source: https://www.crunchyroll.com/news/latest/2026/2/28/gintama-yoshiwara-in-flames-anime-film-ultimate-showdown-trailer
+- Study: a 2026 official trailer centered on Gintoki vs. Hosen, using a compact sequence to sell a huge power mismatch and escalating sword-versus-brute-force confrontation.
+- Movement design: clear signature poses, sudden acceleration and heavy impact frames make each exchange readable even when the motion becomes highly exaggerated.
+- Camera / editing: rapid cuts preserve directional continuity by anchoring on strong silhouettes and impact poses, then using effects to bridge the fastest travel.
+- AI-video takeaway: useful for 10–15 second anime-style duels. Keep 3–4 hero poses as anchors—approach, clash, recovery, finishing attempt—and let speed lines/effects connect those anchors rather than trying to animate every micro-step.
+- Tags: anime-duel, swordfight, power-mismatch, impact-frames, 2026, trailer
