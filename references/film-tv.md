@@ -51,3 +51,20 @@
 - Camera / editing: the set was deliberately opened up so performers could jump counters, smash into surfaces and move between interior zones without losing geography.
 - AI-video takeaway: strong reference for an AI kitchen or restaurant fight. Prompt the environment as a sequence of usable stations—table → counter → tray → fridge—then attach one physical action to each station.
 - Tags: restaurant-fight, environmental-action, improvised-weapons, kitchen, spatial-design
+
+## Daredevil: Born Again Season 2 — Bullseye Diner Fight
+- Source: https://www.marvel.com/articles/tv-shows/daredevil-born-again-season-2-wilson-bethel-bullseye-diner-fight-scene
+- Study: a 2026 diner sequence built around Bullseye's defining mechanic: ordinary objects become precise ranged attacks, with choreography, camera moves and throws planned together in previs.
+- Movement design: fast target acquisition, improvised-projectile attacks, abrupt close-range transitions and short pauses that reset the viewer before the next burst.
+- Camera / editing: many rapid setups are linked by a consistent subject focus; speed comes from action timing and target changes rather than incomprehensible handheld chaos.
+- AI-video takeaway: excellent template for a 15-second improvised-weapon scene. Assign one object to one target, make each throw/counter causally explicit, and let the camera reframe only when Bullseye changes target.
+- Tags: diner-fight, improvised-weapons, precision, previs, target-switching, 2026
+
+## The Brothers Sun — Dim Sum Banquet / Behind the Stunts
+- Watch: https://www.youtube.com/watch?v=lK-2BNtx2PI
+- Production breakdown: https://www.netflix.com/tudum/articles/brothers-sun-justin-chien-fight-scenes-stunts
+- Study: dense Hong Kong-influenced ensemble action where character, comedy and environmental props remain legible even with many performers sharing a small set.
+- Movement design: improvised objects, multi-direction threats and staggered micro-fights are preplanned as modular beats instead of one undifferentiated crowd brawl.
+- Camera / editing: the team rehearsed with placeholder boxes months ahead, preserving geography in a claustrophobic banquet space while allowing 30–45 second sustained action passages.
+- AI-video takeaway: for crowded AI fights, divide the scene into zones and give the hero only one immediate threat at a time. Use props and target handoffs to connect zones without identity swaps.
+- Tags: ensemble-fight, dim-sum, environmental-action, hong-kong-style, crowd-staging, previs
