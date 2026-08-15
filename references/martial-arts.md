@@ -15,3 +15,12 @@
 - Camera / editing: competition framing preserves the complete body line, which is valuable when extracting reusable motion reference for AI generation.
 - AI-video takeaway: for elegant wuxia or martial-arts shots, describe the center-of-gravity shift and weapon path first, then add cloth, wind and cinematic camera movement without obscuring the body mechanics.
 - Tags: taijiquan, taijijian, wushu, weapon-form, balance, body-mechanics
+
+## 17th World Wushu Championships 2025 — Sanda Day 1
+- Watch: https://www.youtube.com/watch?v=f3PyhfknNlY
+- Source: WUSHU TV / International Wushu Federation official coverage.
+- Study: long-form elite Sanda competition footage with many body types and tactical styles, useful for harvesting authentic short exchanges instead of relying on choreographed movie fighting.
+- Movement design: real probing distance, round kicks, punch entries, catches, throws, ring-outs and resets show what believable attack/defense timing actually looks like under pressure.
+- Camera / editing: fixed sports coverage preserves both bodies and the contact point, making the footage especially useful for pose/reference extraction.
+- AI-video takeaway: sample 3–6 second exchanges and preserve the natural reset after contact. For realistic generations, explicitly include guard recovery, foot repositioning and failed/checked attacks—not only successful hits.
+- Tags: sanda, competition, iwuf, realistic-combat, reference-video, full-body
