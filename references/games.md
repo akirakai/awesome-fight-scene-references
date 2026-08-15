@@ -39,3 +39,19 @@
 - Camera / editing: over 150 mocap cameras capture full-body action while the team iterates on timing and spacing before final animation polish.
 - AI-video takeaway: excellent reference for realistic sword combat. Define attack side, distance, parry direction and recovery pose for each beat; review the sequence like previs before adding speed, debris or VFX.
 - Tags: swordfight, mocap, grounded-action, samurai, previs, game-animation
+
+## Midnight Fight Express — Mocapped Multi-Directional Brawling
+- Source: https://blog.playstation.com/2022/07/22/bringing-brawling-to-life-in-midnight-fight-express/
+- Study: stunt performer Eric Jacobus and SuperAlloy Interactive designed and captured a huge library of combos, parries, finishers, environmental attacks and enemy moves for a multi-directional combat engine.
+- Movement design: the same gameplay situation is re-authored by approach direction, with different martial-arts vocabularies used to keep north/south/east/west engagements visually distinct.
+- Camera / editing: the source mocap is intentionally clean and modular, making it easy to study complete body mechanics without cinematic coverage hiding the transition.
+- AI-video takeaway: ideal for designing reusable AI action blocks. Build 2–4 second modules such as front brawl, blind-side Muay Thai counter, side kick entry and wrestling finish, then connect only compatible start/end poses.
+- Tags: brawler, mocap, eric-jacobus, modular-choreography, finishers, directional-combat
+
+## God of War (2018) — Ogre Intro Multi-Scale Performance Capture
+- Source: https://blog.playstation.com/2018/07/09/the-art-of-the-scene-cinematic-challenges-in-god-of-war/
+- Study: Santa Monica Studio documents how it staged a high-contact single-shot scene between human performers representing characters at radically different scales.
+- Movement design: actors rehearse the same synchronized choreography in separate scaled spaces, physically reacting to contact that does not exist on the real stage.
+- Camera / editing: the sequence was designed around God of War's no-cut visual language, with virtual-camera planning preserving scale, eyelines and impact through the whole action beat.
+- AI-video takeaway: strong reference for human-vs-giant or creature fights. Lock the scale ratio, eye lines and contact points first; treat the large character and small character as synchronized performances rather than independently animated subjects.
+- Tags: giant-fight, scale, performance-capture, no-cut-camera, eyeline, creature-combat
