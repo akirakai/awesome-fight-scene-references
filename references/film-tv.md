@@ -68,3 +68,21 @@
 - Camera / editing: the team rehearsed with placeholder boxes months ahead, preserving geography in a claustrophobic banquet space while allowing 30–45 second sustained action passages.
 - AI-video takeaway: for crowded AI fights, divide the scene into zones and give the hero only one immediate threat at a time. Use props and target handoffs to connect zones without identity swaps.
 - Tags: ensemble-fight, dim-sum, environmental-action, hong-kong-style, crowd-staging, previs
+
+## Mission: Impossible — Fallout — Bathroom Fight
+- Watch: https://www.youtube.com/watch?v=sLiZeg6zU4M
+- Production notes: https://www.motionpictures.org/2024/01/defying-death-with-mission-impossible-dead-reckoning-part-one-second-unit-director-stunt-coordinator-wade-eastwood/
+- Study: a compact three-person fight where each fighter has a distinct physical language and the room itself keeps the action grounded.
+- Movement design: repeated two-on-one pressure, short resets, grappling, strikes and reversals are easy to read because every beat has a clear attacker and responder.
+- Camera / editing: medium-wide coverage keeps all three bodies visible; cuts arrive mainly when the tactical relationship changes rather than on every hit.
+- AI-video takeaway: a strong template for a 15-second three-person melee. Assign each fighter a movement style, keep the room axis stable, and structure the prompt as attack → interruption → role reversal → decisive beat.
+- Tags: three-person-fight, bathroom, wushu, grappling, readable-action, physicality
+
+## Shang-Chi and the Legend of the Ten Rings — Bus Fight
+- Watch: https://www.marvel.com/articles/movies/shang-chi-proves-he-can-fight-clip
+- Behind the action: https://www.marvel.com/articles/movies/shang-chi-and-the-legend-of-the-ten-rings-action-featurette
+- Study: Hong Kong-style choreography adapted to a moving, narrowing environment where the set continuously creates new tactical problems.
+- Movement design: jacket manipulation, railings, windows, seats and shifting balance are incorporated into the fight so each new section feels like a fresh beat instead of a repeated exchange.
+- Camera / editing: the stunt team built and iterated the action as stunt-vis, allowing the camera to travel with the choreography while preserving body readability.
+- AI-video takeaway: excellent for vehicle or corridor fights. Define the environment as a sequence of stations and let every station change the move vocabulary: aisle → rail → window → exterior edge.
+- Tags: bus-fight, hong-kong-action, environmental-action, stunt-vis, moving-vehicle, jackie-chan-style
