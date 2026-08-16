@@ -40,3 +40,12 @@
 - Camera / editing: rapid cuts preserve directional continuity by anchoring on strong silhouettes and impact poses, then using effects to bridge the fastest travel.
 - AI-video takeaway: useful for 10–15 second anime-style duels. Keep 3–4 hero poses as anchors—approach, clash, recovery, finishing attempt—and let speed lines/effects connect those anchors rather than trying to animate every micro-step.
 - Tags: anime-duel, swordfight, power-mismatch, impact-frames, 2026, trailer
+
+## BLACK TORCH — Official Action Trailer (2026)
+- Watch: https://www.youtube.com/watch?v=XL_biwm-hxU
+- Source: https://www.crunchyroll.com/news/latest/2026/6/5/black-torch-anime-theme-songs-trailer-key-visual
+- Study: a compact supernatural-action trailer that mixes shinobi body mechanics with monster-powered bursts while keeping the lead character’s silhouette readable.
+- Movement design: grounded approach poses and short melee exchanges are punctuated by sudden supernatural accelerations rather than maintaining maximum speed continuously.
+- Camera / editing: cuts land on strong poses, directional attacks and effect-driven impact frames, which makes a dense trailer readable despite rapid pacing.
+- AI-video takeaway: a good anime prompt pattern is grounded setup → one clear physical attack → supernatural amplification → impact pose. Do not make every frame equally explosive.
+- Tags: black-torch, shinobi, supernatural-action, impact-frame, pose-driven, 2026
