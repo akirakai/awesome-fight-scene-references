@@ -24,3 +24,12 @@
 - Camera / editing: fixed sports coverage preserves both bodies and the contact point, making the footage especially useful for pose/reference extraction.
 - AI-video takeaway: sample 3–6 second exchanges and preserve the natural reset after contact. For realistic generations, explicitly include guard recovery, foot repositioning and failed/checked attacks—not only successful hits.
 - Tags: sanda, competition, iwuf, realistic-combat, reference-video, full-body
+
+## Karate 1 Premier League Leshan 2026 — Finals Highlights
+- Watch: https://www.youtube.com/watch?v=708Jxm-Ws28
+- Source: World Karate Federation official channel.
+- Study: recent elite kumite footage with clean tournament framing, sharp distance management and very short attack windows.
+- Movement design: fighters spend more time probing, feinting and resetting than striking; successful attacks arrive as sudden linear entries or counters, which is valuable for making AI combat feel less like nonstop choreography.
+- Camera / editing: fixed full-body sports coverage preserves stance width, approach distance, retreat angle and the exact moment of contact.
+- AI-video takeaway: for realistic karate, prompt a visible preparation phase—bounce/feint → explosive entry → single decisive technique → immediate disengage and guard reset. The reset is as important as the hit.
+- Tags: karate, kumite, distance-management, feint, explosive-entry, realistic-combat, 2026
