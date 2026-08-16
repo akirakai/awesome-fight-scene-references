@@ -55,3 +55,20 @@
 - Camera / editing: the sequence was designed around God of War's no-cut visual language, with virtual-camera planning preserving scale, eyelines and impact through the whole action beat.
 - AI-video takeaway: strong reference for human-vs-giant or creature fights. Lock the scale ratio, eye lines and contact points first; treat the large character and small character as synchronized performances rather than independently animated subjects.
 - Tags: giant-fight, scale, performance-capture, no-cut-camera, eyeline, creature-combat
+
+## Marvel’s Wolverine — Extended Gameplay Combat (2026)
+- Source: https://blog.playstation.com/2026/06/02/marvels-wolverine-new-gameplay-story-details-from-state-of-play/
+- Study: a current example of close-range game combat built around a strongly defined character silhouette, fast gap-closing and highly legible finishing beats.
+- Movement design: Wolverine’s attacks emphasize direct entries, claw combinations, grapples and context-sensitive takedowns; Jean Grey team moments show how a secondary character can be assigned one precise support action without muddying the main subject.
+- Camera / editing: the gameplay camera stays close enough for impact but pulls back just enough during multi-enemy exchanges to preserve threat direction and body orientation.
+- AI-video takeaway: for aggressive 10–15 second action, write one dominant locomotion rule for the hero—always closing distance—then chain 3–4 explicit contact beats and reserve the largest camera move for the finisher.
+- Tags: wolverine, close-quarters, claws, takedown, character-combat, 2026
+
+## MARVEL Tōkon: Fighting Souls — 4v4 Tag Combat
+- Source: https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls/
+- Design notes: https://blog.playstation.com/2026/07/20/beginners-guide-to-marvel-tokon-fighting-souls/
+- Study: Arc System Works’ 2026 fighter is a useful reference for staging many characters without losing the active combat pair.
+- Movement design: assists, switches and team attacks are clearly separated into foreground action and short support interventions, preventing eight visible characters from becoming one unreadable swarm.
+- Camera / editing: stage transitions and cinematic supers deliberately interrupt the normal side-on grammar only at major state changes, which makes the spectacle feel controlled.
+- AI-video takeaway: for multi-character AI fights, keep one active attacker and one active defender, then allow teammates to enter for one beat only. Use stage transition or super-move framing as a punctuation mark, not as the default camera state.
+- Tags: tag-fighter, 4v4, multi-character, assists, anime-style, stage-transition, 2026
