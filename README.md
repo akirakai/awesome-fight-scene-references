@@ -52,6 +52,17 @@ Example:
 - `references/ai-action.md`
 - `references/best-of.md` — standout references across all categories
 
+## Latest additions — 2026-08-16
+
+- Film / TV: **Mission: Impossible — Fallout — Bathroom Fight**
+- Film / TV: **Shang-Chi and the Legend of the Ten Rings — Bus Fight**
+- Games: **Marvel’s Wolverine — Extended Gameplay Combat (2026)**
+- Games: **MARVEL Tōkon: Fighting Souls — 4v4 Tag Combat**
+- Anime: **BLACK TORCH — Official Action Trailer (2026)**
+- Martial Arts: **Karate 1 Premier League Leshan 2026 — Finals Highlights**
+- AI Action: **UMF — Unified Number-Free Text-to-Motion Generation (CVPR 2026)**
+- AI Action: **WanToFight — Real-Time Generative Two-Player Combat Engine (2026)**
+
 ## Curation principles
 
 1. Prefer directly watchable sources.
