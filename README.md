@@ -51,17 +51,20 @@ Example:
 - `references/stunt-choreography.md`
 - `references/ai-action.md`
 - `references/best-of.md` — standout references across all categories
+- `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-16
+## Latest additions — 2026-08-17
 
-- Film / TV: **Mission: Impossible — Fallout — Bathroom Fight**
-- Film / TV: **Shang-Chi and the Legend of the Ten Rings — Bus Fight**
-- Games: **Marvel’s Wolverine — Extended Gameplay Combat (2026)**
-- Games: **MARVEL Tōkon: Fighting Souls — 4v4 Tag Combat**
-- Anime: **BLACK TORCH — Official Action Trailer (2026)**
-- Martial Arts: **Karate 1 Premier League Leshan 2026 — Finals Highlights**
-- AI Action: **UMF — Unified Number-Free Text-to-Motion Generation (CVPR 2026)**
-- AI Action: **WanToFight — Real-Time Generative Two-Player Combat Engine (2026)**
+Full batch: [`references/runs/2026-08-17.md`](references/runs/2026-08-17.md)
+
+- Film / TV: **Daredevil: Born Again S2 — Northern Star Ship Sequence**
+- Film / TV: **The Man from Toronto — Barbell Brawl**
+- Games: **NINJA GAIDEN 4 — High-Speed Sword Combat Flow**
+- Games: **Where Winds Meet — Wuxia Umbrella Combat & Motion Capture**
+- Anime: **LAZARUS — Axel Action Trailer**
+- Stunt / Choreography: **Avatar: The Last Airbender — Aang vs. King Bumi Fight BTS**
+- Martial Arts: **Superlek vs. Rui Botelho — Muay Thai Masterclass**
+- AI Action: **CoShMDM — Contact- and Shape-Aware Two-Person Motion Generation**
 
 ## Curation principles
 
