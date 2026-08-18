@@ -35,3 +35,12 @@
 - Camera / editing: the fixed fighting-game camera is ideal for diagnosing identity swaps, timing errors and contact incoherence without shot changes hiding mistakes.
 - AI-video takeaway: for two-character reference-driven generation, treat identity binding as a first-class constraint: Fighter A keeps one costume/side/control role, Fighter B keeps the other, and crossing positions must never swap identities.
 - Tags: ai-video, generative-game-engine, two-player, identity-binding, real-time, combat, 2026
+
+## ReMoGen — Real-Time Human Interaction-to-Reaction Generation (CVPR 2026)
+- Project / videos: https://4dvlab.github.io/project_page/remogen/
+- Paper / code: https://github.com/4DVLab/ReMoGen
+- Study: ReMoGen focuses on generating a person's reaction from another person's observed motion and supports human-human as well as human-scene interaction settings.
+- Movement design: its reaction-generation formulation is highly relevant to combat because the responder should move from the attacker's latest action and contact context instead of following an unrelated independent motion track.
+- Camera / editing: clean research visualizations make temporal causality and interaction errors visible without cinematic cutting masking them.
+- AI-video takeaway: author fights in short reactive windows: Fighter A commits → Fighter B reacts → contact/spacing state changes → the next micro-segment follows from the new state. This is a better control model than generating both fighters independently for 15 seconds.
+- Tags: ai-action, reaction-generation, two-person-interaction, temporal-causality, short-segments, cvpr-2026
