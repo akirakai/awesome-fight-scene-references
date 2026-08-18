@@ -72,3 +72,21 @@
 - Camera / editing: stage transitions and cinematic supers deliberately interrupt the normal side-on grammar only at major state changes, which makes the spectacle feel controlled.
 - AI-video takeaway: for multi-character AI fights, keep one active attacker and one active defender, then allow teammates to enter for one beat only. Use stage transition or super-move framing as a punctuation mark, not as the default camera state.
 - Tags: tag-fighter, 4v4, multi-character, assists, anime-style, stage-transition, 2026
+
+## Stellar Blade — Read → Parry/Dodge → Counter Combat Flow
+- Source: https://blog.playstation.com/2024/04/08/stellar-blade-interview-creating-stylish-sci-fi-action-in-a-post-apocalyptic-world/
+- Boss Challenge: https://blog.playstation.com/2024/05/23/stellar-blade-adds-new-boss-challenge-mode-on-may-24/
+- Study: Shift Up explicitly designed combat around observing enemy motion and understanding combat flow before responding, rather than uninterrupted offensive combo spam.
+- Movement design: readable enemy telegraph → timed parry or dodge → counterattack creates strong action/reaction causality and naturally varies the rhythm.
+- Camera / editing: gameplay presentation preserves the enemy wind-up and defensive timing long enough for the viewer to understand why the counter works.
+- AI-video takeaway: excellent duel template: telegraph → defensive read → perfect parry/dodge → counter → recovery. Include anticipation and reset frames instead of making both fighters attack continuously.
+- Tags: stellar-blade, parry, dodge, counter, telegraph, readable-duel, combat-rhythm
+
+## Nioh 3 — Samurai / Ninja Style-Shift Combat
+- Source: https://blog.playstation.com/2025/11/21/nioh-3-hands-on-report/
+- Additional hands-on: https://blog.playstation.com/2025/09/25/nioh-3-tokyo-game-show-hands-on-report/
+- Study: Team Ninja's combat uses instant Style Shift between Samurai and Ninja, making one fighter visibly change tactical state inside a single exchange.
+- Movement design: Samurai emphasizes defense and deflection; Ninja emphasizes agility, flanking and burst offense, creating a clear loop of defend → create opening → switch → punish → disengage.
+- Camera / editing: the same locked combat camera makes the style change legible through stance, speed and movement vocabulary rather than relying on cuts.
+- AI-video takeaway: useful as a state-machine prompt: defensive samurai stance → exact deflect → instant style switch → agile flank/burst → clean exit and reset. A single explicit mode change can make a 15-second fight feel much more structured.
+- Tags: nioh-3, samurai, ninja, style-switch, deflect, flank, state-machine, 2026
