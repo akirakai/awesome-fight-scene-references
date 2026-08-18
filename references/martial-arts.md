@@ -33,3 +33,11 @@
 - Camera / editing: fixed full-body sports coverage preserves stance width, approach distance, retreat angle and the exact moment of contact.
 - AI-video takeaway: for realistic karate, prompt a visible preparation phase—bounce/feint → explosive entry → single decisive technique → immediate disengage and guard reset. The reset is as important as the hit.
 - Tags: karate, kumite, distance-management, feint, explosive-entry, realistic-combat, 2026
+
+## Takeru vs. Rodtang — ONE 172 Full Fight
+- Watch: https://www.onefc.com/videos/takeru-vs-rodtang-one-172-full-fight/
+- Study: elite kickboxing footage with clear full-body framing, contrasting pressure styles and real attack/defense timing under competitive conditions.
+- Movement design: probing kicks and feints alternate with sudden punching bursts, checks, blocks, retreats and guard resets; many exchanges end without a clean hit, which is valuable realism reference.
+- Camera / editing: broadcast framing usually preserves both fighters, distance and contact point, making footwork and recovery easy to inspect.
+- AI-video takeaway: for believable striking, prompt probe/feint → short burst → block/check or partial miss → immediate stance recovery. Do not make every attack land or both fighters attack continuously.
+- Tags: kickboxing, rodtang, takeru, one-championship, feint, pressure, guard-reset, realistic-combat
