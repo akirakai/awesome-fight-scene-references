@@ -86,3 +86,21 @@
 - Camera / editing: the stunt team built and iterated the action as stunt-vis, allowing the camera to travel with the choreography while preserving body readability.
 - AI-video takeaway: excellent for vehicle or corridor fights. Define the environment as a sequence of stations and let every station change the move vocabulary: aisle → rail → window → exterior edge.
 - Tags: bus-fight, hong-kong-action, environmental-action, stunt-vis, moving-vehicle, jackie-chan-style
+
+## HAVOC — Fishing-Shack Finale / Hard-Contact Close Quarters
+- Watch: https://www.netflix.com/tudum/videos/havoc-trailer
+- Production notes: https://www.netflix.com/tudum/articles/tom-hardy-havoc-ending-explained
+- Study: Gareth Evans and action designer/stunt coordinator Jude Poyer build dense close-quarters action from controlled physical exchanges rather than abstract speed.
+- Movement design: short tactical bursts, hard body contact, heavy strikes and an environmental finishing beat give the fight a clear escalation path.
+- Camera / editing: the finale was captured across controlled pieces while preserving forward pressure and spatial continuity, a useful reminder that apparent flow does not require one impossible uninterrupted take.
+- AI-video takeaway: generate a 15-second fight as 2–4 second modules with one explicit objective each—enter → defend/counter → reposition → environmental finish—and connect modules through stable identity and geography.
+- Tags: havoc, gareth-evans, close-quarters, hard-contact, environmental-finish, tactical-modules, 2025
+
+## The Shadow Strays — Warehouse / Multi-Style Assassin Action
+- Watch / trailer: https://about.netflix.com/en/news/the-shadow-strays-trailer-tease-dark-suspense-and-intense-fight-choreography
+- Production notes: https://about.netflix.com/en/news/the-shadow-strays-becomes-a-global-hit-trending-in-85-countries-on-netflix
+- Study: Timo Tjahjanto's action design combines silat, kickboxing, katana work and other weapons while keeping character identity readable across large set pieces.
+- Movement design: different weapons and fighting vocabularies are assigned to different characters, so personality and threat role remain visible even when the action escalates.
+- Camera / editing: the real-warehouse sequence combines vehicle stunts, gunfire and hand-to-hand action through local exchanges and zone changes instead of one undifferentiated swarm.
+- AI-video takeaway: lock each fighter to one movement vocabulary, weapon and tactical role; move the fight through explicit environment zones rather than letting styles and identities mutate randomly.
+- Tags: shadow-strays, silat, kickboxing, katana, warehouse, character-specific-style, 2024
