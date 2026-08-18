@@ -49,3 +49,12 @@
 - Camera / editing: cuts land on strong poses, directional attacks and effect-driven impact frames, which makes a dense trailer readable despite rapid pacing.
 - AI-video takeaway: a good anime prompt pattern is grounded setup → one clear physical attack → supernatural amplification → impact pose. Do not make every frame equally explosive.
 - Tags: black-torch, shinobi, supernatural-action, impact-frame, pose-driven, 2026
+
+## Demon Slayer: Kimetsu no Yaiba Infinity Castle — Tanjiro & Giyu vs. Akaza Battle Trailer
+- Official trailer hub: https://demonslayer-anime.com/infinitycastle/trailer/
+- Source: https://www.crunchyroll.com/news/latest/2025/8/9/demon-slayer-kimetsu-no-yaiba-infinity-castle-battle-trailer-tanjiro-akaza
+- Study: a compact battle-trailer edit that compresses a high-speed two-versus-one supernatural fight into a small number of strongly readable poses and impact moments.
+- Movement design: approach silhouettes, explosive clashes, brief recovery poses and effect-heavy accelerations preserve a sense of cause and response even at extreme anime speed.
+- Camera / editing: directional cuts and VFX bridges connect anchor poses instead of attempting to show every transition at equal detail.
+- AI-video takeaway: for a 15-second anime fight, define 3–4 anchor poses—approach → clash → displaced recovery → finishing attempt—then use speed effects only between those poses. Keep attack direction consistent across cuts.
+- Tags: demon-slayer, infinity-castle, anime-duel, two-vs-one, impact-pose, effect-bridge, 2025
