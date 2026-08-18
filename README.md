@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-17
+## Latest additions — 2026-08-18
 
-Full batch: [`references/runs/2026-08-17.md`](references/runs/2026-08-17.md)
+Full batch: [`references/runs/2026-08-18.md`](references/runs/2026-08-18.md)
 
-- Film / TV: **Daredevil: Born Again S2 — Northern Star Ship Sequence**
-- Film / TV: **The Man from Toronto — Barbell Brawl**
-- Games: **NINJA GAIDEN 4 — High-Speed Sword Combat Flow**
-- Games: **Where Winds Meet — Wuxia Umbrella Combat & Motion Capture**
-- Anime: **LAZARUS — Axel Action Trailer**
-- Stunt / Choreography: **Avatar: The Last Airbender — Aang vs. King Bumi Fight BTS**
-- Martial Arts: **Superlek vs. Rui Botelho — Muay Thai Masterclass**
-- AI Action: **CoShMDM — Contact- and Shape-Aware Two-Person Motion Generation**
+- Film / TV: **HAVOC — Fishing-Shack Finale / Hard-Contact Close Quarters**
+- Film / TV: **The Shadow Strays — Warehouse / Multi-Style Assassin Action**
+- Games: **Stellar Blade — Read → Parry/Dodge → Counter Combat Flow**
+- Games: **Nioh 3 — Samurai / Ninja Style-Shift Combat**
+- Anime: **Demon Slayer: Infinity Castle — Tanjiro & Giyu vs. Akaza Battle Trailer**
+- Martial Arts: **Takeru vs. Rodtang — ONE 172 Full Fight**
+- Stunt / Choreography: **Wick Is Pain — John Wick Stunt Documentary Trailer**
+- AI Action: **ReMoGen — Real-Time Human Interaction-to-Reaction Generation (CVPR 2026)**
 
 ## Curation principles
 
