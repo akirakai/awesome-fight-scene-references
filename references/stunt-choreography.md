@@ -48,3 +48,12 @@
 - Camera / editing: camera handoffs and hidden transitions preserve forward momentum while scale expands from close-quarters fighting to moving vehicles and wider geography.
 - AI-video takeaway: a strong reference for fake-oner generation. Build a 15-second clip as 3 connected modules—close fight → motivated travel/handoff → new threat—and hide the transition behind a body, wall or whip move rather than asking the model for nonstop chaos.
 - Tags: oner, camera-handoff, hidden-cut, close-quarters, pursuit, action-design
+
+## Wick Is Pain — John Wick Stunt Documentary Trailer
+- Watch: https://www.youtube.com/watch?v=LaEjB78QLSE
+- Official franchise page: https://www.lionsgate.com/franchises/john-wick
+- Study: the official documentary trailer offers behind-the-scenes visibility into the physical work, repetition and stunt culture behind the John Wick series.
+- Movement design: useful as a process reference rather than a single fight reference—complex screen action is built from rehearsable physical beats and performer consistency.
+- Camera / editing: the John Wick workflow is a strong reminder that camera route and performer choreography need to be designed together so the body remains readable through extended action.
+- AI-video takeaway: previs the fight physically first. Define 3–4 repeatable movement beats plus one camera path, then layer speed, muzzle flash, debris or stylization after the interaction works.
+- Tags: john-wick, stunt-documentary, rehearsal, physical-performance, previs, camera-choreography, 2025
