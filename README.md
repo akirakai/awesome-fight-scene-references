@@ -53,18 +53,19 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-18
+## Latest additions — 2026-08-19
 
-Full batch: [`references/runs/2026-08-18.md`](references/runs/2026-08-18.md)
+Full batch: [`references/runs/2026-08-19.md`](references/runs/2026-08-19.md)
 
-- Film / TV: **HAVOC — Fishing-Shack Finale / Hard-Contact Close Quarters**
-- Film / TV: **The Shadow Strays — Warehouse / Multi-Style Assassin Action**
-- Games: **Stellar Blade — Read → Parry/Dodge → Counter Combat Flow**
-- Games: **Nioh 3 — Samurai / Ninja Style-Shift Combat**
-- Anime: **Demon Slayer: Infinity Castle — Tanjiro & Giyu vs. Akaza Battle Trailer**
-- Martial Arts: **Takeru vs. Rodtang — ONE 172 Full Fight**
-- Stunt / Choreography: **Wick Is Pain — John Wick Stunt Documentary Trailer**
-- AI Action: **ReMoGen — Real-Time Human Interaction-to-Reaction Generation (CVPR 2026)**
+- Film / TV: **The Gray Man — Dhanush vs. Sierra Six & Dani**
+- Stunt / Choreography: **Stranger Things 5 — Karen vs. Demogorgon Behind the Scenes**
+- Stunt / Choreography: **The Recruit Season 2 — Behind the Action**
+- Games: **Beast of Reincarnation — Parry-Rich Emma & Koo Combat**
+- Anime: **Scum of the Brave — Lord Storm Coffin Confrontation Trailer**
+- Martial Arts: **Rodtang vs. Jiduo Yibu — Kickboxing Full Fight**
+- AI Action: **TIMotion — Human-Human Sparring Motion Generation**
+
+Previous batch: [`references/runs/2026-08-18.md`](references/runs/2026-08-18.md)
 
 ## Curation principles
 
