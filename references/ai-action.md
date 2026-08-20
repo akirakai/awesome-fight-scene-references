@@ -44,3 +44,12 @@
 - Camera / editing: clean research visualizations make temporal causality and interaction errors visible without cinematic cutting masking them.
 - AI-video takeaway: author fights in short reactive windows: Fighter A commits → Fighter B reacts → contact/spacing state changes → the next micro-segment follows from the new state. This is a better control model than generating both fighters independently for 15 seconds.
 - Tags: ai-action, reaction-generation, two-person-interaction, temporal-causality, short-segments, cvpr-2026
+
+## DynaVid — Highly Dynamic Video Generation with Synthetic Motion Data
+- Project / videos: https://jinwonjoon.github.io/DynaVid/
+- Paper: https://openaccess.thecvf.com/content/CVPR2026/html/Jin_Learning_to_Generate_Highly_Dynamic_Videos_using_Synthetic_Motion_Data_CVPR_2026_paper.html
+- Study: a CVPR 2026 system specifically targeting vigorous human motion and extreme camera movement, including highly dynamic camera control.
+- Motion design: the method separates a motion generator that predicts motion/optical flow from a motion-guided RGB video generator, decoupling trajectory planning from appearance rendering.
+- Camera / editing: the public examples include extreme camera motion, making the project useful for thinking about camera trajectory as an independent control signal rather than a by-product of the visual prompt.
+- AI-video takeaway: design fight generation in two layers: first lock body displacement, contact timing and camera path; then render identity, costume, lighting and style. This reduces the temptation to solve motion and appearance simultaneously in one vague prompt.
+- Tags: ai-video, dynamic-motion, optical-flow, camera-control, motion-planning, cvpr-2026
