@@ -41,3 +41,11 @@
 - Camera / editing: broadcast framing usually preserves both fighters, distance and contact point, making footwork and recovery easy to inspect.
 - AI-video takeaway: for believable striking, prompt probe/feint → short burst → block/check or partial miss → immediate stance recovery. Do not make every attack land or both fighters attack continuously.
 - Tags: kickboxing, rodtang, takeru, one-championship, feint, pressure, guard-reset, realistic-combat
+
+## ONE Friday Fights 165 — Petninmungkorn vs. Pet Suanluangrodyok
+- Highlights / results: https://www.onefc.com/news/the-inner-circle-25-and-one-friday-fights-165-results-and-highlights-for-every-match/
+- Study: recent elite Muay Thai footage with real feints, in-and-out movement, partial contacts and tactical resets.
+- Movement design: range probing and shifty feints create the opening; short bursts are followed by defensive recovery or distance reset rather than endless combinations.
+- Camera / editing: broadcast framing keeps both fighters, stance and contact point visible, which is ideal for harvesting short realistic movement references.
+- AI-video takeaway: use a realism rhythm of feint → step in → 2–3 strike burst → block/miss/partial contact → step out → guard reset. Failed attacks are useful realism, not errors.
+- Tags: muay-thai, feint, range-control, guard-reset, realistic-combat, full-body-reference, 2026
