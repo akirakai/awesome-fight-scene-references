@@ -104,3 +104,20 @@
 - Camera / editing: the real-warehouse sequence combines vehicle stunts, gunfire and hand-to-hand action through local exchanges and zone changes instead of one undifferentiated swarm.
 - AI-video takeaway: lock each fighter to one movement vocabulary, weapon and tactical role; move the fight through explicit environment zones rather than letting styles and identities mutate randomly.
 - Tags: shadow-strays, silat, kickboxing, katana, warehouse, character-specific-style, 2024
+
+## Bloodhounds Season 2 — Official Trailer / Underground Boxing
+- Watch / source: https://www.netflix.com/tudum/articles/bloodhounds-season-2-release-date-trailer-news
+- Study: recent grounded boxing action built around compact combinations, pressure and readable two-person exchanges rather than constant spectacle.
+- Movement design: probe → 2–3 punch burst → body shot or clinch pressure → brief reset; the rhythm leaves room for misses, defense and recovery.
+- Camera / editing: close enough for impact while preserving torso, guard and foot position so the viewer can read why each counter works.
+- AI-video takeaway: for realistic boxing, define short attack-response phrases and explicit resets. Do not make both fighters throw nonstop or make every punch land.
+- Tags: boxing, close-quarters, grounded-action, attack-response, guard-reset, 2026
+
+## Police Story (1985) — Shopping Mall Fight
+- Watch: https://www.youtube.com/watch?v=H_vt2dcTg78
+- Canonical source: https://www.criterion.com/films/29544-police-story
+- Study: environmental choreography where architecture, shelves, glass and vertical levels continuously create the next action problem.
+- Movement design: short hand-to-hand exchanges are linked by prop use, falls, climbs, slides and collisions so the environment changes the move vocabulary every few seconds.
+- Camera / editing: medium and wide framings preserve full-body stunt readability; spectacle comes from choreography and practical interaction rather than hiding action in cuts.
+- AI-video takeaway: for a 15-second environmental fight, define 3–4 stations—display shelf → railing → glass panel → lower level—and attach one clear physical beat to each station.
+- Tags: jackie-chan, environmental-action, mall-fight, practical-stunts, props, spatial-continuity
