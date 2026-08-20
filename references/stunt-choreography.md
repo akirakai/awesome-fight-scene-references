@@ -57,3 +57,19 @@
 - Camera / editing: the John Wick workflow is a strong reminder that camera route and performer choreography need to be designed together so the body remains readable through extended action.
 - AI-video takeaway: previs the fight physically first. Define 3–4 repeatable movement beats plus one camera path, then layer speed, muzzle flash, debris or stylization after the interaction works.
 - Tags: john-wick, stunt-documentary, rehearsal, physical-performance, previs, camera-choreography, 2025
+
+## Stranger Things 5 — MAC-Z Battle Behind the Scenes
+- Watch: https://www.netflix.com/tudum/videos/stranger-scenes-chapter-four
+- Study: the official breakdown shows a full action-production pipeline from sketches and storyboards through previs, stunt rehearsal, camera choreography and CG stand-ins.
+- Movement design: multiple foreground, midground and background events are assigned separate tasks so a large creature battle remains legible instead of becoming one undifferentiated swarm.
+- Camera / editing: parts of the attack are designed to feel like a documentary-style continuous move; the operator memorizes stunt beats, matches frames between pieces and uses hidden splices to preserve momentum.
+- AI-video takeaway: treat the camera path as choreography. Lock eyelines and creature scale with stand-ins, assign one action to each depth layer, and hide transitions behind motivated camera or foreground movement.
+- Tags: previs, stunt-vis, creature-fight, hidden-cut, camera-choreography, eyeline, 2026
+
+## Rurouni Kenshin: The Beginning / The Final — Road To Kenshin Special Edition
+- Source / official making-of hub: https://wwws.warnerbros.co.jp/rurouni-kenshin2020/news/
+- Study: official production material for a live-action sword series known for committed performer movement, grounded footwork and explosive but readable sword exchanges.
+- Movement design: weapon arcs, entries, evasions and body turns are rehearsed as connected physical phrases before cinematic speed and impact are layered on top.
+- Camera / editing: camera position stays tied to attack direction and performer spacing, helping fast sword motion remain understandable even when the pace spikes.
+- AI-video takeaway: first define attack side, sword path, parry side and recovery pose; only after those are stable should the prompt add speed ramps, cloth motion or impact effects.
+- Tags: swordfight, samurai, live-action, rehearsal, weapon-arc, camera-side, stunt-choreography
