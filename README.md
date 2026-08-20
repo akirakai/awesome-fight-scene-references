@@ -53,19 +53,21 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-19
+## Latest additions — 2026-08-20
 
-Full batch: [`references/runs/2026-08-19.md`](references/runs/2026-08-19.md)
+Full batch: [`references/runs/2026-08-20.md`](references/runs/2026-08-20.md)
 
-- Film / TV: **The Gray Man — Dhanush vs. Sierra Six & Dani**
-- Stunt / Choreography: **Stranger Things 5 — Karen vs. Demogorgon Behind the Scenes**
-- Stunt / Choreography: **The Recruit Season 2 — Behind the Action**
-- Games: **Beast of Reincarnation — Parry-Rich Emma & Koo Combat**
-- Anime: **Scum of the Brave — Lord Storm Coffin Confrontation Trailer**
-- Martial Arts: **Rodtang vs. Jiduo Yibu — Kickboxing Full Fight**
-- AI Action: **TIMotion — Human-Human Sparring Motion Generation**
+- Film / TV: **Bloodhounds Season 2 — Official Trailer / Underground Boxing**
+- Film / TV: **Police Story (1985) — Shopping Mall Fight**
+- Stunt / Choreography: **Stranger Things 5 — MAC-Z Battle Behind the Scenes**
+- Stunt / Choreography: **Rurouni Kenshin: The Beginning / The Final — Road To Kenshin Special Edition**
+- Games: **Castlevania: Belmont’s Curse — Fast & Fluid Combat**
+- Games: **Crimson Moon — Two-Player Co-op Boss Combat**
+- Anime: **Sekiro: No Defeat — Official Theatrical Trailer**
+- Martial Arts: **ONE Friday Fights 165 — Petninmungkorn vs. Pet Suanluangrodyok**
+- AI Action: **DynaVid — Highly Dynamic Video Generation with Synthetic Motion Data**
 
-Previous batch: [`references/runs/2026-08-18.md`](references/runs/2026-08-18.md)
+Previous batch: [`references/runs/2026-08-19.md`](references/runs/2026-08-19.md)
 
 ## Curation principles
 
