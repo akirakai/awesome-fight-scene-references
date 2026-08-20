@@ -90,3 +90,19 @@
 - Camera / editing: the same locked combat camera makes the style change legible through stance, speed and movement vocabulary rather than relying on cuts.
 - AI-video takeaway: useful as a state-machine prompt: defensive samurai stance → exact deflect → instant style switch → agile flank/burst → clean exit and reset. A single explicit mode change can make a 15-second fight feel much more structured.
 - Tags: nioh-3, samurai, ninja, style-switch, deflect, flank, state-machine, 2026
+
+## Castlevania: Belmont’s Curse — Fast & Fluid Combat
+- Source: https://blog.playstation.com/2026/07/17/castlevania-belmonts-curse-hands-on-report/
+- Study: recent combat design that keeps movement vocabulary distinct across evades, whip grapples and multiple weapon classes.
+- Movement design: dodge / slide / backflip repositioning feeds directly into counterattacks; the Arcana Whip can become a grapple for traversal or an attack connector; weapon choice changes range and timing.
+- Camera / editing: side-on gameplay presentation makes approach distance, backdash timing and environmental hazards easy to read.
+- AI-video takeaway: assign one tactical rule to each weapon state—for example backdash → longsword counter, grapple → swing attack, close gap → cestus combo—and keep state changes explicit.
+- Tags: castlevania, whip, grapple, backdash, weapon-state, action-platformer, 2026
+
+## Crimson Moon — Two-Player Co-op Boss Combat
+- Source: https://blog.playstation.com/2026/08/04/crimson-moon-battles-demonic-corruption-on-september-1/
+- Study: a recent two-player action game whose co-op structure is useful for studying partner roles against much larger enemies.
+- Movement design: coordinated Weapon Arts, shared survival pressure and revive moments create clean role handoffs rather than two heroes attacking independently at all times.
+- Camera / editing: boss-scale framing needs to preserve both partner positions, the boss telegraph and the active contact point.
+- AI-video takeaway: for hero + partner vs. giant, write a role chain such as A draws aggro → B commits one assist → boss reacts/state changes → A rescues or repositions → both reset. Keep only one focal interaction at a time.
+- Tags: co-op, boss-fight, two-player, role-handoff, giant-enemy, partner-combat, 2026
