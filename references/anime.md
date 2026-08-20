@@ -58,3 +58,12 @@
 - Camera / editing: directional cuts and VFX bridges connect anchor poses instead of attempting to show every transition at equal detail.
 - AI-video takeaway: for a 15-second anime fight, define 3–4 anchor poses—approach → clash → displaced recovery → finishing attempt—then use speed effects only between those poses. Keep attack direction consistent across cuts.
 - Tags: demon-slayer, infinity-castle, anime-duel, two-vs-one, impact-pose, effect-bridge, 2025
+
+## Sekiro: No Defeat — Official Theatrical Trailer
+- Watch: https://www.youtube.com/watch?v=IanqpvZsp_s
+- Source: https://www.crunchyroll.com/news/latest/2026/6/26/sekiro-no-defeat-anime-theatrical-trailer
+- Study: a current anime sword-action reference built around low shinobi stances, committed directional attacks and readable clash/parry poses.
+- Movement design: strong guard pose → sudden approach → sword clash/parry → displacement → counter; extreme speed is anchored by a few clear body silhouettes.
+- Camera / editing: cuts land on guard, clash and recovery poses while sparks and motion effects bridge the fastest travel.
+- AI-video takeaway: for anime sword combat, define 3–4 anchor poses and preserve attack direction across cuts. Let effects bridge transitions instead of asking the model to invent every micro-step at maximum speed.
+- Tags: sekiro, anime-swordfight, parry, shinobi, impact-pose, pose-anchor, 2026
