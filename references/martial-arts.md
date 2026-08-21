@@ -49,3 +49,12 @@
 - Camera / editing: broadcast framing keeps both fighters, stance and contact point visible, which is ideal for harvesting short realistic movement references.
 - AI-video takeaway: use a realism rhythm of feint → step in → 2–3 strike burst → block/miss/partial contact → step out → guard reset. Failed attacks are useful realism, not errors.
 - Tags: muay-thai, feint, range-control, guard-reset, realistic-combat, full-body-reference, 2026
+
+## ONE SAMURAI 2 — Masaaki Noiri vs. Liu Mengyang II
+- Highlights / results: https://www.onefc.com/news/one-samurai-2-results-and-highlights-for-every-match/
+- Full event replay: https://watch.onefc.com/events/one-samurai-2
+- Study: an August 8, 2026 elite kickboxing rematch that is useful for authentic distance management, stance recovery and how a short fight builds toward a decisive finish.
+- Movement design: probing and defensive reads precede committed combinations; the exchange shows how one fighter converts a small opening into a short high-confidence burst rather than attacking continuously.
+- Camera / editing: broadcast coverage keeps both fighters, guard positions, footwork and the contact line readable, making it strong reference footage for pose and timing extraction.
+- AI-video takeaway: use a realistic rhythm of feint/probe → distance close → 2–3 strike commitment → defensive response → reset or decisive finish. Preserve failed/partial attacks and guard recovery so the fight does not feel choreographed by a metronome.
+- Tags: one-samurai-2, noiri, liu-mengyang, kickboxing, 2026, distance-management, guard-reset, realistic-combat
