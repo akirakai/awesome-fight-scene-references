@@ -121,3 +121,30 @@
 - Camera / editing: medium and wide framings preserve full-body stunt readability; spectacle comes from choreography and practical interaction rather than hiding action in cuts.
 - AI-video takeaway: for a 15-second environmental fight, define 3–4 stations—display shelf → railing → glass panel → lower level—and attach one clear physical beat to each station.
 - Tags: jackie-chan, environmental-action, mall-fight, practical-stunts, props, spatial-continuity
+
+## Mutiny (2026) — “Face Off” Cargo-Ship Corridor Fight
+- Watch: https://www.rottentomatoes.com/m/mutiny_2026/videos/0nl9zucLeOC0
+- Official trailer hub: https://www.lionsgate.com/movies/
+- Study: very compact close-quarters action inside a cargo-ship passage, where the narrow geometry naturally limits movement choices and keeps contact readable.
+- Movement design: short punches, elbows, grapples and wall/container impacts form a direct cause-and-response chain instead of a long freeform combo.
+- Camera / editing: medium-close coverage stays aligned with the corridor axis, preserving torso and arm movement while the walls provide strong spatial anchors.
+- AI-video takeaway: constrain a 15-second fight to one narrow corridor and four beats—entry → wall contact/counter → angle reversal → finish. Let the environment reduce degrees of freedom instead of asking for more moves.
+- Tags: mutiny, 2026, cargo-ship, corridor, close-quarters, narrow-space, wall-contact
+
+## The Furious (2026) — Wide, Long-Take Multi-Fighter Choreography
+- Watch: https://www.youtube.com/watch?v=Avky8dVaqAI
+- Choreography / camera interview: https://elementsofmadness.com/2026/06/06/ktanigaki/
+- Five-way fight breakdown: https://screenanarchy.com/2026/06/the-furious-interviews-director-kenji-tanigaki-and-producer-bill-kong.html
+- Study: Kenji Tanigaki deliberately favors wider, cleaner, longer shots so performer skill and multi-person choreography remain visible.
+- Movement design: the final five-way fight is structured as role handoffs among three opposing sides; one fighter’s counter immediately changes who becomes the next active pair.
+- Camera / editing: the DP joined stunt rehearsal about six weeks before production so camera timing could be learned with the choreography; key motion is kept near the center of frame.
+- AI-video takeaway: for 3+ fighters, define one active pair plus one interrupter at a time, keep the decisive contact centered, and rehearse the camera path against the action plan before adding speed or VFX.
+- Tags: the-furious, 2026, multi-fighter, five-way-fight, wide-shot, long-take, camera-choreography
+
+## The Protector (2005) — Staircase Oner
+- Watch: https://www.imdb.com/video/vi646562841/
+- Study: Tony Jaa’s famous vertical staircase sequence moves through multiple floors as one continuous action progression rather than a collection of disconnected exchanges.
+- Movement design: a new attacker enters at each spatial checkpoint; Jaa resolves the immediate problem, reorients, and continues upward, giving the long take a natural modular rhythm.
+- Camera / editing: the moving camera follows the climb while landings, corners and floor changes become visual resets that preserve geography.
+- AI-video takeaway: for a believable oner, design three spatial stations and one short interaction per station. Use architecture as pacing punctuation instead of filling the whole 15 seconds with uninterrupted micro-combos.
+- Tags: tony-jaa, staircase, oner, vertical-progression, spatial-stations, classic-action
