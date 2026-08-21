@@ -106,3 +106,20 @@
 - Camera / editing: boss-scale framing needs to preserve both partner positions, the boss telegraph and the active contact point.
 - AI-video takeaway: for hero + partner vs. giant, write a role chain such as A draws aggro → B commits one assist → boss reacts/state changes → A rescues or repositions → both reset. Keep only one focal interaction at a time.
 - Tags: co-op, boss-fight, two-player, role-handoff, giant-enemy, partner-combat, 2026
+
+## Ghost of Yōtei Complete Edition — Most Wanted Combat Survival Trailer
+- Source / trailer: https://blog.playstation.com/2026/08/12/ghost-of-yotei-complete-edition-comes-to-ps5-october-1/
+- Study: the new Most Wanted mode makes weapon identity especially easy to compare because Atsu, Oyuki and Nagato are shown as specialists in dual katana, kusarigama and yari respectively.
+- Movement design: each weapon imposes a different range, silhouette and movement vocabulary, making the footage useful for studying how combat identity can remain stable even when characters share the same environment and enemy pool.
+- Camera / editing: the gameplay camera preserves enough distance to read weapon arcs and target direction while still accelerating toward impact moments.
+- AI-video takeaway: lock each character to one weapon state and one movement grammar; only change weapon or locomotion rule at an explicit state transition. This reduces style mutation and identity confusion in multi-character action.
+- Tags: ghost-of-yotei, 2026, dual-katana, kusarigama, yari, weapon-identity, survival-mode
+
+## CONTROL Resonant — Official Gameplay Reveal
+- Watch: https://www.youtube.com/watch?v=RJTBoQhWaC0
+- Developer breakdown: https://blog.playstation.com/2026/02/12/new-gameplay-details-on-control-resonants-supernatural-action/
+- Study: Remedy’s first extended gameplay reveal combines shapeshifting weapon forms, supernatural abilities, ground/air combat and gravity-distorted traversal inside the same encounter language.
+- Movement design: the Aberrant changes form on demand, so weapon morphology becomes a visible tactical transition rather than a purely cosmetic effect; abilities and combos then branch from that state.
+- Camera / editing: the third-person camera preserves Dylan’s orientation through vertical movement and environmental distortion, which helps the viewer understand cause and direction despite heavy VFX.
+- AI-video takeaway: when generating supernatural combat, make every major transformation explicit—base weapon → morph frame → new attack rule—and keep camera orientation stable during the transition. Add environmental distortion after the body/weapon state is readable.
+- Tags: control-resonant, 2026, shapeshifting-weapon, supernatural-combat, state-transition, vertical-action, gravity
