@@ -73,3 +73,11 @@
 - Camera / editing: camera position stays tied to attack direction and performer spacing, helping fast sword motion remain understandable even when the pace spikes.
 - AI-video takeaway: first define attack side, sword path, parry side and recovery pose; only after those are stable should the prompt add speed ramps, cloth motion or impact effects.
 - Tags: swordfight, samurai, live-action, rehearsal, weapon-arc, camera-side, stunt-choreography
+
+## Everything Everywhere All at Once — How the Kung Fu Fights Were Shot
+- Watch: https://www.youtube.com/watch?v=psWUuuoYMy8
+- Study: stunt coordinator Timothy Eulich and fight choreographers Andy and Brian Le explain how the film’s fights were planned and executed largely inside one warehouse, drawing from Hong Kong action, Jackie Chan, breakdancing and parkour.
+- Movement design: ordinary props and location constraints become movement mechanics, so each short exchange has a visual idea rather than merely adding more strikes.
+- Camera / editing: the choreography is designed for specific framing and performer capability, letting the camera reveal full-body movement when the physical gag or technique matters most.
+- AI-video takeaway: assign one prop or spatial constraint to one action phrase, previs that phrase with the camera, then move to the next idea. This is a strong recipe for distinctive 15-second action without random move stacking.
+- Tags: everything-everywhere-all-at-once, martial-club, stunt-breakdown, prop-choreography, warehouse, hong-kong-action, camera-planning
