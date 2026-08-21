@@ -53,3 +53,12 @@
 - Camera / editing: the public examples include extreme camera motion, making the project useful for thinking about camera trajectory as an independent control signal rather than a by-product of the visual prompt.
 - AI-video takeaway: design fight generation in two layers: first lock body displacement, contact timing and camera path; then render identity, costume, lighting and style. This reduces the temptation to solve motion and appearance simultaneously in one vague prompt.
 - Tags: ai-video, dynamic-motion, optical-flow, camera-control, motion-planning, cvpr-2026
+
+## HumanX — Reactive Fighting Learned from Human Videos
+- Project / demos: https://wyhuai.github.io/human-x/
+- Paper: https://arxiv.org/abs/2602.02473
+- Study: a 2026 framework that compiles human video into physically plausible, generalizable humanoid interaction skills and explicitly evaluates reactive fighting among its interaction domains.
+- Movement design: HumanX separates data synthesis from interaction-skill learning, which makes it useful for thinking about a fight as an initiator trajectory plus a physically conditioned response rather than two independent motions.
+- Camera / editing: the research demos remove cinematic cutting, exposing whether timing, balance, spacing and reaction are physically coherent before any visual style is added.
+- AI-video takeaway: author combat in paired causal windows—A commits → B reacts to the observed trajectory → contact/avoidance changes body state → both recover from the new state. Solve interaction physics first, then add camera and cinematic appearance.
+- Tags: humanx, ai-action, reactive-fighting, human-video, physical-interaction, causal-response, 2026
