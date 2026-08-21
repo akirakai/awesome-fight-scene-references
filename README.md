@@ -53,21 +53,21 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-20
+## Latest additions — 2026-08-21
 
-Full batch: [`references/runs/2026-08-20.md`](references/runs/2026-08-20.md)
+Full batch: [`references/runs/2026-08-21.md`](references/runs/2026-08-21.md)
 
-- Film / TV: **Bloodhounds Season 2 — Official Trailer / Underground Boxing**
-- Film / TV: **Police Story (1985) — Shopping Mall Fight**
-- Stunt / Choreography: **Stranger Things 5 — MAC-Z Battle Behind the Scenes**
-- Stunt / Choreography: **Rurouni Kenshin: The Beginning / The Final — Road To Kenshin Special Edition**
-- Games: **Castlevania: Belmont’s Curse — Fast & Fluid Combat**
-- Games: **Crimson Moon — Two-Player Co-op Boss Combat**
-- Anime: **Sekiro: No Defeat — Official Theatrical Trailer**
-- Martial Arts: **ONE Friday Fights 165 — Petninmungkorn vs. Pet Suanluangrodyok**
-- AI Action: **DynaVid — Highly Dynamic Video Generation with Synthetic Motion Data**
+- Film / TV: **Mutiny (2026) — “Face Off” Cargo-Ship Corridor Fight**
+- Film / TV: **The Furious (2026) — Wide, Long-Take Multi-Fighter Choreography**
+- Film / TV: **The Protector (2005) — Staircase Oner**
+- Games: **Ghost of Yōtei Complete Edition — Most Wanted Combat Survival Trailer**
+- Games: **CONTROL Resonant — Official Gameplay Reveal**
+- Anime: **The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life — Action Trailer**
+- Martial Arts: **ONE SAMURAI 2 — Masaaki Noiri vs. Liu Mengyang II**
+- Stunt / Choreography: **Everything Everywhere All at Once — How the Kung Fu Fights Were Shot**
+- AI Action: **HumanX — Reactive Fighting Learned from Human Videos**
 
-Previous batch: [`references/runs/2026-08-19.md`](references/runs/2026-08-19.md)
+Previous batch: [`references/runs/2026-08-20.md`](references/runs/2026-08-20.md)
 
 ## Curation principles
 
