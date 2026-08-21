@@ -67,3 +67,11 @@
 - Camera / editing: cuts land on guard, clash and recovery poses while sparks and motion effects bridge the fastest travel.
 - AI-video takeaway: for anime sword combat, define 3–4 anchor poses and preserve attack direction across cuts. Let effects bridge transitions instead of asking the model to invent every micro-step at maximum speed.
 - Tags: sekiro, anime-swordfight, parry, shinobi, impact-pose, pose-anchor, 2026
+
+## The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life — Action Trailer
+- Watch / source: https://www.crunchyroll.com/news/latest/2026/8/12/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-anime-action-trailer
+- Study: an August 2026 action-focused trailer from P.A. Works that contrasts readable weapon/body poses with sudden magical enhancement bursts.
+- Movement design: physical setup and directional attacks stay legible before power amplification changes scale, speed or impact, which keeps the fantasy action from becoming uniform visual noise.
+- Camera / editing: strong pose anchors and brief effect-heavy transitions make the enhancement state change obvious without requiring every in-between motion to be fully shown.
+- AI-video takeaway: structure fantasy combat as grounded pose → physical action → explicit enhancement trigger → amplified impact pose. Keep magic as a state change, not a constant full-screen layer.
+- Tags: anime-action, 2026, magic-enhancement, pose-anchor, state-change, fantasy-combat
