@@ -53,21 +53,19 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-21
+## Latest additions — 2026-08-22
 
-Full batch: [`references/runs/2026-08-21.md`](references/runs/2026-08-21.md)
+Full batch: [`references/runs/2026-08-22.md`](references/runs/2026-08-22.md)
 
-- Film / TV: **Mutiny (2026) — “Face Off” Cargo-Ship Corridor Fight**
-- Film / TV: **The Furious (2026) — Wide, Long-Take Multi-Fighter Choreography**
-- Film / TV: **The Protector (2005) — Staircase Oner**
-- Games: **Ghost of Yōtei Complete Edition — Most Wanted Combat Survival Trailer**
-- Games: **CONTROL Resonant — Official Gameplay Reveal**
-- Anime: **The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life — Action Trailer**
-- Martial Arts: **ONE SAMURAI 2 — Masaaki Noiri vs. Liu Mengyang II**
-- Stunt / Choreography: **Everything Everywhere All at Once — How the Kung Fu Fights Were Shot**
-- AI Action: **HumanX — Reactive Fighting Learned from Human Videos**
+- Film / TV: **Nobody 2 — Elevator Fight**
+- Games: **Vapor World: Over The Mind — Deflection Combat**
+- Anime: **From Old Country Bumpkin to Master Swordsman Season 2 — Special Action Trailer**
+- Martial Arts: **ONE Fight Night 46 — Stella Hemetsberger vs. Natalia Diachkova**
+- Stunt / Choreography: **Furiosa: A Mad Max Saga — “Stowaway” Behind the Scenes**
+- Stunt / Choreography: **Cobra Kai — “Sam LaRusso Fights Herself” Shot by Shot**
+- AI Action: **InterCMDM — Block-Causal Diffusion for Autoregressive Human Interaction Generation**
 
-Previous batch: [`references/runs/2026-08-20.md`](references/runs/2026-08-20.md)
+Previous batch: [`references/runs/2026-08-21.md`](references/runs/2026-08-21.md)
 
 ## Curation principles
 
