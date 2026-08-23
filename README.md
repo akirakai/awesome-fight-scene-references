@@ -53,19 +53,20 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-22
+## Latest additions — 2026-08-23
 
-Full batch: [`references/runs/2026-08-22.md`](references/runs/2026-08-22.md)
+Full batch: [`references/runs/2026-08-23.md`](references/runs/2026-08-23.md)
 
-- Film / TV: **Nobody 2 — Elevator Fight**
-- Games: **Vapor World: Over The Mind — Deflection Combat**
-- Anime: **From Old Country Bumpkin to Master Swordsman Season 2 — Special Action Trailer**
-- Martial Arts: **ONE Fight Night 46 — Stella Hemetsberger vs. Natalia Diachkova**
-- Stunt / Choreography: **Furiosa: A Mad Max Saga — “Stowaway” Behind the Scenes**
-- Stunt / Choreography: **Cobra Kai — “Sam LaRusso Fights Herself” Shot by Shot**
-- AI Action: **InterCMDM — Block-Causal Diffusion for Autoregressive Human Interaction Generation**
+- Film / TV: **Monkey Man — Kitchen Fight**
+- Games: **Son of Thanjai — Surul Vaal / Kalaripayattu-inspired combat**
+- Anime: **SAKAMOTO DAYS Season 2 — Official Teaser Trailer**
+- Martial Arts: **ONE Friday Fights 167 — Kongsuk vs. Dedduanglek**
+- Stunt / Choreography: **The Fall Guy — Introducing the Stunt Team**
+- Stunt / Choreography: **M3GAN 2.0 — Character-Specific Fight Choreography**
+- Stunt / Choreography: **The Night Comes for Us — Fight Scene Breakdown**
+- AI Action: **UniMoCa — Unified Motion + Camera Control**
 
-Previous batch: [`references/runs/2026-08-21.md`](references/runs/2026-08-21.md)
+Previous batch: [`references/runs/2026-08-22.md`](references/runs/2026-08-22.md)
 
 ## Curation principles
 
