@@ -53,20 +53,20 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-23
+## Latest additions — 2026-08-24
 
-Full batch: [`references/runs/2026-08-23.md`](references/runs/2026-08-23.md)
+Full batch: [`references/runs/2026-08-24.md`](references/runs/2026-08-24.md)
 
-- Film / TV: **Monkey Man — Kitchen Fight**
-- Games: **Son of Thanjai — Surul Vaal / Kalaripayattu-inspired combat**
-- Anime: **SAKAMOTO DAYS Season 2 — Official Teaser Trailer**
-- Martial Arts: **ONE Friday Fights 167 — Kongsuk vs. Dedduanglek**
-- Stunt / Choreography: **The Fall Guy — Introducing the Stunt Team**
-- Stunt / Choreography: **M3GAN 2.0 — Character-Specific Fight Choreography**
-- Stunt / Choreography: **The Night Comes for Us — Fight Scene Breakdown**
-- AI Action: **UniMoCa — Unified Motion + Camera Control**
+- Film / TV: **HUMINT — Stairway / Grounded Close Combat**
+- Film / TV: **Rebel Ridge — Non-Lethal Tactical Hand-to-Hand**
+- Film / TV: **Masters of the Universe — Snake Mountain 1-vs-Many**
+- Games: **Resonance: A Plague Tale Legacy — One-vs-Many Close-Quarters Combat**
+- Games: **007 First Light — Spycraft to Hand-to-Hand / Gunplay State Changes**
+- Anime: **JUJUTSU KAISEN — The Culling Game Official Trailer**
+- Martial Arts: **Lumpinee Super Champ — 22 August 2026**
+- AI Action: **PINO — Person-Interaction Noise Optimization**
 
-Previous batch: [`references/runs/2026-08-22.md`](references/runs/2026-08-22.md)
+Previous batch: [`references/runs/2026-08-23.md`](references/runs/2026-08-23.md)
 
 ## Curation principles
 
