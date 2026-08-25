@@ -53,20 +53,20 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-24
+## Latest additions — 2026-08-25
 
-Full batch: [`references/runs/2026-08-24.md`](references/runs/2026-08-24.md)
+Full batch: [`references/runs/2026-08-25.md`](references/runs/2026-08-25.md)
 
-- Film / TV: **HUMINT — Stairway / Grounded Close Combat**
-- Film / TV: **Rebel Ridge — Non-Lethal Tactical Hand-to-Hand**
-- Film / TV: **Masters of the Universe — Snake Mountain 1-vs-Many**
-- Games: **Resonance: A Plague Tale Legacy — One-vs-Many Close-Quarters Combat**
-- Games: **007 First Light — Spycraft to Hand-to-Hand / Gunplay State Changes**
-- Anime: **JUJUTSU KAISEN — The Culling Game Official Trailer**
-- Martial Arts: **Lumpinee Super Champ — 22 August 2026**
-- AI Action: **PINO — Person-Interaction Noise Optimization**
+- Film / TV: **Ip Man 3 — Elevator Fight**
+- Film / TV: **The Villainess — Motorcycle Sword Fight**
+- Film / TV: **John Wick: Chapter 4 — Top-Down Shootout**
+- Stunt / Choreography: **Oldboy — Park Chan-wook Corridor Fight Breakdown**
+- Games: **Invincible VS — 3v3 Tag Combat**
+- Anime: **THE RIBBON HERO — Official Trailer**
+- Martial Arts: **Banluelok vs. Songchainoi — The Inner Circle 27 (2026-08-21)**
+- AI Action: **MAGNet — Multi-Agent Diffusion Forcing Transformer**
 
-Previous batch: [`references/runs/2026-08-23.md`](references/runs/2026-08-23.md)
+Previous batch: [`references/runs/2026-08-24.md`](references/runs/2026-08-24.md)
 
 ## Curation principles
 
