@@ -53,20 +53,19 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-25
+## Latest additions — 2026-08-26
 
-Full batch: [`references/runs/2026-08-25.md`](references/runs/2026-08-25.md)
+Full batch: [`references/runs/2026-08-26.md`](references/runs/2026-08-26.md)
 
-- Film / TV: **Ip Man 3 — Elevator Fight**
-- Film / TV: **The Villainess — Motorcycle Sword Fight**
-- Film / TV: **John Wick: Chapter 4 — Top-Down Shootout**
-- Stunt / Choreography: **Oldboy — Park Chan-wook Corridor Fight Breakdown**
-- Games: **Invincible VS — 3v3 Tag Combat**
-- Anime: **THE RIBBON HERO — Official Trailer**
-- Martial Arts: **Banluelok vs. Songchainoi — The Inner Circle 27 (2026-08-21)**
-- AI Action: **MAGNet — Multi-Agent Diffusion Forcing Transformer**
+- Film / TV: **BEAST (2026) — Title Match / Distinct Fighter Grammars**
+- Film / TV: **Carter (2022) — Faux One-Cut Action / Seamless Camera Handoffs**
+- Games: **Black Myth: Zhong Kui — 15-Minute Gameplay Demo (2026-08-20)**
+- Anime: **BAKI-DOU: The Invincible Samurai — Official Trailer**
+- Martial Arts: **Yokkiri TN Muaythai vs. Ali Al-Kinani — ONE Friday Fights 167 (2026-08-21)**
+- Stunt / Choreography: **The Bluff (2026) — Sword-Fight Training / Duel Preparation**
+- AI Action: **Motion In-Betweening for Densely Interacting Characters — Dynamic Boxing Demo**
 
-Previous batch: [`references/runs/2026-08-24.md`](references/runs/2026-08-24.md)
+Previous batch: [`references/runs/2026-08-25.md`](references/runs/2026-08-25.md)
 
 ## Curation principles
 
