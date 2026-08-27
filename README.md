@@ -53,19 +53,19 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-26
+## Latest additions — 2026-08-27
 
-Full batch: [`references/runs/2026-08-26.md`](references/runs/2026-08-26.md)
+Full batch: [`references/runs/2026-08-27.md`](references/runs/2026-08-27.md)
 
-- Film / TV: **BEAST (2026) — Title Match / Distinct Fighter Grammars**
-- Film / TV: **Carter (2022) — Faux One-Cut Action / Seamless Camera Handoffs**
-- Games: **Black Myth: Zhong Kui — 15-Minute Gameplay Demo (2026-08-20)**
-- Anime: **BAKI-DOU: The Invincible Samurai — Official Trailer**
-- Martial Arts: **Yokkiri TN Muaythai vs. Ali Al-Kinani — ONE Friday Fights 167 (2026-08-21)**
-- Stunt / Choreography: **The Bluff (2026) — Sword-Fight Training / Duel Preparation**
-- AI Action: **Motion In-Betweening for Densely Interacting Characters — Dynamic Boxing Demo**
+- Film / TV: **Mortal Kombat II — “GET OVER HERE!” Scorpion Clip**
+- Games: **Fable — Official Quest Gameplay / First Combat Demo at gamescom 2026**
+- Anime: **THUNDER 3 — Shibuya Guerrilla Battle Mid-Season Trailer**
+- Anime: **Tokyo Revengers: War of the Three Titans Arc — 4th Trailer**
+- Martial Arts: **Kajornklai vs. Tewadalek — ONE Friday Fights 167**
+- Stunt / Choreography: **SAKAMOTO DAYS (2026 Live Action) — Action Making PV #1**
+- AI Action: **DualFlow — Interactive + Reactive Two-Person Motion Generation (ICLR 2026)**
 
-Previous batch: [`references/runs/2026-08-25.md`](references/runs/2026-08-25.md)
+Previous batch: [`references/runs/2026-08-26.md`](references/runs/2026-08-26.md)
 
 ## Curation principles
 
