@@ -53,19 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-27
+## Latest additions — 2026-08-28
 
-Full batch: [`references/runs/2026-08-27.md`](references/runs/2026-08-27.md)
+Full batch: [`references/runs/2026-08-28.md`](references/runs/2026-08-28.md)
 
-- Film / TV: **Mortal Kombat II — “GET OVER HERE!” Scorpion Clip**
-- Games: **Fable — Official Quest Gameplay / First Combat Demo at gamescom 2026**
-- Anime: **THUNDER 3 — Shibuya Guerrilla Battle Mid-Season Trailer**
-- Anime: **Tokyo Revengers: War of the Three Titans Arc — 4th Trailer**
-- Martial Arts: **Kajornklai vs. Tewadalek — ONE Friday Fights 167**
-- Stunt / Choreography: **SAKAMOTO DAYS (2026 Live Action) — Action Making PV #1**
-- AI Action: **DualFlow — Interactive + Reactive Two-Person Motion Generation (ICLR 2026)**
+- Film / TV: **Flash Point (2007) — Donnie Yen MMA-style fight showcase**
+- Games: **Tides of Annihilation — gamescom 2026 “Beneath the Veil”**, **Warlock: Dungeons & Dragons — first gameplay reveal**
+- Anime: **Wistoria: Wand and Sword Season 2 — New Chapter Trailer**
+- Martial Arts: **Rodtang vs. Superlek — full Muay Thai fight replay**
+- Stunt / Choreography: **SAKAMOTO DAYS (2026 Live Action) — Action Making PV #2**
+- AI Action: **Multi-Person Physics-Based Pose Estimation for Combat Sports — boxing reconstruction**
 
-Previous batch: [`references/runs/2026-08-26.md`](references/runs/2026-08-26.md)
+Previous batch: [`references/runs/2026-08-27.md`](references/runs/2026-08-27.md)
 
 ## Curation principles
 
