@@ -53,18 +53,17 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-28
+## Latest additions — 2026-08-29
 
-Full batch: [`references/runs/2026-08-28.md`](references/runs/2026-08-28.md)
+Full batch: [`references/runs/2026-08-29.md`](references/runs/2026-08-29.md)
 
-- Film / TV: **Flash Point (2007) — Donnie Yen MMA-style fight showcase**
-- Games: **Tides of Annihilation — gamescom 2026 “Beneath the Veil”**, **Warlock: Dungeons & Dragons — first gameplay reveal**
-- Anime: **Wistoria: Wand and Sword Season 2 — New Chapter Trailer**
-- Martial Arts: **Rodtang vs. Superlek — full Muay Thai fight replay**
-- Stunt / Choreography: **SAKAMOTO DAYS (2026 Live Action) — Action Making PV #2**
-- AI Action: **Multi-Person Physics-Based Pose Estimation for Combat Sports — boxing reconstruction**
+- Film / TV: **Bullet Train — The Wolf Fight**, **Captain America: The Winter Soldier — Elevator Fight**, **Reacher — Prison Fight**, **Obliterated — Finale Kitchen Fight**
+- Games: **Virtua Fighter Crossroads — Battle Showcase**
+- Anime: **Tojima Wants to Be a Kamen Rider — Decisive Battle Trailer**
+- Martial Arts: **ONE Friday Fights 168 — Wuttikrai vs. Mohammad Habibpour**
+- AI Action: **PhyGenHOI — Physically-Aware Human-Object Interaction**
 
-Previous batch: [`references/runs/2026-08-27.md`](references/runs/2026-08-27.md)
+Previous batch: [`references/runs/2026-08-28.md`](references/runs/2026-08-28.md)
 
 ## Curation principles
 
