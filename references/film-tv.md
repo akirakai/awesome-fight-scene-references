@@ -148,3 +148,29 @@
 - Camera / editing: the moving camera follows the climb while landings, corners and floor changes become visual resets that preserve geography.
 - AI-video takeaway: for a believable oner, design three spatial stations and one short interaction per station. Use architecture as pacing punctuation instead of filling the whole 15 seconds with uninterrupted micro-combos.
 - Tags: tony-jaa, staircase, oner, vertical-progression, spatial-stations, classic-action
+
+## Monkey Man — Kitchen Fight
+- Watch: https://www.youtube.com/watch?v=_1PuVDh14h4
+- Source: Universal Pictures official clip.
+- Study: a compact multi-attacker kitchen fight where ordinary utensils and hard surfaces become part of the choreography rather than decorative set dressing.
+- Movement design: short strike/grapple exchanges are linked by immediate prop use and collisions; each object solves the next tactical problem instead of creating a disconnected gag.
+- Camera / editing: close, energetic coverage stays oriented to the protagonist and the current attacker, with cuts motivated by contact or a target change rather than random shake.
+- AI-video takeaway: strong 15-second environmental-fight template: threat A → utensil interaction → hard-surface collision → target switch → improvised finish. Trigger every break or object reaction only after visible physical contact.
+- Tags: monkey-man, kitchen-fight, improvised-weapons, environmental-action, target-switching, 2024
+
+## Novocaine — Kitchen Fight
+- Watch: https://www.rottentomatoes.com/m/novocaine_2025/videos/2422917699585
+- Study: the protagonist’s inability to feel pain creates an unusual action grammar where impacts still alter balance and body position even when the expected pain reaction is absent.
+- Movement design: burns, glass, kitchen hazards and blunt impacts repeatedly change the tactical state; comedy comes from the mismatch between physical damage and emotional reaction rather than from ignoring physics.
+- Camera / editing: the scene holds long enough after impacts for viewers to register cause, body displacement and environmental consequence before moving to the next beat.
+- AI-video takeaway: separate physical response from pain response in prompts: contact → momentum/body displacement → environmental consequence → muted facial pain reaction → immediate counter. This is useful for superhuman or armored characters too.
+- Tags: novocaine, kitchen-fight, pain-immunity, environmental-action, impact-response, 2025
+
+## Ghost Killer — Official Fight Clip
+- Watch: https://www.youtube.com/watch?v=VlAHZbNH7i4
+- Official distributor: Well Go USA Entertainment.
+- Study: Kensuke Sonomura’s grounded Japanese action style gives a smaller female protagonist crisp, highly committed close-range movement without making her read as weightless or superhuman.
+- Movement design: compact punches, elbows, kicks, evasions and abrupt direction changes are organized as short physical phrases with clear recovery and re-engagement.
+- Camera / editing: medium and medium-close framing frequently preserves hips, shoulders and the contact line, letting speed come from performer timing instead of hiding movement behind cuts.
+- AI-video takeaway: excellent reference for a photorealistic female action lead. Prompt one clear attack/counter phrase at a time, preserve foot contact and torso rotation, and use the camera to follow the body rather than to manufacture speed.
+- Tags: ghost-killer, female-action, japanese-action, close-quarters, grounded-choreography, kensuke-sonomura, 2025
