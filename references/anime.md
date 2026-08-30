@@ -75,3 +75,12 @@
 - Camera / editing: strong pose anchors and brief effect-heavy transitions make the enhancement state change obvious without requiring every in-between motion to be fully shown.
 - AI-video takeaway: structure fantasy combat as grounded pose → physical action → explicit enhancement trigger → amplified impact pose. Keep magic as a state change, not a constant full-screen layer.
 - Tags: anime-action, 2026, magic-enhancement, pose-anchor, state-change, fantasy-combat
+
+## JUJUTSU KAISEN Season 3 — Sendai Colony Trailer
+- Watch: https://www.youtube.com/watch?v=0BHB_6KPP38
+- Source: TOHO animation official channel, March 23, 2026.
+- Study: Yuta’s Sendai Colony battle preview compresses a multi-opponent supernatural fight into a small set of readable threat handoffs, signature poses and explosive effect beats.
+- Movement design: one opponent becomes the active threat at a time while other fighters interrupt or change the tactical state, keeping a nominal multi-way battle from becoming a simultaneous swarm.
+- Camera / editing: rapid cuts are anchored by strong silhouettes, attack direction and impact poses; heavy VFX bridges movement after the body relationship is established.
+- AI-video takeaway: for 3+ anime fighters, keep one active pair plus one interrupter, lock attack direction across cuts, and trigger the largest VFX only after the contact/pose anchor is readable.
+- Tags: jujutsu-kaisen, sendai-colony, multi-fighter, anime-action, threat-handoff, impact-pose, 2026
