@@ -58,3 +58,12 @@
 - Camera / editing: broadcast coverage keeps both fighters, guard positions, footwork and the contact line readable, making it strong reference footage for pose and timing extraction.
 - AI-video takeaway: use a realistic rhythm of feint/probe → distance close → 2–3 strike commitment → defensive response → reset or decisive finish. Preserve failed/partial attacks and guard recovery so the fight does not feel choreographed by a metronome.
 - Tags: one-samurai-2, noiri, liu-mengyang, kickboxing, 2026, distance-management, guard-reset, realistic-combat
+
+## 17th World Wushu Championships — Wang Yawen Women’s Jianshu Gold Medal
+- Watch: https://www.youtube.com/watch?v=Qg78PO68HpU
+- Source: WUSHU TV (IWUF WUSHU OFFICIAL).
+- Study: elite straight-sword taolu with competition framing that exposes the full movement chain—foot placement, hip/shoulder rotation, sword-tip path, leaps, balances and recovery.
+- Movement design: elegant continuous transitions alternate with sharp accelerations and held balances, making it especially useful for graceful wuxia or female sword-character motion reference.
+- Camera / editing: neutral full-body coverage avoids hiding mechanics, so the sword arc and center-of-gravity shift can be sampled directly as pose/video reference.
+- AI-video takeaway: prompt sword action from the body outward: stance/weight shift → hip and shoulder turn → wrist/sword-tip arc → landing/recovery. Add cloth, hair and cinematic camera movement only after that trajectory is stable.
+- Tags: jianshu, wushu, iwuf, weapon-form, sword-trajectory, balance, female-martial-arts, 2025
