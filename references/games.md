@@ -123,3 +123,11 @@
 - Camera / editing: the third-person camera preserves Dylan’s orientation through vertical movement and environmental distortion, which helps the viewer understand cause and direction despite heavy VFX.
 - AI-video takeaway: when generating supernatural combat, make every major transformation explicit—base weapon → morph frame → new attack rule—and keep camera orientation stable during the transition. Add environmental distortion after the body/weapon state is readable.
 - Tags: control-resonant, 2026, shapeshifting-weapon, supernatural-combat, state-transition, vertical-action, gravity
+
+## Stranger Than Heaven — Hands-On Combat / RGG Roundup
+- Watch: https://www.rpgsite.net/news/21117-new-stranger-than-heaven-combat-gameplay-video-rgg
+- Study: SEGA/RGG Studio’s August 2026 hands-on combat presentation focuses heavily on a slower, more physical melee system, with fights shown across multiple eras and tutorial prompts left visible.
+- Movement design: left and right sides of the body are controlled independently, with light/heavy attacks, blocks, counters and weapons creating unusually explicit directional cause/effect.
+- Camera / editing: the gameplay camera stays observational and stable enough to read which side initiated a strike, how the defender reacts, and when the exchange resets instead of using cinematic cutting to fake intensity.
+- AI-video takeaway: excellent grounded-brawl prompt grammar: left-side probe → right heavy commitment → block/counter → short stagger → reset. Explicitly assign attack side and recovery so limb motion does not become symmetric or random.
+- Tags: stranger-than-heaven, rgg-studio, 2026, grounded-brawl, left-right-controls, block-counter, directional-action
