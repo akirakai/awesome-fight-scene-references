@@ -53,17 +53,16 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-29
+## Latest additions — 2026-08-30
 
-Full batch: [`references/runs/2026-08-29.md`](references/runs/2026-08-29.md)
+Full batch: [`references/runs/2026-08-30.md`](references/runs/2026-08-30.md)
 
-- Film / TV: **Bullet Train — The Wolf Fight**, **Captain America: The Winter Soldier — Elevator Fight**, **Reacher — Prison Fight**, **Obliterated — Finale Kitchen Fight**
-- Games: **Virtua Fighter Crossroads — Battle Showcase**
-- Anime: **Tojima Wants to Be a Kamen Rider — Decisive Battle Trailer**
-- Martial Arts: **ONE Friday Fights 168 — Wuttikrai vs. Mohammad Habibpour**
-- AI Action: **PhyGenHOI — Physically-Aware Human-Object Interaction**
+- Film / TV: **Monkey Man — Kitchen Fight**, **Novocaine — Kitchen Fight**, **Ghost Killer — Official Fight Clip**
+- Games: **Stranger Than Heaven — Hands-On Combat / RGG Roundup**
+- Anime: **JUJUTSU KAISEN Season 3 — Sendai Colony Trailer**
+- Martial Arts: **17th World Wushu Championships — Wang Yawen Women’s Jianshu Gold Medal**
 
-Previous batch: [`references/runs/2026-08-28.md`](references/runs/2026-08-28.md)
+Previous batch: [`references/runs/2026-08-29.md`](references/runs/2026-08-29.md)
 
 ## Curation principles
 
