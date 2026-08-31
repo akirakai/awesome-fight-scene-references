@@ -53,16 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-30
+## Latest additions — 2026-08-31
 
-Full batch: [`references/runs/2026-08-30.md`](references/runs/2026-08-30.md)
+Full batch: [`references/runs/2026-08-31.md`](references/runs/2026-08-31.md)
 
-- Film / TV: **Monkey Man — Kitchen Fight**, **Novocaine — Kitchen Fight**, **Ghost Killer — Official Fight Clip**
-- Games: **Stranger Than Heaven — Hands-On Combat / RGG Roundup**
-- Anime: **JUJUTSU KAISEN Season 3 — Sendai Colony Trailer**
-- Martial Arts: **17th World Wushu Championships — Wang Yawen Women’s Jianshu Gold Medal**
+- Games: **Fable — Official Combat Gameplay | gamescom 2026**, **Black Myth: Zhong Kui — 15 Minutes Gameplay Trailer**
+- Anime: **SEKIRO: NO DEFEAT — Wolf vs. Gyoubu Battle Clip**
+- Martial Arts: **17th World Wushu Championships — Qiangshu & Gunshu Session**
+- Film / TV: **Haywire — Hotel Room Fight**
+- Stunt / Choreography: **SAKAMOTO DAYS (Live Action) — Action Making PV**
+- AI Action: **Incantation — Natural Language as the Action Interface for Multi-Entity Video World Models**
 
-Previous batch: [`references/runs/2026-08-29.md`](references/runs/2026-08-29.md)
+Previous batch: [`references/runs/2026-08-30.md`](references/runs/2026-08-30.md)
 
 ## Curation principles
 
