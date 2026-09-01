@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-08-31
+## Latest additions — 2026-09-01
 
-Full batch: [`references/runs/2026-08-31.md`](references/runs/2026-08-31.md)
+Full batch: [`references/runs/2026-09-01.md`](references/runs/2026-09-01.md)
 
-- Games: **Fable — Official Combat Gameplay | gamescom 2026**, **Black Myth: Zhong Kui — 15 Minutes Gameplay Trailer**
-- Anime: **SEKIRO: NO DEFEAT — Wolf vs. Gyoubu Battle Clip**
-- Martial Arts: **17th World Wushu Championships — Qiangshu & Gunshu Session**
-- Film / TV: **Haywire — Hotel Room Fight**
-- Stunt / Choreography: **SAKAMOTO DAYS (Live Action) — Action Making PV**
-- AI Action: **Incantation — Natural Language as the Action Interface for Multi-Entity Video World Models**
+- Martial Arts: **17th World Wushu Championships — Gao Haonan Men’s Taijijian Gold Medal Performance**
+- Film / TV: **SPL / Kill Zone — Donnie Yen vs. Wu Jing Alley Fight**
+- Games: **Nodusfall — First Reveal Trailer**, **Blood Message — 19 Minutes Gameplay Walkthrough | The Letter**
+- Anime: **Sword of the Stranger — Nanashi vs. Luo-Lang Final Battle**
+- Stunt / Choreography: **Jeremy Marinas vs. Brendon Huor & Jimmy Chhiu — Fight Practice**
+- AI Action: **Seedance 2.0 — 动作场面测试 (1)**
 
-Previous batch: [`references/runs/2026-08-30.md`](references/runs/2026-08-30.md)
+Previous batch: [`references/runs/2026-08-31.md`](references/runs/2026-08-31.md)
 
 ## Curation principles
 
