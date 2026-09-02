@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-01
+## Latest additions — 2026-09-02
 
-Full batch: [`references/runs/2026-09-01.md`](references/runs/2026-09-01.md)
+Full batch: [`references/runs/2026-09-02.md`](references/runs/2026-09-02.md)
 
-- Martial Arts: **17th World Wushu Championships — Gao Haonan Men’s Taijijian Gold Medal Performance**
-- Film / TV: **SPL / Kill Zone — Donnie Yen vs. Wu Jing Alley Fight**
-- Games: **Nodusfall — First Reveal Trailer**, **Blood Message — 19 Minutes Gameplay Walkthrough | The Letter**
-- Anime: **Sword of the Stranger — Nanashi vs. Luo-Lang Final Battle**
-- Stunt / Choreography: **Jeremy Marinas vs. Brendon Huor & Jimmy Chhiu — Fight Practice**
-- AI Action: **Seedance 2.0 — 动作场面测试 (1)**
+- Martial Arts: **11th Sanda World Cup — Day 2 Session 4 Finals**
+- Film / TV: **The Raid 2 — Kitchen Fight**, **The Night Comes for Us — Joe Taslim vs. Iko Uwais Final Fight**
+- Games: **Phantom Blade Zero — State of Play Gameplay Deep Dive**
+- Anime: **Naruto Shippuden — Kakashi vs. Obito**
+- Stunt / Choreography: **Sword Concepts — One & Done Stunts Chicago**, **Mortal Kombat 1 — Stunt Action Reel**
+- AI Action: **Seedance 2.5 — 武侠打斗测试片段**
 
-Previous batch: [`references/runs/2026-08-31.md`](references/runs/2026-08-31.md)
+Previous batch: [`references/runs/2026-09-01.md`](references/runs/2026-09-01.md)
 
 ## Curation principles
 
