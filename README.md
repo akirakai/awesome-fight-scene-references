@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-02
+## Latest additions — 2026-09-03
 
-Full batch: [`references/runs/2026-09-02.md`](references/runs/2026-09-02.md)
+Full batch: [`references/runs/2026-09-03.md`](references/runs/2026-09-03.md)
 
-- Martial Arts: **11th Sanda World Cup — Day 2 Session 4 Finals**
-- Film / TV: **The Raid 2 — Kitchen Fight**, **The Night Comes for Us — Joe Taslim vs. Iko Uwais Final Fight**
-- Games: **Phantom Blade Zero — State of Play Gameplay Deep Dive**
-- Anime: **Naruto Shippuden — Kakashi vs. Obito**
-- Stunt / Choreography: **Sword Concepts — One & Done Stunts Chicago**, **Mortal Kombat 1 — Stunt Action Reel**
-- AI Action: **Seedance 2.5 — 武侠打斗测试片段**
+- Martial Arts: **17th World Wushu Championships — Nangun**
+- Film / TV: **The Raid: Redemption — Three-Way Battle to the Death**
+- Games: **Onimusha: Way of the Sword — Severing Fates Trailer**, **Sifu — Fight Club Gameplay Teaser**
+- Anime: **New Gintama Movie: Yoshiwara in Flames — Kagura & Shinpachi vs. Abuto Battle PV**
+- Stunt / Choreography: **DC Titans Season 4 — Stunt Action Reel + Side-by-Side Previs**
+- AI Action: **One Against Many — Cinematic Action Test Sequence**, **Seedance vs. MiniMax H3 — Same Reference Video Comparison**
 
-Previous batch: [`references/runs/2026-09-01.md`](references/runs/2026-09-01.md)
+Previous batch: [`references/runs/2026-09-02.md`](references/runs/2026-09-02.md)
 
 ## Curation principles
 
