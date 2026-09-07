@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-06
+## Latest additions — 2026-09-07
 
-Full batch: [`references/runs/2026-09-06.md`](references/runs/2026-09-06.md)
+Full batch: [`references/runs/2026-09-07.md`](references/runs/2026-09-07.md)
 
-- Martial Arts: **17th World Wushu Championships — Malaysia Women’s Duilian Gold Routine**
-- Film / TV: **Upgrade — The Kitchen Fight**, **Re:Born — Zero Range Combat**
-- Games: **GUNDAM ROGUE ORBIT — Release Date Announcement Trailer**
-- Anime: **Fog Hill of Five Elements — Bridge Fight**
-- Stunt / Choreography: **Predator: Killer of Killers — Kusarigama Fight Previs Reel**, **Marvel’s Iron Fist Season 2 — Stunt Action Reel / Previs Side-by-Side**
-- AI Action: **MiniMax H3 — High-Dynamic Fight Animation Tutorial + Full Prompt Template**
+- Martial Arts: **17th World Wushu Championships — Daoshu**
+- Film / TV: **Street Fighter (2026) — New Trailer**, **Flash Point — Donnie Yen vs. Collin Chou Final Fight**
+- Games: **Daba: Land of Water Scar — September 2026 Official Trailer**
+- Anime: **Mob Psycho 100 II — Shimazaki vs. Everyone**
+- Stunt / Choreography: **Action Lab — Action Design Reel**
+- AI Action: **AI Original Fight Short — “FIGHT”**
 
-Previous batch: [`references/runs/2026-09-05.md`](references/runs/2026-09-05.md)
+Previous batch: [`references/runs/2026-09-06.md`](references/runs/2026-09-06.md)
 
 ## Curation principles
 
