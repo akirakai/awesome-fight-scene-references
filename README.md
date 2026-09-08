@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-07
+## Latest additions — 2026-09-08
 
-Full batch: [`references/runs/2026-09-07.md`](references/runs/2026-09-07.md)
+Full batch: [`references/runs/2026-09-08.md`](references/runs/2026-09-08.md)
 
-- Martial Arts: **17th World Wushu Championships — Daoshu**
-- Film / TV: **Street Fighter (2026) — New Trailer**, **Flash Point — Donnie Yen vs. Collin Chou Final Fight**
-- Games: **Daba: Land of Water Scar — September 2026 Official Trailer**
-- Anime: **Mob Psycho 100 II — Shimazaki vs. Everyone**
-- Stunt / Choreography: **Action Lab — Action Design Reel**
-- AI Action: **AI Original Fight Short — “FIGHT”**
+- Martial Arts: **Zahra Kiani — 17th World Wushu Championships Women’s Qiangshu Gold Medal Performance**
+- Film / TV: **The Man from Nowhere — Karambit Knife Duel / Scenic Fights Breakdown**
+- Games: **Rhapsody in Scarlet — Announcement Trailer**, **Final Fantasy VII Revelation — Combat and Exploration Deep Dive**
+- Anime: **One Punch Man — Saitama vs. Boros**
+- Stunt / Choreography: **Wheels on Meals Practice Fight — Side-by-Side Homage**
+- AI Action: **MiniMax H3 — “Speedrun Heavenly Palace” Motion-Context Long-Video Fight Test**
 
-Previous batch: [`references/runs/2026-09-06.md`](references/runs/2026-09-06.md)
+Previous batch: [`references/runs/2026-09-07.md`](references/runs/2026-09-07.md)
 
 ## Curation principles
 
