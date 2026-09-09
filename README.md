@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-08
+## Latest additions — 2026-09-09
 
-Full batch: [`references/runs/2026-09-08.md`](references/runs/2026-09-08.md)
+Full batch: [`references/runs/2026-09-09.md`](references/runs/2026-09-09.md)
 
-- Martial Arts: **Zahra Kiani — 17th World Wushu Championships Women’s Qiangshu Gold Medal Performance**
-- Film / TV: **The Man from Nowhere — Karambit Knife Duel / Scenic Fights Breakdown**
-- Games: **Rhapsody in Scarlet — Announcement Trailer**, **Final Fantasy VII Revelation — Combat and Exploration Deep Dive**
-- Anime: **One Punch Man — Saitama vs. Boros**
-- Stunt / Choreography: **Wheels on Meals Practice Fight — Side-by-Side Homage**
-- AI Action: **MiniMax H3 — “Speedrun Heavenly Palace” Motion-Context Long-Video Fight Test**
+- Martial Arts: **17th World Wushu Championships — Changquan & Duilian Session**
+- Film / TV: **Drunken Master II — Jackie Chan Final Fight**
+- Games: **Street Fighter 6 — Arjun Gameplay Trailer**, **Monster Hunter Wilds: Ascendance — Sword & Shield Boosted Action Breakdown**
+- Anime: **Dragon Ball Super: Beerus — Super Surge Trailer**
+- Stunt / Choreography: **Brian Danner — Sword Fight Choreography and Stunt Reel**
+- AI Action: **Seedance 2.0 — Ip Man vs. Tony Jaa AI Fight**
 
-Previous batch: [`references/runs/2026-09-07.md`](references/runs/2026-09-07.md)
+Previous batch: [`references/runs/2026-09-08.md`](references/runs/2026-09-08.md)
 
 ## Curation principles
 
