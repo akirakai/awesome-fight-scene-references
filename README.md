@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-09
+## Latest additions — 2026-09-10
 
-Full batch: [`references/runs/2026-09-09.md`](references/runs/2026-09-09.md)
+Full batch: [`references/runs/2026-09-10.md`](references/runs/2026-09-10.md)
 
-- Martial Arts: **17th World Wushu Championships — Changquan & Duilian Session**
-- Film / TV: **Drunken Master II — Jackie Chan Final Fight**
-- Games: **Street Fighter 6 — Arjun Gameplay Trailer**, **Monster Hunter Wilds: Ascendance — Sword & Shield Boosted Action Breakdown**
-- Anime: **Dragon Ball Super: Beerus — Super Surge Trailer**
-- Stunt / Choreography: **Brian Danner — Sword Fight Choreography and Stunt Reel**
-- AI Action: **Seedance 2.0 — Ip Man vs. Tony Jaa AI Fight**
+- Martial Arts: **17th World Wushu Championships — Du Hongjie Men's Nanquan Gold Medal Performance**
+- Film / TV: **John Wick: Chapter 4 — Top-Down Shootout**, **Ip Man — Ip Man vs. Ten Black Belts**
+- Games: **Mega Man: Dual Override — Proto Man Gameplay Trailer**
+- Anime: **Demon Slayer: Entertainment District Arc — Tengen Uzui vs. Gyutaro Climax**
+- Stunt / Choreography: **Betrayal — Anime Inspired Test Fight (LBP Stunts Chicago)**
+- AI Action: **MiniMax H3 — 60-Second “Oriental Strange Tales × Street Fighter” Fight Short**
 
-Previous batch: [`references/runs/2026-09-08.md`](references/runs/2026-09-08.md)
+Previous batch: [`references/runs/2026-09-09.md`](references/runs/2026-09-09.md)
 
 ## Curation principles
 
