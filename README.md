@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-10
+## Latest additions — 2026-09-11
 
-Full batch: [`references/runs/2026-09-10.md`](references/runs/2026-09-10.md)
+Full batch: [`references/runs/2026-09-11.md`](references/runs/2026-09-11.md)
 
-- Martial Arts: **17th World Wushu Championships — Du Hongjie Men's Nanquan Gold Medal Performance**
-- Film / TV: **John Wick: Chapter 4 — Top-Down Shootout**, **Ip Man — Ip Man vs. Ten Black Belts**
-- Games: **Mega Man: Dual Override — Proto Man Gameplay Trailer**
-- Anime: **Demon Slayer: Entertainment District Arc — Tengen Uzui vs. Gyutaro Climax**
-- Stunt / Choreography: **Betrayal — Anime Inspired Test Fight (LBP Stunts Chicago)**
-- AI Action: **MiniMax H3 — 60-Second “Oriental Strange Tales × Street Fighter” Fight Short**
+- Martial Arts: **Si Shin Peng — Men's Qiangshu Gold, 17th World Wushu Championships**
+- Film / TV: **The Bourne Ultimatum — Bourne vs. Desh, Tangier Apartment Fight**
+- Games: **Muramasa: Revenant Blades — Extended Gameplay Showcase**, **For Honor Y10S3: Blood Hunt — Gameplay Trailer**
+- Anime: **Naruto Shippuden — Sasuke vs. Killer Bee**
+- Stunt / Choreography: **Mikko Löppönen — Action Design Reel 2025**
+- AI Action: **The Thunder Veil — Seedance 2.5 / CapCut 30-Second Battle**
 
-Previous batch: [`references/runs/2026-09-09.md`](references/runs/2026-09-09.md)
+Previous batch: [`references/runs/2026-09-10.md`](references/runs/2026-09-10.md)
 
 ## Curation principles
 
