@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-11
+## Latest additions — 2026-09-12
 
-Full batch: [`references/runs/2026-09-11.md`](references/runs/2026-09-11.md)
+Full batch: [`references/runs/2026-09-12.md`](references/runs/2026-09-12.md)
 
-- Martial Arts: **Si Shin Peng — Men's Qiangshu Gold, 17th World Wushu Championships**
-- Film / TV: **The Bourne Ultimatum — Bourne vs. Desh, Tangier Apartment Fight**
-- Games: **Muramasa: Revenant Blades — Extended Gameplay Showcase**, **For Honor Y10S3: Blood Hunt — Gameplay Trailer**
-- Anime: **Naruto Shippuden — Sasuke vs. Killer Bee**
-- Stunt / Choreography: **Mikko Löppönen — Action Design Reel 2025**
-- AI Action: **The Thunder Veil — Seedance 2.5 / CapCut 30-Second Battle**
+- Martial Arts: **17th World Wushu Championships — Taijijian & Jianshu Session**
+- Film / TV: **Chocolate — Candy Factory Brawl**, **Crazy Samurai: 400 vs 1 — Long-Take Samurai Attrition**
+- Games: **Echoes of Aincrad — Gameplay Trailer / Partner Switch Combat**
+- Anime: **Sword of the Stranger — Nanashi vs. Luo-Lang Final Duel**
+- Stunt / Choreography: **Jumper — Experimental Sci-Fi Fight Choreography / Camera-Tech Study**
+- AI Action: **MiniMax H3 — Multi-Reference Fight V2 ComfyUI Workflow**
 
-Previous batch: [`references/runs/2026-09-10.md`](references/runs/2026-09-10.md)
+Previous batch: [`references/runs/2026-09-11.md`](references/runs/2026-09-11.md)
 
 ## Curation principles
 
