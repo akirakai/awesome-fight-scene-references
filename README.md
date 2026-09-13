@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-12
+## Latest additions — 2026-09-13
 
-Full batch: [`references/runs/2026-09-12.md`](references/runs/2026-09-12.md)
+Full batch: [`references/runs/2026-09-13.md`](references/runs/2026-09-13.md)
 
-- Martial Arts: **17th World Wushu Championships — Taijijian & Jianshu Session**
-- Film / TV: **Chocolate — Candy Factory Brawl**, **Crazy Samurai: 400 vs 1 — Long-Take Samurai Attrition**
-- Games: **Echoes of Aincrad — Gameplay Trailer / Partner Switch Combat**
-- Anime: **Sword of the Stranger — Nanashi vs. Luo-Lang Final Duel**
-- Stunt / Choreography: **Jumper — Experimental Sci-Fi Fight Choreography / Camera-Tech Study**
-- AI Action: **MiniMax H3 — Multi-Reference Fight V2 ComfyUI Workflow**
+- Martial Arts: **17th World Wushu Championships — Xu Wu Women's Taijiquan Gold Medal Performance**
+- Film / TV: **SPL: Kill Zone — Donnie Yen vs. Wu Jing Alley Duel**, **Ong-Bak — Muay Thai Fight Clip / Fight-Club Vocabulary**
+- Games: **Fable — Official Combat Gameplay | gamescom 2026**
+- Anime: **SEKIRO: NO DEFEAT — Wolf vs. Genichiro, “Battle in the Susuki Field”**
+- Stunt / Choreography: **Melissa Lischer — Stunt Reel: Action Sequence**
+- AI Action: **Seedance 2.5 — Wuxia Fight Test Clip**
 
-Previous batch: [`references/runs/2026-09-11.md`](references/runs/2026-09-11.md)
+Previous batch: [`references/runs/2026-09-12.md`](references/runs/2026-09-12.md)
 
 ## Curation principles
 
