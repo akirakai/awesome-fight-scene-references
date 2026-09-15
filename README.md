@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-14
+## Latest additions — 2026-09-15
 
-Full batch: [`references/runs/2026-09-14.md`](references/runs/2026-09-14.md)
+Full batch: [`references/runs/2026-09-15.md`](references/runs/2026-09-15.md)
 
-- Martial Arts: **ONE Friday Fights 170 — Pompet vs. Yodlekpet III**, **17th World Wushu Championships — Han Xueshi Women's Gunshu Gold Medal Performance**
-- Film / TV: **Raging Fire — Donnie Yen Backroom Brawl**
-- Games: **NINJA GAIDEN 4 — Yakumo Bloodraven Form Combat**
-- Anime: **Naruto Shippuden Episode 375 — Kakashi vs. Obito**
-- Stunt / Choreography: **Yo Soy Un Hombre Loco — Final Duel**
-- AI Action: **Combat Making — MiniMax H3 High-Density Fight Workflow**
+- Martial Arts: **17th World Wushu Championships — Zhang Yaling Women's Nandao Gold Medal Performance**
+- Film / TV: **The Villainess — Opening First-Person Assault**, **The Night Comes for Us — Ito vs. Arian Final Fight**
+- Games: **Avatar Legends: The Fighting Game — Gameplay Overview**
+- Anime: **Fate/stay night: Heaven's Feel III — Rider vs. Saber Alter**
+- Stunt / Choreography: **Sword Concepts — One & Done Stunts Chicago**
+- AI Action: **Same Reference Video Benchmark — Seedance 2.5 vs. MiniMax H3 (8-Group Test)**
 
-Previous batch: [`references/runs/2026-09-13.md`](references/runs/2026-09-13.md)
+Previous batch: [`references/runs/2026-09-14.md`](references/runs/2026-09-14.md)
 
 ## Curation principles
 
