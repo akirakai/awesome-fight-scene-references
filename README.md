@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-16
+## Latest additions — 2026-09-17
 
-Full batch: [`references/runs/2026-09-16.md`](references/runs/2026-09-16.md)
+Full batch: [`references/runs/2026-09-17.md`](references/runs/2026-09-17.md)
 
-- Martial Arts: **17th World Wushu Championships — Sanda Men's 60kg Final**
-- Film / TV: **Fist of Legend — Chen Zhen vs. Fumio Funakoshi**, **Crouching Tiger, Hidden Dragon — Jen Yu vs. Yu Shu Lien Weapon-Room Duel**
-- Games: **Marvel's Wolverine — Launch Trailer / Combat Showcase**
-- Anime: **SEKIRO: NO DEFEAT — Wolf vs. Gyoubu Masataka Oniwa**
-- Stunt / Choreography: **Mortal Kombat 1 — Fatality Action Reel (LBP Stunts Chicago)**
-- AI Action: **MiniMax H3 — Fast Cold-Weapon Duel / Multi-Weapon Test**
+- Martial Arts: **Muju Taekwondowon 2026 World Taekwondo Grand Prix — M-58kg Golden Moments**
+- Film / TV: **Zatoichi Challenged — Zatoichi Sword Duel**, **BRAWLER — Martial Arts Action Short Film (4K)**
+- Games: **Onimusha: Way of the Sword — Swordplay Action Trailer**
+- Anime: **Mob Psycho 100 II — Shimazaki vs. Everyone**
+- Stunt / Choreography: **HALL FIGHT — A One Minute Action Film**
+- AI Action: **MiniMax H3 — “超然打斗” Skill / High-Dynamic Fight Demo**
 
-Previous batch: [`references/runs/2026-09-15.md`](references/runs/2026-09-15.md)
+Previous batch: [`references/runs/2026-09-16.md`](references/runs/2026-09-16.md)
 
 ## Curation principles
 
