@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-17
+## Latest additions — 2026-09-18
 
-Full batch: [`references/runs/2026-09-17.md`](references/runs/2026-09-17.md)
+Full batch: [`references/runs/2026-09-18.md`](references/runs/2026-09-18.md)
 
-- Martial Arts: **Muju Taekwondowon 2026 World Taekwondo Grand Prix — M-58kg Golden Moments**
-- Film / TV: **Zatoichi Challenged — Zatoichi Sword Duel**, **BRAWLER — Martial Arts Action Short Film (4K)**
-- Games: **Onimusha: Way of the Sword — Swordplay Action Trailer**
-- Anime: **Mob Psycho 100 II — Shimazaki vs. Everyone**
-- Stunt / Choreography: **HALL FIGHT — A One Minute Action Film**
-- AI Action: **MiniMax H3 — “超然打斗” Skill / High-Dynamic Fight Demo**
+- Martial Arts: **Hungary Grand Slam 2026 — Heavyweight Finals / Day 3 Highlights**
+- Film / TV: **The Man from Nowhere — Cha Tae-sik vs. Lum Ramrowan Knife Fight**, **Police Story 3: Supercop — Final Chase / Train Fight**
+- Games: **Bloodstained: The Scarlet Engagement — TGS 2026 Gameplay Trailer**
+- Anime: **Fog Hill of Five Elements — Xuan and Jing vs. Final Form Shanchu**
+- Stunt / Choreography: **BOX — Stephen Reedy / Eric Jacobus**
+- AI Action: **The Trigger — Higgsfield Originals**
 
-Previous batch: [`references/runs/2026-09-16.md`](references/runs/2026-09-16.md)
+Previous batch: [`references/runs/2026-09-17.md`](references/runs/2026-09-17.md)
 
 ## Curation principles
 
