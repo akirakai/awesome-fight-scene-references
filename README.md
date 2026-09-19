@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-18
+## Latest additions — 2026-09-19
 
-Full batch: [`references/runs/2026-09-18.md`](references/runs/2026-09-18.md)
+Full batch: [`references/runs/2026-09-19.md`](references/runs/2026-09-19.md)
 
-- Martial Arts: **Hungary Grand Slam 2026 — Heavyweight Finals / Day 3 Highlights**
-- Film / TV: **The Man from Nowhere — Cha Tae-sik vs. Lum Ramrowan Knife Fight**, **Police Story 3: Supercop — Final Chase / Train Fight**
-- Games: **Bloodstained: The Scarlet Engagement — TGS 2026 Gameplay Trailer**
-- Anime: **Fog Hill of Five Elements — Xuan and Jing vs. Final Form Shanchu**
-- Stunt / Choreography: **BOX — Stephen Reedy / Eric Jacobus**
-- AI Action: **The Trigger — Higgsfield Originals**
+- Martial Arts: **Chuncheon 2026 World Taekwondo Poomsae Championships — Freestyle Finals**
+- Film / TV: **Upgrade (2018) — The Kitchen Fight**
+- Games: **Granblue Fantasy Versus: Rising — Id Gameplay Trailer**
+- Anime / Animation: **HIDARI (Pilot Film) — Stop-Motion Samurai Duel**
+- Stunt / Choreography: **Brian Danner — Sword Fight Choreography and Stunt Reel**
+- AI Action: **Neo Tokyo 85 — He Was Sent to Kill Chop. He Became Something Else Instead.**
 
-Previous batch: [`references/runs/2026-09-17.md`](references/runs/2026-09-17.md)
+Previous batch: [`references/runs/2026-09-18.md`](references/runs/2026-09-18.md)
 
 ## Curation principles
 
