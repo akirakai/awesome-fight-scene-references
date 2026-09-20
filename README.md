@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-19
+## Latest additions — 2026-09-20
 
-Full batch: [`references/runs/2026-09-19.md`](references/runs/2026-09-19.md)
+Full batch: [`references/runs/2026-09-20.md`](references/runs/2026-09-20.md)
 
-- Martial Arts: **Chuncheon 2026 World Taekwondo Poomsae Championships — Freestyle Finals**
-- Film / TV: **Upgrade (2018) — The Kitchen Fight**
-- Games: **Granblue Fantasy Versus: Rising — Id Gameplay Trailer**
-- Anime / Animation: **HIDARI (Pilot Film) — Stop-Motion Samurai Duel**
-- Stunt / Choreography: **Brian Danner — Sword Fight Choreography and Stunt Reel**
-- AI Action: **Neo Tokyo 85 — He Was Sent to Kill Chop. He Became Something Else Instead.**
+- Martial Arts: **ONE Friday Fights 171 — Klarob NuiCafeboran vs. Sornsueknoi FA Group**
+- Film / TV: **Drunken Master II (1994) — Final Ironworks Fight**
+- Games: **Wo Long 2: Wings of Ember — Release Date Trailer / Alpha Demo Combat**
+- Anime / Animation: **Naruto — Rock Lee vs. Gaara**
+- Stunt / Choreography: **SNATCHERS — Action Short Film**
+- AI Action: **ComfyUI + Seedance 2.5 — Two-Character Reference Fight Scene Workflow**
 
-Previous batch: [`references/runs/2026-09-18.md`](references/runs/2026-09-18.md)
+Previous batch: [`references/runs/2026-09-19.md`](references/runs/2026-09-19.md)
 
 ## Curation principles
 
