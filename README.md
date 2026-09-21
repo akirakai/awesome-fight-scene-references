@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-20
+## Latest additions — 2026-09-21
 
-Full batch: [`references/runs/2026-09-20.md`](references/runs/2026-09-20.md)
+Full batch: [`references/runs/2026-09-21.md`](references/runs/2026-09-21.md)
 
-- Martial Arts: **ONE Friday Fights 171 — Klarob NuiCafeboran vs. Sornsueknoi FA Group**
-- Film / TV: **Drunken Master II (1994) — Final Ironworks Fight**
-- Games: **Wo Long 2: Wings of Ember — Release Date Trailer / Alpha Demo Combat**
-- Anime / Animation: **Naruto — Rock Lee vs. Gaara**
-- Stunt / Choreography: **SNATCHERS — Action Short Film**
-- AI Action: **ComfyUI + Seedance 2.5 — Two-Character Reference Fight Scene Workflow**
+- Martial Arts: **UFC 331 — Joshua Van vs. Alexandre Pantoja 2**
+- Film / TV: **The Raid 2 — Rama vs. The Assassin, Kitchen Fight**
+- Games: **TONIN: 兎忍 — TGS 2026 Playable Combat / Official Demo**
+- Anime / Animation: **Attack on Titan — Levi vs. Kenny Squad**
+- Stunt / Choreography: **Kikéy Castillo — Action Reel**
+- AI Action: **AIGC High-Dynamic Fight Skill Test — “AI打斗教程 | 核心skill分享”**
 
-Previous batch: [`references/runs/2026-09-19.md`](references/runs/2026-09-19.md)
+Previous batch: [`references/runs/2026-09-20.md`](references/runs/2026-09-20.md)
 
 ## Curation principles
 
