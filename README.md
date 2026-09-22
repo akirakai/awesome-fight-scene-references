@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-21
+## Latest additions — 2026-09-22
 
-Full batch: [`references/runs/2026-09-21.md`](references/runs/2026-09-21.md)
+Full batch: [`references/runs/2026-09-22.md`](references/runs/2026-09-22.md)
 
-- Martial Arts: **UFC 331 — Joshua Van vs. Alexandre Pantoja 2**
-- Film / TV: **The Raid 2 — Rama vs. The Assassin, Kitchen Fight**
-- Games: **TONIN: 兎忍 — TGS 2026 Playable Combat / Official Demo**
-- Anime / Animation: **Attack on Titan — Levi vs. Kenny Squad**
-- Stunt / Choreography: **Kikéy Castillo — Action Reel**
-- AI Action: **AIGC High-Dynamic Fight Skill Test — “AI打斗教程 | 核心skill分享”**
+- Martial Arts: **Wang Yawen — 17th World Wushu Championships Women’s Jianshu Gold Medal Performance**
+- Film / TV: **Flash Point — Donnie Yen vs. Colin Chou Final Fight**
+- Games: **UNDEFEATED: Genesis — Official Demo Launch Trailer**
+- Anime / Animation: **Sword of the Stranger — Nanashi vs. Luo-Lang Final Duel**
+- Stunt / Choreography: **Action Lab — Action Design Reel**
+- AI Action: **MiniMax H3 — Multi-Reference Fight v2 ComfyUI Workflow**
 
-Previous batch: [`references/runs/2026-09-20.md`](references/runs/2026-09-20.md)
+Previous batch: [`references/runs/2026-09-21.md`](references/runs/2026-09-21.md)
 
 ## Curation principles
 
