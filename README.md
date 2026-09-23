@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-22
+## Latest additions — 2026-09-23
 
-Full batch: [`references/runs/2026-09-22.md`](references/runs/2026-09-22.md)
+Full batch: [`references/runs/2026-09-23.md`](references/runs/2026-09-23.md)
 
-- Martial Arts: **Wang Yawen — 17th World Wushu Championships Women’s Jianshu Gold Medal Performance**
-- Film / TV: **Flash Point — Donnie Yen vs. Colin Chou Final Fight**
-- Games: **UNDEFEATED: Genesis — Official Demo Launch Trailer**
-- Anime / Animation: **Sword of the Stranger — Nanashi vs. Luo-Lang Final Duel**
-- Stunt / Choreography: **Action Lab — Action Design Reel**
-- AI Action: **MiniMax H3 — Multi-Reference Fight v2 ComfyUI Workflow**
+- Martial Arts: **4th IWUF Taolu World Cup 2026 — Men’s Changquan Top 3**
+- Film / TV: **Tom-Yum-Goong / The Protector — Four-Minute Staircase Fight**
+- Games: **Final Fantasy VII Revelation — State of Play Combat & Exploration Deep Dive**
+- Anime / Animation: **Samurai Champloo — Jin vs. Kariya Kagetoki**
+- Stunt / Choreography: **LBP / Asylum Stunt Practice with Andy Long and Jim Ng**
+- AI Action: **AI Original Combat Short “FIGHT” — Updream / Seedance / MiniMax H3**
 
-Previous batch: [`references/runs/2026-09-21.md`](references/runs/2026-09-21.md)
+Previous batch: [`references/runs/2026-09-22.md`](references/runs/2026-09-22.md)
 
 ## Curation principles
 
