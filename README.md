@@ -53,18 +53,18 @@ Example:
 - `references/best-of.md` — standout references across all categories
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-23
+## Latest additions — 2026-09-24
 
-Full batch: [`references/runs/2026-09-23.md`](references/runs/2026-09-23.md)
+Full batch: [`references/runs/2026-09-24.md`](references/runs/2026-09-24.md)
 
-- Martial Arts: **4th IWUF Taolu World Cup 2026 — Men’s Changquan Top 3**
-- Film / TV: **Tom-Yum-Goong / The Protector — Four-Minute Staircase Fight**
-- Games: **Final Fantasy VII Revelation — State of Play Combat & Exploration Deep Dive**
-- Anime / Animation: **Samurai Champloo — Jin vs. Kariya Kagetoki**
-- Stunt / Choreography: **LBP / Asylum Stunt Practice with Andy Long and Jim Ng**
-- AI Action: **AI Original Combat Short “FIGHT” — Updream / Seedance / MiniMax H3**
+- Martial Arts: **Asian Games 2026 — Suchika Tariyal vs. Tiffany Teo, Women’s Traditional MMA -60 kg Semifinal**
+- Film / TV: **One Last Shot (2026) — Faux-Oner Tactical Assault / Adkins vs. Kosugi Close-Quarters Fight**; **Rurouni Kenshin: The Final — Kenshin vs. Enishi Final Duel**
+- Games: **Phantom Blade Zero — State of Play Gameplay Deep Dive**
+- Anime / Animation: **BAKI-DOU: The Invincible Samurai — Retsu’s Unexpected Tricks vs. Musashi**
+- Stunt / Choreography: **Brendon Huor vs. Andy Le — Kung Fu Fight Scene (Shaw Bros. Style)**
+- AI Action: **Seedance 2.5 — Martial-Arts Fight Test Clip**
 
-Previous batch: [`references/runs/2026-09-22.md`](references/runs/2026-09-22.md)
+Previous batch: [`references/runs/2026-09-23.md`](references/runs/2026-09-23.md)
 
 ## Curation principles
 
