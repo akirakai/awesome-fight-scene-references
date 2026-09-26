@@ -67,3 +67,11 @@
 - Camera / editing: neutral full-body coverage avoids hiding mechanics, so the sword arc and center-of-gravity shift can be sampled directly as pose/video reference.
 - AI-video takeaway: prompt sword action from the body outward: stance/weight shift → hip and shoulder turn → wrist/sword-tip arc → landing/recovery. Add cloth, hair and cinematic camera movement only after that trajectory is stable.
 - Tags: jianshu, wushu, iwuf, weapon-form, sword-trajectory, balance, female-martial-arts, 2025
+## 22nd AKF Asian Senior Karate Championships 2026 — Mohammad Aljafari vs. Rida Messaoudi, Men’s Kumite -84 kg Final
+- Watch: https://www.youtube.com/watch?v=0BT3MCwhP_U
+- Study: a complete recent elite kumite final from Bali, published August 2, 2026, with unusually clean full-body competition framing.
+- Movement design: light bouncing and feints create the opening, followed by sudden linear entries, short combinations, scoring contact and immediate disengagement rather than continuous trading.
+- Camera / editing: fixed sports coverage keeps both fighters, stance width, attack distance and reset positions visible throughout.
+- AI-video takeaway: for believable karate, prompt probe/feint → explosive entry → one short scoring burst → immediate retreat/guard reset. Preserve the empty space and failed probes between attacks.
+- Tags: karate, kumite, 2026, asian-championships, distance-management, feint, guard-reset, full-body-reference
+
