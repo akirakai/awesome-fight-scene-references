@@ -51,20 +51,23 @@ Example:
 - `references/stunt-choreography.md`
 - `references/ai-action.md`
 - `references/best-of.md` — standout references across all categories
+- `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-24
+## Latest additions — 2026-09-28
 
-Full batch: [`references/runs/2026-09-24.md`](references/runs/2026-09-24.md)
+Full batch: [`references/runs/2026-09-28.md`](references/runs/2026-09-28.md)
 
-- Martial Arts: **Asian Games 2026 — Suchika Tariyal vs. Tiffany Teo, Women’s Traditional MMA -60 kg Semifinal**
-- Film / TV: **One Last Shot (2026) — Faux-Oner Tactical Assault / Adkins vs. Kosugi Close-Quarters Fight**; **Rurouni Kenshin: The Final — Kenshin vs. Enishi Final Duel**
-- Games: **Phantom Blade Zero — State of Play Gameplay Deep Dive**
-- Anime / Animation: **BAKI-DOU: The Invincible Samurai — Retsu’s Unexpected Tricks vs. Musashi**
-- Stunt / Choreography: **Brendon Huor vs. Andy Le — Kung Fu Fight Scene (Shaw Bros. Style)**
-- AI Action: **Seedance 2.5 — Martial-Arts Fight Test Clip**
+- Martial Arts: **Asian Games 2026 — Adeola Fay Robert vs. Fatemehzahra Saeidabadi, Women's Kumite -55kg Final**
+- Film / TV: **John Wick: Chapter 4 — Osaka / Nunchaku & Caine Action Reference**; **Chocolate (2008) — Warehouse Fight**
+- Games: **Onimusha: Way of the Sword — Ken no Michi Shorts / Combat Reference**
+- Anime / Animation: **Blue Eye Samurai — Cliff Showdown**
+- Stunt / Choreography: **BRAWLER**; **KUNG FU DARLING**
+- AI Action: **Seedance 2.5 — Same-Prompt Fight Tests**
 
-Previous batch: [`references/runs/2026-09-23.md`](references/runs/2026-09-23.md)
+Previous batch: [`references/runs/2026-09-27.md`](references/runs/2026-09-27.md)
+
+Browse the dated index: [`references/INDEX.md`](references/INDEX.md)
 
 ## Curation principles
 
