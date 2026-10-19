@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-10-19
+
+- **martial arts** — Women's Traditional Duilian; Kuchava vs Conte Sanda
+- **film-TV** — Police Story Mall Finale; Raging Fire final fight analysis
+- **games** — Nioh 3 Ryomen Sukuna Boss
+- **anime** — BAKI-DOU Netflix official clip
+- **stunt-choreography** — DOGFIGHT (LBP Stunts); Dan Cade Stunt Reel 2026
+- **AI-action** — RESCUE (Seedance 2.0)
+
+Batch: [2026-10-19 full nine-video reference list](runs/2026-10-19.md)
+
 ## 2026-09-28
 
 - martial arts — Asian Games 2026: Adeola Fay Robert vs. Fatemehzahra Saeidabadi, Women's Kumite -55kg Final
