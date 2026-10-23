@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-09-28
+## Latest additions — 2026-10-23
+
+**9 direct-video or video-archive references across all six categories.** [Browse the full annotated batch](references/runs/2026-10-23.md) or the [dated index](references/INDEX.md).
+
+- **Martial Arts:** 4th Taolu World Cup weapon forms; 11th Sanda World Cup semifinal footage
+- **Film / TV:** KILL (2024) train-carriage action; The Bourne Ultimatum — Bourne vs Desh
+- **Games:** Sifu nightclub combat (GameSpot gameplay)
+- **Anime:** Jujutsu Kaisen S2 — Itadori vs Choso bathroom fight
+- **Stunt / Choreography:** To The Death (2025) BTS; Roger Yuan fight/stunt demo
+- **AI Action:** Rowan Wang's Seedance 2.0 *Fight — Action Sequence Test*
+
+*Batch entries keep source links, movement/camera breakdowns, short prompt patterns, suggested clip lengths, and availability/rights caveats.*
+
+## Earlier additions — 2026-09-28
 
 Full batch: [`references/runs/2026-09-28.md`](references/runs/2026-09-28.md)
 
