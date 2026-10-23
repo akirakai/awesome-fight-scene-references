@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-10-23 — nine curated fight-video references
+
+- **martial arts** — IWUF 4th Taolu World Cup Day 2 Session 3; 11th Sanda World Cup Day 1 Semifinals
+- **film-TV** — KILL (2024) train fight promotional clip; The Bourne Ultimatum (2007) Bourne vs Desh
+- **games** — Sifu nightclub combat gameplay (GameSpot)
+- **anime** — Jujutsu Kaisen Season 2 Yuji vs Choso bathroom fight
+- **stunt-choreography** — To The Death (2025) BTS; Roger Yuan fight/stunt demo
+- **AI-action** — Rowan Wang / Seedance 2.0 Fight: Action Sequence Test
+
+Batch: [2026-10-23 full nine-video reference list](runs/2026-10-23.md)
+
 ## 2026-10-19
 
 - **martial arts** — Women's Traditional Duilian; Kuchava vs Conte Sanda
