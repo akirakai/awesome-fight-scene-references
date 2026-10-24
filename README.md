@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-10-23
+## Latest additions — 2026-10-24
+
+**9 annotated fight references across all 6 categories.** [Read the new batch](references/runs/2026-10-24.md) or [browse the dated index](references/INDEX.md).
+
+- **Martial Arts:** 2026 Taolu World Cup women's jianshu gold-medal performance
+- **Film / TV:** Oldboy corridor fight + director commentary; Blackout; The Break (billiards-room fight)
+- **Games:** Lies of P: Overture — Arlecchino (no-damage dodge-only challenge)
+- **Anime:** Fate/stay night: Heaven's Feel III — Rider vs Saber Alter
+- **Stunt / Choreography:** Nate vs Justin rehearsal and S E S S I O N S (LBP Stunts Chicago)
+- **AI Action:** Creator-shared Seedance 2.0 rooftop anime sword fight and prompt
+
+*Source links, choreography/camera study points, reusable AI-video prompts, suggested 3–6s crops and rights caveats are included in the batch.*
+
+## Earlier additions — 2026-10-23
 
 **9 direct-video or video-archive references across all six categories.** [Browse the full annotated batch](references/runs/2026-10-23.md) or the [dated index](references/INDEX.md).
 
