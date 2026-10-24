@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-10-24 — nine new references across six categories
+
+- **martial arts** — 2026 Taolu World Cup women's jianshu gold-medal performance
+- **film-TV** — Oldboy corridor fight / Park Chan-wook's breakdown; Blackout action short; The Break billiards-room fight
+- **games** — Lies of P: Overture / Arlecchino no-damage dodge-only Boss fight
+- **anime** — Fate/stay night: Heaven's Feel III / Rider vs Saber Alter
+- **stunt-choreography** — Nate vs Justin LBP stunt rehearsal; S E S S I O N S (LBP Stunts)
+- **AI-action** — Seedance 2.0 creator-posted rooftop anime sword duel with original prompt
+
+Batch: [2026-10-24 full annotated nine-video reference list](runs/2026-10-24.md)
+
 ## 2026-10-23 — nine curated fight-video references
 
 - **martial arts** — IWUF 4th Taolu World Cup Day 2 Session 3; 11th Sanda World Cup Day 1 Semifinals
