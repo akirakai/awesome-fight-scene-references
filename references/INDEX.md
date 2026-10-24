@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-10-24 evening — 9 additional references (second batch)
+
+- **martial arts** — 2026 Kanto University Kendo final: Tsukuba vs Hosei (LET'S KENDO).
+- **film-TV** — Do No Harm (Roseanne Liang); Rurouni Kenshin: The Final / Kenshin vs Enishi; RocketJump: The Boxcar Fight (+ BTS).
+- **games** — Monster Hunter Wilds, TGS 2026 dual-blades vs Teostra gameplay.
+- **anime** — Castlevania: Trevor vs Cyclops (official Netflix Anime scene).
+- **stunt-choreography** — BOX (Eric Jacobus / Stephen Reedy, iPhone); Catherine Palmer 2025 training reel.
+- **AI-action** — Icarus 2 (Blender choreography base + AI rendering, creator video).
+
+Batch: [2026-10-24 evening annotated nine-video list](runs/2026-10-24-evening.md). This supplements, rather than replaces, the earlier [2026-10-24 list](runs/2026-10-24.md).
+
 ## 2026-10-24 — nine new references across six categories
 
 - **martial arts** — 2026 Taolu World Cup women's jianshu gold-medal performance
