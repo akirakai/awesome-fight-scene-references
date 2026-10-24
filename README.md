@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-10-24
+## Latest additions — 2026-10-24 (evening supplement)
+
+**9 additional annotated videos, distinct from the earlier 2026-10-24 batch.** [See the new nine-case batch](references/runs/2026-10-24-evening.md) or the [dated index](references/INDEX.md).
+
+- **Martial Arts:** 2026 Kanto University Kendo final (Tsukuba vs Hosei)
+- **Film / TV:** Do No Harm; Rurouni Kenshin: The Final / Kenshin vs Enishi; RocketJump The Boxcar Fight
+- **Games:** Monster Hunter Wilds — TGS 2026 dual blades vs Teostra
+- **Anime:** Castlevania — Trevor vs Cyclops (official Netflix Anime clip)
+- **Stunt / Choreography:** BOX / Eric Jacobus (iPhone short), Catherine Palmer stunt training reel
+- **AI Action:** Icarus 2 — Blender-base / AI-rendered mecha fighting
+
+*Each entry has a direct source link, suggested action and camera analysis, prompt pattern, short-crop suggestion and rights notes.*
+
+## Earlier additions — 2026-10-24 (first batch)
 
 **9 annotated fight references across all 6 categories.** [Read the new batch](references/runs/2026-10-24.md) or [browse the dated index](references/INDEX.md).
 
