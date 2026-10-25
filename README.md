@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-10-24 (evening supplement)
+## Latest additions — 2026-10-25
+
+**10 newly curated fight-action references across all six categories.** [Read all 10 source-linked, annotated videos and AI prompt patterns](references/runs/2026-10-25.md) or [browse the dated index](references/INDEX.md).
+
+- **Martial Arts:** Die Finals 2026 karate kumite team final (Ludwigsburg vs Hessen Lions)
+- **Film / TV:** NIGHT SHIFT (2026); Shaolin Avengers (MartialClub); KODAMA (Brian M Tang)
+- **Games:** Mortal Shell II official gameplay reveal
+- **Anime:** The Legend of Korra (Tenzin vs Zaheer / Red Lotus); The Legend of Vox Machina (Grog vs Kevdak)
+- **Stunt / Choreography:** Unexpected Guest (Boting Mo; vertical iPhone 16 Pro fight)
+- **AI Action:** 侠影宠梦 (Seedance 2.0 animal wuxia); giant tokusatsu fight with original creator's reference-image prompt details
+
+*Each entry includes an original viewing link, action design, camera/editing guidance, reusable AI-video pattern, suggested crop duration, and provenance caveats.*
+
+## Earlier additions — 2026-10-24 (evening supplement)
 
 **9 additional annotated videos, distinct from the earlier 2026-10-24 batch.** [See the new nine-case batch](references/runs/2026-10-24-evening.md) or the [dated index](references/INDEX.md).
 
