@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-10-25 — 10 curated fighting references (six categories)
+
+- **martial arts** — Die Finals 2026 German karate kumite team finale (Ludwigsburg vs Hessen Lions).
+- **film-TV** — NIGHT SHIFT (2026, Lorenz Hideyoshi / Andy Long); MartialClub's Shaolin Avengers; Brian M Tang's KODAMA.
+- **games** — Mortal Shell II official 12-minute gameplay reveal (Playstack).
+- **anime** — The Legend of Korra: Tenzin vs Zaheer/Red Lotus; The Legend of Vox Machina: Grog vs Kevdak.
+- **stunt-choreography** — Unexpected Guest (Boting Mo, iPhone 16 Pro vertical choreography).
+- **AI-action** — 侠影宠梦 (Seedance 2.0 pet wuxia); Seedance 2.0 40m/50m giant tokusatsu industrial-park fight with creator prompt details.
+
+Batch: [2026-10-25 annotated ten-reference collection](runs/2026-10-25.md).
+
 ## 2026-10-24 evening — 9 additional references (second batch)
 
 - **martial arts** — 2026 Kanto University Kendo final: Tsukuba vs Hosei (LET'S KENDO).
