@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-10-26 — eight new fight references (all six categories)
+
+- **martial arts** — IWUF 4th Taolu World Cup Day 2 Session 4, men's/women's duilian.
+- **film-TV** — Nobody 2 arcade brawl; One More Shot one-take action behind the scenes (Sony official).
+- **games** — Black Myth: Zhong Kui 15-minute official gameplay, giant clam boss.
+- **anime** — Gintama: Gintoki vs Jirocho (Crunchyroll official).
+- **stunt-choreography** — Marissa Labog Fight Reel 2025; Sword Fights, Inc. / Brian Danner weapons-and-fight reel.
+- **AI-action** — Min Choi's Seedance 2.0 crossover fight test (2026-02-14).
+
+Batch: [2026-10-26 annotated eight-video reference list](runs/2026-10-26.md).
+
 ## 2026-10-25 — 10 curated fighting references (six categories)
 
 - **martial arts** — Die Finals 2026 German karate kumite team finale (Ludwigsburg vs Hessen Lions).
