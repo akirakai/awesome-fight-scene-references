@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-10-25
+## Latest additions — 2026-10-26
+
+**8 newly curated references spanning all six categories.** [Read the full eight-case batch](references/runs/2026-10-26.md) or [browse the dated index](references/INDEX.md).
+
+- **Martial Arts:** IWUF 2026 men's and women's duilian (WUSHU TV official).
+- **Film / TV:** Nobody 2 arcade fight; One More Shot official one-take action BTS.
+- **Games:** Black Myth: Zhong Kui official 2026 gameplay and boss-fight reference.
+- **Anime:** Gintama — Gintoki vs Jirocho (Crunchyroll official clip).
+- **Stunt / Choreography:** Marissa Labog 2025 fight reel; Brian Danner/Sword Fights, Inc. stage-combat demonstrations.
+- **AI Action:** Min Choi's Seedance 2.0 crossover fight test.
+
+*Each entry preserves its watch URL, movement/shot-design notes, a short reusable AI prompt pattern, suggested crop length and provenance caveats.*
+
+## Earlier additions — 2026-10-25
 
 **10 newly curated fight-action references across all six categories.** [Read all 10 source-linked, annotated videos and AI prompt patterns](references/runs/2026-10-25.md) or [browse the dated index](references/INDEX.md).
 
