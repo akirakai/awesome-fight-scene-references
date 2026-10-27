@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-10-27 — nine deduplicated fight references across six categories
+
+- **martial arts** — IWUF 11th Sanda World Cup, day 3 final-session recording.
+- **film-TV** — LOCKED (2026 home-siege action short); ENTER THE TIGER (Giovanni Tartaglia / Chucky Currie).
+- **games** — Gungrave G.O.R.E: Blood Heat official PlayStation action trailer.
+- **anime** — BLEACH: Thousand-Year Blood War — The Calamity main PV (2026-05-19).
+- **stunt-choreography** — Lala Guerrero 2026 stunt reel; Sabri Alan's Ronin virtual sword-fight previs (UE5.6, not live action).
+- **AI-action** — Beeldmotion GORT complete film; HANA long-form Higgsfield samurai film with creator-described motion-continuity workflow.
+
+Batch: [2026-10-27 nine-source annotated collection](runs/2026-10-27.md). Sources, camera analysis, 15-second reconstruction prompts, and provenance notes in each entry.
+
 ## 2026-10-26 — eight new fight references (all six categories)
 
 - **martial arts** — IWUF 4th Taolu World Cup Day 2 Session 4, men's/women's duilian.
