@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-10-26
+## Latest additions — 2026-10-27
+
+**9 new nonduplicate fight-video references covering all six categories.** [Read the annotated 2026-10-27 batch](references/runs/2026-10-27.md) or [browse the dated index](references/INDEX.md).
+
+- **Martial Arts:** IWUF 11th Sanda World Cup Day 3 finals.
+- **Film / TV:** LOCKED (2026); ENTER THE TIGER (award-winning independent action short).
+- **Games:** Gungrave G.O.R.E: Blood Heat PlayStation official action trailer.
+- **Anime:** BLEACH TYBW — The Calamity main PV.
+- **Stunt / Choreography:** Lala Guerrero's 2026 stunt reel; Ronin UE5.6 virtual sword-fight choreography previs.
+- **AI Action:** Beeldmotion's GORT; HANA Higgsfield samurai film and creator's mid-action-cuts workflow.
+
+*All entries include direct watch links, choreography, camera/cut notes, reusable AI prompts, clip selection suggestions and accurate production-method labels.*
+
+## Earlier additions — 2026-10-26
 
 **8 newly curated references spanning all six categories.** [Read the full eight-case batch](references/runs/2026-10-26.md) or [browse the dated index](references/INDEX.md).
 
