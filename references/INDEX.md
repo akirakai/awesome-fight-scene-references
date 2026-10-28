@@ -1,5 +1,17 @@
 # References Index
 
+## 2026-10-28 — ten source-linked fight and motion references (six categories)
+
+- **martial arts** — Nicholas Maskhulia vs Ramini Feradze (Sanda); Turkish Jiti Team Performance (group taolu).
+- **film-TV** — The Raid 2 kitchen duel (finished clip); Extraction 2 Sam Hargrave's official oner/action breakdown.
+- **games** — WUCHANG: Fallen Feathers, Perfect Bride boss gameplay trailer.
+- **anime** — TO BE HERO X, Episode 24 fight (Crunchyroll official).
+- **stunt-choreography** — SNATCHERS by Hoon Park/Lester Wu; Gus Hudgins October 2025 stunt reel.
+- **AI-action** — Shaolin vs Shadow Beast (Seedance 2.0); Western Duel 9:16 multi-shot AI workflow.
+
+Batch: [2026-10-28 full ten-reference breakdown](runs/2026-10-28.md). Includes watch links, choreography, camera/editing, AI prompt patterns, video provenance and clip suggestions.
+
+
 ## 2026-10-27 — nine deduplicated fight references across six categories
 
 - **martial arts** — IWUF 11th Sanda World Cup, day 3 final-session recording.
