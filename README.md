@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-10-27
+## Latest additions — 2026-10-28
+
+**10 new annotated fight references in all six categories.** [Read the 2026-10-28 batch](references/runs/2026-10-28.md) or [browse the date index](references/INDEX.md).
+
+- **Martial Arts:** Maskhulia vs Feradze Sanda; Turkish Jiti collective taolu.
+- **Film / TV:** *The Raid 2* kitchen fight (finished clip); *Extraction 2* Netflix director breakdown of 21-minute apparent oner.
+- **Games:** *WUCHANG: Fallen Feathers* — Perfect Bride boss gameplay.
+- **Anime:** *TO BE HERO X* episode 24 official action clip.
+- **Stunt / Choreography:** *SNATCHERS* (Hoon Park); Gus Hudgins stunt/action reel (Oct 2025).
+- **AI Action:** *Shaolin vs Shadow Beast* (Seedance 2.0); *Western Duel* 9:16 AI scene-level multi-shot workflow.
+
+*Includes direct video URLs, choreography and camera/edits, practical AI-video prompt patterns, suggested motion crops and source/rights notes. Full-history deduplication remains best effort.*
+
+## Earlier additions — 2026-10-27
 
 **9 new nonduplicate fight-video references covering all six categories.** [Read the annotated 2026-10-27 batch](references/runs/2026-10-27.md) or [browse the dated index](references/INDEX.md).
 
