@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-10-28
+## Latest additions — 2026-10-29
+
+**10 new source-linked fight references across all six categories.** [Browse the 2026-10-29 batch](references/runs/2026-10-29.md) or [scan the date index](references/INDEX.md).
+
+- **Martial Arts:** Denislav Hadzhiev vs Andreou Prodromou (real Sanda match).
+- **Film / TV:** *CATFIGHT* (2026 boxing short); *The Man from Nowhere* final knife fight; *A GOOD FIGHT* (classic kung-fu tribute).
+- **Games:** *Wo Long 2: Wings of Ember* TGS 2026 Sakshi boss/parry showcase.
+- **Anime:** *Frieren* S2 Stark & Genau vs Revolte, official TOHO short.
+- **Stunt / Choreography:** Miranda Hall Jiménez's stage-combat training; live-action *SAKAMOTO DAYS* official stunt-making featurette.
+- **AI Action:** Seedance 2.0 multi-opponent action test; rainy Tokyo alley duel with publicly shared character-state prompt.
+
+*Includes direct video and source links, provenance, actionable movement and camera-analysis notes, short reusable prompt patterns and suggested reference crops. Historic deduplication is best-effort.*
+
+## Earlier additions — 2026-10-28
 
 **10 new annotated fight references in all six categories.** [Read the 2026-10-28 batch](references/runs/2026-10-28.md) or [browse the date index](references/INDEX.md).
 
