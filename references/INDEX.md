@@ -1,5 +1,17 @@
 # References Index
 
+## 2026-10-29 — ten fight/motion references (six categories)
+
+- **martial arts:** Denislav Hadzhiev vs Andreou Prodromou, Sanda Pro Fight.
+- **film-TV:** *CATFIGHT* (2026), *The Man from Nowhere* final knife duel, *A GOOD FIGHT* martial arts short.
+- **games:** *Wo Long 2: Wings of Ember* TGS 2026 boss/deflect gameplay reveal.
+- **anime:** *Frieren* S2 E35, Stark & Genau vs Revolte (TOHO official short).
+- **stunt-choreography:** Miranda Hall Jiménez stage-combat training; *SAKAMOTO DAYS* (2026 live action) action-making PV #2.
+- **AI-action:** Seedance 2.0 动作场面测试（1）; Rainy Tokyo Alley Duel Prompt #02 (video + public structured prompt).
+
+Full annotated batch: [2026-10-29](runs/2026-10-29.md). Ten watch links, choreography, recommended camera observations, original prompt abstractions, suggested crops and provenance notes.
+
+
 ## 2026-10-28 — ten source-linked fight and motion references (six categories)
 
 - **martial arts** — Nicholas Maskhulia vs Ramini Feradze (Sanda); Turkish Jiti Team Performance (group taolu).
