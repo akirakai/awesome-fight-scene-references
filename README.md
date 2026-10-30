@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-10-29
+## Latest additions — 2026-10-30
+
+**10 newly curated source-linked fight references across all six categories.** [Browse the 2026-10-30 batch](references/runs/2026-10-30.md) or [browse the dated index](references/INDEX.md).
+
+- **Martial Arts:** Adrenaline Tricking League's 2026 Japan tour sampler; Allan Zangana vs Hamza Goksu Sanda.
+- **Film / TV:** *The Matrix Reloaded* Chateau Fight (official Movieclips upload); *Juno & Sensei* choreographed movement duel.
+- **Games:** *NINJA GAIDEN 4* official Master Ninja gameplay.
+- **Anime:** Netflix Anime's official *DAN DA DAN* Okarun vs Evil Eye clip.
+- **Stunt / Choreography:** Peter Pedrero's *The Dead Chronicles* action scene with matching raw/VFX comparison.
+- **AI Action:** *The Last Relic* original Seedance 2.5 duel; Kōda's 2026-10-18 airborne fight; *Mumbai Tourism — Last Stop* hybrid AI train action.
+
+*Original viewing links and distinct publication/work dates are preserved. Each case has movement, framing/continuity analysis, a reusable AI-video prompt, provenance and rights cautions. Historic deduplication is best-effort.*
+
+## Earlier additions — 2026-10-29
 
 **10 new source-linked fight references across all six categories.** [Browse the 2026-10-29 batch](references/runs/2026-10-29.md) or [scan the date index](references/INDEX.md).
 
