@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-10-30 — ten new fight/action references (six categories)
+
+- **martial arts:** Adrenaline Tricking League — Japan Tour 2026 sampler; Allan Zangana vs Hamza Goksu (Sanda Pro Fight).
+- **film-TV:** *The Matrix Reloaded* — Neo's Chateau Fight (Movieclips, 2026 upload of 2003 film); *Juno & Sensei* (Tom Gera, dancer/VFX movement duel).
+- **games:** *NINJA GAIDEN 4* — Master Ninja gameplay (Team NINJA official).
+- **anime:** *DAN DA DAN* S2 — Okarun vs Evil Eye (Netflix Anime official).
+- **stunt-choreography:** Peter Pedrero's *The Dead Chronicles* action scene + raw/VFX comparison (2026-09-08).
+- **AI-action:** *The Last Relic* (Seedance 2.5 original sci-fi duel); Kōda's aerial Seedance 2.5 fight (2026-10-18); *Mumbai Tourism — Last Stop* (Higgsfield/Seedance/GPT Image/Blender hybrid).
+
+Full notes and original watch links: [2026-10-30 batch](runs/2026-10-30.md). Ten references with provenance, choreography, camera/editing, original prompt abstractions, crop suggestions and rights cautions. Cross-checked against index, category files and recent batches (best-effort deduplication).
+
 ## 2026-10-29 — ten fight/motion references (six categories)
 
 - **martial arts:** Denislav Hadzhiev vs Andreou Prodromou, Sanda Pro Fight.
