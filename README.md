@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-10-30
+## Latest additions — 2026-10-31
+
+**10 newly curated fight, animation, rehearsal and AI-action references across all six categories.** [Browse the 2026-10-31 batch](references/runs/2026-10-31.md) or [the dated index](references/INDEX.md).
+
+- **Martial arts:** Kristian Kirilov vs Enes Gezer (2026 Sanda).
+- **Film / TV:** *Everything Everywhere All at Once* fanny-pack action; *Ip Man 2* round-table duel.
+- **Games:** *Sekiro* — Sword Saint Isshin no-damage gameplay.
+- **Anime / animation:** *Arcane* — Vi vs Sevika, bar fight.
+- **Stunt / choreography:** LBP Stunts *Wheels on Meals* side-by-side rehearsal; Melissa Lischer stunt-reel action.
+- **AI Action:** Xaroon's Seedance 2.5 MMA with prompt; Higgsfield official 2026-10-24 corridor-fight tutorial; Eyisha Zyer's *Geisha vs Ronin*.
+
+*Original links and separate work/publication dates are preserved; third-party uploads are identified and the collection is not a license to reuse source footage. Deduplication is best-effort.*
+
+## Earlier additions — 2026-10-30
 
 **10 newly curated source-linked fight references across all six categories.** [Browse the 2026-10-30 batch](references/runs/2026-10-30.md) or [browse the dated index](references/INDEX.md).
 
