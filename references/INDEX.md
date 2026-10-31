@@ -1,5 +1,17 @@
 # References Index
 
+## 2026-10-31 — 10 fight/action references (six categories)
+
+- **martial arts:** Kristian Kirilov vs Enes Gezer, Sanda Pro Fight (WUSHU.TV, 2026-01-31).
+- **film-TV:** *Everything Everywhere All at Once* — Fanny-Pack Fight; *Ip Man 2* — round-table duel.
+- **games:** *Sekiro* — Sword Saint Isshin no-damage battle.
+- **anime / animation:** *Arcane* — Vi vs Sevika bar fight (Western animation; fan-uploaded scene).
+- **stunt-choreography:** LBP Stunts' *Wheels on Meals* side-by-side rehearsal; Melissa Lischer stunt action reel.
+- **AI-action:** Xaroon's 2026-10-06 Seedance 2.5 MMA fight with original timestamped prompt; Higgsfield's 2026-10-24 Seedance 2.5 corridor-fight workflow; Eyisha Zyer's *Geisha vs Ronin*.
+
+Full notes, original watch links and prompt abstractions: [2026-10-31 batch](runs/2026-10-31.md). All six categories; source-provenance flags; previous *HAVOC* and *The Protector* entries explicitly excluded as repeats. Historical deduplication is best effort.
+
+
 ## 2026-10-30 — ten new fight/action references (six categories)
 
 - **martial arts:** Adrenaline Tricking League — Japan Tour 2026 sampler; Allan Zangana vs Hamza Goksu (Sanda Pro Fight).
