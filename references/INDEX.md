@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-01 — 10 verified-source fight/action references (six categories)
+
+- **martial arts:** 20th European Wushu Championships, Friday Tuishou session (push-hands/weight transfer).
+- **film-TV:** *A Working Man* (Levon vs Russian Mafia, Cinema Today clip); *Once Upon a Time in China II* (Jet Li vs Donnie Yen, improvised laundry pole; third-party upload).
+- **games:** *Dead As Disco* — Dahlia/Idol rhythm-synced boss fight (IGN, 2026-09-28); *Phantom Blade Zero* — new Heart Lake boss video (GameTrailers, 2026-10-30; distinct from older mocap article).
+- **anime:** *Naruto Shippuden* — Kakashi vs Obito (Crunchyroll official clip).
+- **stunt-choreography:** *Mortal Kombat 1* LBP Stunts cinematic-action reel; *DC Titans S4* side-by-side action previs vs finished shots.
+- **AI-action:** Lennard Smith's *BONE THRONE* (Seedance/Kling/Higgsfield hybrid, tools according to secondary case study); creator-posted Seedance wuxia test with process notes (distinct from previously indexed *侠影宠梦*).
+
+Full watch links, rights/provenance, camera/movement analysis and 10 original AI prompts: [2026-11-01 batch](runs/2026-11-01.md). Checks included README, date index, six category files and candidate title search; historical deduplication remains best effort. Work dates and upload dates are distinguished.
+
 ## 2026-10-31 — 10 fight/action references (six categories)
 
 - **martial arts:** Kristian Kirilov vs Enes Gezer, Sanda Pro Fight (WUSHU.TV, 2026-01-31).
