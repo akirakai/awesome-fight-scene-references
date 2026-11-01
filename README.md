@@ -63,7 +63,7 @@ Example:
 - **Games:** *Dead As Disco* Dahlia rhythm-boss fight; *Phantom Blade Zero* 2026-10-30 Heart Lake boss gameplay video.
 - **Anime:** Crunchyroll's official *Kakashi vs Obito* action clip.
 - **Stunt / Choreography:** *Mortal Kombat 1* story-cinematic stunt reel; *DC Titans* S4 stunt-previs/finished-scene side-by-side.
-- **AI Action:** Lennard Smith *BONE THRONE* (hybrid AI workflow); Seedance 2.0 wuxia-action experiment with process notes.
+- **AI Action:** Lennard Smith *BONE THRONE* (hybrid AI workflow); Seedance wuxia-action experiment with process notes (minor version unverified).
 
 *Original video links, date/source distinctions, movement and camera study points, 10 newly authored English AI prompts and rights cautions are in the full batch. Deduplication is best effort.*
 
