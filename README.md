@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-10-31
+## Latest additions — 2026-11-01
+
+**10 newly curated watchable fight/action reference videos across all six categories.** [Browse the 2026-11-01 batch](references/runs/2026-11-01.md) or [the dated index](references/INDEX.md).
+
+- **Martial arts:** 20th European Wushu Championships Tuishou push-hands session.
+- **Film / TV:** *A Working Man* Russian-mafia confrontation; *Once Upon a Time in China II* laundry-pole duel.
+- **Games:** *Dead As Disco* Dahlia rhythm-boss fight; *Phantom Blade Zero* 2026-10-30 Heart Lake boss gameplay video.
+- **Anime:** Crunchyroll's official *Kakashi vs Obito* action clip.
+- **Stunt / Choreography:** *Mortal Kombat 1* story-cinematic stunt reel; *DC Titans* S4 stunt-previs/finished-scene side-by-side.
+- **AI Action:** Lennard Smith *BONE THRONE* (hybrid AI workflow); Seedance 2.0 wuxia-action experiment with process notes.
+
+*Original video links, date/source distinctions, movement and camera study points, 10 newly authored English AI prompts and rights cautions are in the full batch. Deduplication is best effort.*
+
+## Earlier additions — 2026-10-31
 
 **10 newly curated fight, animation, rehearsal and AI-action references across all six categories.** [Browse the 2026-10-31 batch](references/runs/2026-10-31.md) or [the dated index](references/INDEX.md).
 
