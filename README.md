@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-01
+## Latest additions — 2026-11-02
+
+**9 new source-linked fight videos across six categories.** [Read the full 2026-11-02 batch](references/runs/2026-11-02.md) or [date index](references/INDEX.md).
+
+- **Martial arts:** Dakar 2026 Youth Olympics Day 1 wushu highlights (2026-11-02).
+- **Film / TV:** *Mortal Kombat II* Liu Kang vs Kung Lao IMDb action excerpt; *Specials* 2026 three-person gun standoff.
+- **Games:** *Where Winds Meet* Qingzhou official gameplay trailer (2026-10-15).
+- **Anime:** Crunchyroll's *One Piece* Gear 5 Luffy vs Lucci.
+- **Stunt / choreography:** Battleblade's HiPhi *The Future Never Sleeps* action work; LBP Stunts *ZOMBIE FIGHT CONCEPTS PREVIS*.
+- **AI Action:** Magnific Seedance 2 vs 2.5 boxing physics comparison; 2026-10-30 @ojisan__isekai 15-second reference-locked sword fight creator post (X playback may require login).
+
+*Includes direct sources, choreography/camera observations, 9 newly authored English prompts, crop suggestions, and provenance/rights caveats. Deduplication is best effort.*
+
+## Earlier additions — 2026-11-01
 
 **10 newly curated watchable fight/action reference videos across all six categories.** [Browse the 2026-11-01 batch](references/runs/2026-11-01.md) or [the dated index](references/INDEX.md).
 
