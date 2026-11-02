@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-02 — nine new fight/action references in six categories
+
+- **martial arts:** Dakar 2026 Youth Olympics Wushu Day 1 Recap (USAWKF, 2026-11-02).
+- **film-TV:** *Mortal Kombat II* Liu Kang vs Kung Lao (IMDb 4:46 clip); *Specials* 2026 official excerpt (gun standoff).
+- **games:** *Where Winds Meet* Qingzhou Gameplay Trailer (official channel, 2026-10-15).
+- **anime:** *One Piece* E1101, Gear 5 Luffy vs Lucci (Crunchyroll official).
+- **stunt-choreography:** HiPhi *The Future Never Sleeps* (Battleblade action/previs); LBP Stunts *ZOMBIE FIGHT CONCEPTS PREVIS* (2014 classic).
+- **AI-action:** Magnific Seedance 2/2.5 boxing physics challenge (2026-09-18); @ojisan__isekai 2026-10-30 structure-locked AI swordfight/Prompt (video availability flagged).
+
+Full 9 watch sources, source dates, camera/action breakdowns and 9 original AI prompt abstractions: [2026-11-02 annotated batch](runs/2026-11-02.md). Best-effort cross-check against category files and index; X source may require login.
+
 ## 2026-11-01 — 10 verified-source fight/action references (six categories)
 
 - **martial arts:** 20th European Wushu Championships, Friday Tuishou session (push-hands/weight transfer).
