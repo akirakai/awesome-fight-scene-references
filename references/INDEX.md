@@ -1,5 +1,17 @@
 # References Index
 
+## 2026-11-03 — 10 watch-linked fight references (six categories)
+
+- **martial arts:** Dakar 2026 Olympics wushu full competition broadcast (uploaded Nov 3); ONE Avatar vs Antar Kacem Muay Thai highlights (published Oct 22).
+- **film-TV:** *The Gray Man* official Netflix India hospital fight; *REWIND* indie action short and fight choreography.
+- **games:** *Devil May Cry: Peak of Combat* Dante vs Vergil official video; *Hades II* Prometheus boss gameplay from a player channel.
+- **anime:** *Mob Psycho 100 II* Ritsu vs Shimazaki (Crunchyroll official).
+- **stunt-choreography:** *Predator: Killer of Killers* kusarigama stuntvis / The Third Floor reel (Josh Seal).
+- **AI-action:** *PROMPTED* (WAIFF AI-action film), *疯狂的轻功追逐战* (2026 AI wuxia short; Bilibili creator source via AIFI).
+
+Annotated original watch links, separate publication/source claims, 10 reusable original English prompts, crop suggestions and caveats: [2026-11-03 full batch](runs/2026-11-03.md). Confirm clip access/precise crop before reusing; historic deduplication is best effort.
+
+
 ## 2026-11-02 — nine new fight/action references in six categories
 
 - **martial arts:** Dakar 2026 Youth Olympics Wushu Day 1 Recap (USAWKF, 2026-11-02).
