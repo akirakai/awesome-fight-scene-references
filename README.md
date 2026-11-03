@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-02
+## Latest additions — 2026-11-03
+
+**10 new source-linked references across all six categories.** [2026-11-03 annotated 10-case batch](references/runs/2026-11-03.md) · [dated index](references/INDEX.md)
+
+- **Martial arts:** Dakar 2026 official Olympics full wushu broadcast (Nov 3); ONE Avatar vs Antar Kacem Muay Thai highlight.
+- **Film / TV:** Netflix India's *The Gray Man* Dhanush hospital confrontation; Breakfall Studios' award-winning *REWIND* short.
+- **Games:** official *Devil May Cry: Peak of Combat* Dante vs Vergil; *Hades II* Prometheus boss encounter player footage.
+- **Anime:** Crunchyroll official *Mob Psycho 100 II* Ritsu vs Shimazaki.
+- **Stunt / choreography:** Josh Seal / The Third Floor's *Predator: Killer of Killers* kusarigama fight previs (movement-first camera planning).
+- **AI action:** WAIFF finalist *PROMPTED*; AI wuxia *疯狂的轻功追逐战* (catalogue-sourced multi-tool attribution).
+
+*Source confidence and rights caveats, 10 original English motion prompts and suggested crops are in the dated Markdown. Historic deduplication is best effort.*
+
+## Earlier additions — 2026-11-02
 
 **9 new source-linked fight videos across six categories.** [Read the full 2026-11-02 batch](references/runs/2026-11-02.md) or [date index](references/INDEX.md).
 
