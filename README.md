@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-03
+## Latest additions — 2026-11-04
+
+**9 new watch-linked fight references across all six categories.** [Full 2026-11-04 annotated batch](references/runs/2026-11-04.md) · [dated index](references/INDEX.md)
+
+- **Martial arts:** Japan's 2026 police kendo final; Kobudo classical-martial demonstrations (Jiji Press).
+- **Film / TV:** *PLAYIN' AROUND* toy-store action comedy; *THE FOLLOWING* briefcase film-noir confrontation.
+- **Games:** IGN First's *CONTROL Resonant* Central Resonant boss-fight gameplay (new footage vs earlier generic reveal).
+- **Anime:** Crunchyroll official *My Hero Academia* Blackchain launch, episode 151.
+- **Stunt / choreography:** *Street Fight Previs* (Maya/Unreal realistic camera), François Girard 2026 stunt reel.
+- **AI Action:** Daniel Sunday's original Seedance 2.0 fighting short.
+
+*Includes direct URLs, nine original English motion prompts, camera/movement observations, recommended crops (timestamps unverified), source provenance, and reuse-rights caveats. De-duplication checked current categories and index, not every historical batch.*
+
+## Earlier additions — 2026-11-03
 
 **10 new source-linked references across all six categories.** [2026-11-03 annotated 10-case batch](references/runs/2026-11-03.md) · [dated index](references/INDEX.md)
 
