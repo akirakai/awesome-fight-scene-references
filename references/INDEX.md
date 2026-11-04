@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-04 — 9 source-linked fight references (six categories)
+
+- **martial arts:** 2026 Japan Police Kendo Championship final (Miyazaki vs Tokyo Metropolitan Police); 49th Japanese Kobudo Demonstration (Jiji Press).
+- **film-TV:** *PLAYIN' AROUND* original toy-shop action comedy (2024 production / 2025 festival awards); *THE FOLLOWING* (2026 noir briefcase conflict).
+- **games:** *CONTROL Resonant* IGN First Central Resonant fire-boss gameplay (Aug 14, 2026; different video from the earlier gameplay reveal).
+- **anime:** Crunchyroll *My Hero Academia* E151 Blackchain attack (official clip).
+- **stunt-choreography:** Arnav Banerji's *Street Fight Previs* (Maya/Unreal, real camera settings); François Girard 2026 stunt showreel.
+- **AI-action:** Daniel Sunday's original creator-posted Seedance 2.0 fighting short.
+
+Original direct video links, clearly distinguished event/video dates, choreography & camera notes, limitations, nine original English prompts and short-reference guidance: [2026-11-04 annotated batch](runs/2026-11-04.md). This is best-effort deduplication, not a frame-verified clip audit.
+
 ## 2026-11-03 — 10 watch-linked fight references (six categories)
 
 - **martial arts:** Dakar 2026 Olympics wushu full competition broadcast (uploaded Nov 3); ONE Avatar vs Antar Kacem Muay Thai highlights (published Oct 22).
