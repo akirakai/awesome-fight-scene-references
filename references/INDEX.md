@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-05 — 10 source-linked action references (all six categories)
+
+- **martial arts:** ONE Friday Fights 34, Rodtang vs Superlek — complete authentic Muay Thai fight (2023; distinct from Takeru–Rodtang).
+- **film-TV:** Netflix *Demon City / 鬼ゴロシ* excavator action clip (2025); *Infiltrate* 2026 official trailer (montage, not uninterrupted action).
+- **games:** Pearl Abyss *Crimson Desert* official combat/progression feature overview (2026-02-05); Com2uS *GACHIAKUTA: The Game* Riyo combat trailer (March 2026).
+- **anime:** *Solo Leveling* Sung Jinwoo vs Igris — official Crunchyroll clip (2026 repost of 2024 encounter).
+- **stunt-choreography:** Tig Fong's *Chinatown Fight Previs & Finished*; LBP Stunts Chicago / One & Done *Sword Concepts*.
+- **AI-action:** Higgsfield Originals *The Trigger* (2026 AI film); Theoretically Media's *Dragon Blue* (Dreamina Seedance 2.0, original video plus creator production masterclass).
+
+**Direct viewing links, source and publication dates, action/camera study notes, reusable original English prompts, recommended crop lengths and caveats:** [2026-11-05 annotated batch](runs/2026-11-05.md). Deduplication checked the repository index, README, six main category files and GitHub candidate searches; full historical batch coverage is not asserted.
+
 ## 2026-11-04 — 9 source-linked fight references (six categories)
 
 - **martial arts:** 2026 Japan Police Kendo Championship final (Miyazaki vs Tokyo Metropolitan Police); 49th Japanese Kobudo Demonstration (Jiji Press).
