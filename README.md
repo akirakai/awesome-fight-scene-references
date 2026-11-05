@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-04
+## Latest additions — 2026-11-05
+
+**10 source-linked fight/action references across all six categories.** [Full 2026-11-05 annotated batch](references/runs/2026-11-05.md) · [dated index](references/INDEX.md)
+
+- **Martial arts:** Rodtang vs Superlek ONE Friday Fights 34 complete Muay Thai bout (distinct from the earlier Takeru–Rodtang reference).
+- **Film / TV:** *Demon City* industrial excavator fight excerpt (2025); *Infiltrate* (2026) official action trailer.
+- **Games:** *Crimson Desert* combat overview #2; *GACHIAKUTA: The Game* Riyo character combat trailer.
+- **Anime:** Crunchyroll *Solo Leveling* Jinwoo vs Igris sword-duel clip (2024 scene, 2026 official resurfacing).
+- **Stunt / choreography:** Tig Fong *Chinatown Fight Previs & Finished*; LBP/One & Done *Sword Concepts* weapon choreography.
+- **AI Action:** Higgsfield Studio *The Trigger* original action film; Theoretically Media's *Dragon Blue* with creator's Seedance 2.0 making-of.
+
+*Includes original video URLs, 10 independently authored English motion prompts, action geography/weapon/continuity study points, suggested crop lengths, source links and copyright caveats. Editorial analysis is not frame-by-frame verified and historic deduplication is best effort.*
+
+## Earlier additions — 2026-11-04
 
 **9 new watch-linked fight references across all six categories.** [Full 2026-11-04 annotated batch](references/runs/2026-11-04.md) · [dated index](references/INDEX.md)
 
