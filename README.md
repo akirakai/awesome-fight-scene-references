@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-05
+## Latest additions — 2026-11-06
+
+**9 new, direct source-linked fight/action reference videos across all six categories.** [Full Nov 6 annotated batch](references/runs/2026-11-06.md) · [dated index](references/INDEX.md).
+
+- **Martial arts:** Khunsuk vs YodUdon (ONE Friday Fights 176, Oct 30) — direct beIN SPORTS highlight and organizer corroboration.
+- **Film / TV:** *Express Delivery* (award-winning independent action film); *DISARM* (sci-fi armblade choreography and practical/VFX integration).
+- **Games:** *Lords of the Fallen II* Nov 4 Steel & Sorcery combat trailer; *Godzilla: Destroy All Monsters Melee Remastered* Nov 3 launch combat trailer.
+- **Anime:** Crunchyroll official *Fire Force* Shinra vs Hibana (2019 classic).
+- **Stunt / choreography:** *THE KEY* sword previs-style production; *Pacific Rim Uprising* battling robot previsualization by its original animator.
+- **AI Action:** The Dor Brothers' *APEX* (creator-confirmed 2026 Seedance 2.0 action short).
+
+*Each entry has original/source links, verified production/source context where available, action and camera/editing study points, unique English motion prompts and crop suggestions. Montage, regional playback, timestamp, attribution and rights caveats are labeled. Historic deduplication remains best effort.*
+
+## Earlier additions — 2026-11-05
 
 **10 source-linked fight/action references across all six categories.** [Full 2026-11-05 annotated batch](references/runs/2026-11-05.md) · [dated index](references/INDEX.md)
 
