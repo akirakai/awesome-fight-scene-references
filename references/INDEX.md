@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-06 — 9 new source-linked fights/action references (all six categories)
+
+- **martial arts:** Khunsuk vs YodUdon — ONE Friday Fights 176 (2026-10-30) beIN SPORTS highlight with organizer result and rough highlight time landmarks.
+- **film-TV:** Ki Films' *Express Delivery* (2017 award-winning original action short); Andrew Kelleher's *DISARM* (sci-fi cybernetic-arm / practical-VFX action short).
+- **games:** *Lords of the Fallen II* Steel & Sorcery combat trailer (IGN, **2026-11-04**); *Godzilla: Destroy All Monsters Melee Remastered* launch trailer (IGN, **2026-11-03**).
+- **anime:** Crunchyroll official *Fire Force* Shinra vs Hibana clip (2019 classic).
+- **stunt-choreography:** Régis Raffin *THE KEY* sword-previs-style shoot; *Pacific Rim Uprising* battling-robots previsualization from the original animator.
+- **AI-action:** The Dor Brothers' *APEX* (creator-confirmed Seedance 2.0 original AI action film, 2026-02-16).
+
+**Original viewing links, creative provenance, action design, camera/editing observations, approximate viewing/cropping guidance and 9 original English AI motion prompts:** [2026-11-06 annotated batch](runs/2026-11-06.md). Comparison against README/index, six category files and code searches found no matches; exhaustive all-time deduplication and regional playback not guaranteed.
+
 ## 2026-11-05 — 10 source-linked action references (all six categories)
 
 - **martial arts:** ONE Friday Fights 34, Rodtang vs Superlek — complete authentic Muay Thai fight (2023; distinct from Takeru–Rodtang).
