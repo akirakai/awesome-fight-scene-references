@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-07 — 10 new curated fight references across all six categories
+
+- **martial arts:** WKO Shinkyokushin 58th All-Japan Karate Championship (2026-10-29 official short); **Superball Sitcho vs Saksri** at ONE Friday Fights 177 (**2026-11-06**, organizer replay + highlight).
+- **film-TV:** Paramount Japan *Street Fighter (2026)* Ken/Ryu special footage (official 2026-10-23 release); *The Night Comes for Us* (2018) The Operator vs Alma & Elena apartment fight (third-party clip).
+- **games:** *Onimusha: Way of the Sword* — Capcom's **Dohatsuten** boss-fight footage (2026-06-26), distinct from the older motion-capture background article.
+- **anime:** *Attack on Titan* — **Levi vs Beast Titan** official Crunchyroll clip (classic 2019 upload).
+- **stunt-choreography:** Gorodenkoff's *Samurai Duel* (MRMC Bolt/Unreal LED stage **BTS + final**); *Andor* S2 Cassian vs Syril **Project44Action** choreography-rehearsal breakdown.
+- **AI-action:** Luis *THE FIGHT IN THE GYM* (creator-labeled AI group combat); Ruby Prime *AI Action Movie Sequence — Cinematic Rooftop Fight* (creator-labeled AI 1v1; model/version not verified).
+
+**Original viewing URLs, scene-level study notes, ten independent English motion prompts, crop guidance and source confidence/rights caveats:** [2026-11-07 annotated batch](runs/2026-11-07.md). De-duplication checked the README, date index, six category files and non-indexed GitHub searches; not every historical run file was audited.
+
 ## 2026-11-06 — 9 new source-linked fights/action references (all six categories)
 
 - **martial arts:** Khunsuk vs YodUdon — ONE Friday Fights 176 (2026-10-30) beIN SPORTS highlight with organizer result and rough highlight time landmarks.
