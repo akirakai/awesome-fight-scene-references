@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-06
+## Latest additions — 2026-11-07
+
+**10 source-linked, annotated fight/action references across all six categories.** [Full 2026-11-07 research batch](references/runs/2026-11-07.md) · [dated index](references/INDEX.md).
+
+- **Martial arts:** WKO Shinkyokushin 58th All-Japan Karate official short; **ONE Friday Fights 177** Superball vs Saksri (**Nov 6, 2026**), official event replay and bout report.
+- **Film / TV:** Paramount Japan's 2026 *Street Fighter* Ken/Ryu official featurette; *The Night Comes for Us* (2018) The Operator vs two assassins (third-party embedded scene).
+- **Games:** Capcom *Onimusha: Way of the Sword* **Dohatsuten** boss combat video (specific encounter distinct from the existing mocap article).
+- **Anime:** Crunchyroll official *Attack on Titan* **Levi vs Beast Titan** classic.
+- **Stunt / Choreography:** Gorodenkoff's MRMC Bolt/Unreal LED **Samurai Duel** with creator BTS + finished fight; *Andor* Season 2 **Cassian vs Syril** stunt rehearsal breakdown.
+- **AI Action:** *THE FIGHT IN THE GYM* and *Cinematic Rooftop Fight Scene* (creator-published, AI-generated; specific models not independently confirmed).
+
+*Includes **10 original English AI motion prompts**, original viewing URLs, provenance/date checks, action blocking & camera notes, reference crop suggestions, and licensing/login caveats. Highlight/montage content is labeled; no frame-by-frame audit; historical deduplication is best effort.*
+
+## Earlier additions — 2026-11-06
 
 **9 new, direct source-linked fight/action reference videos across all six categories.** [Full Nov 6 annotated batch](references/runs/2026-11-06.md) · [dated index](references/INDEX.md).
 
