@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-08 — 9 new directly source-linked action references (six categories)
+
+- **martial arts:** Asael Rondonuwu (INA) Dakar 2026 silver-medal Changquan footage (**2026-11-07**); Justin Benedik straight-sword Jianshu demonstration (**2026-11-05**).
+- **film-TV:** EskoBros *Ninja Twins From Another Dimension* independent kung-fu one-minute short; *Kamen Rider Agito: Superpower War* Makoto Hikawa prison-fight excerpt (Cinema Today, **2026-04-28**).
+- **games:** *TEKKEN 8* — Roger Jr. “Pocket Commander” official gameplay reveal (Bandai Namco, **2026-10-12**).
+- **anime:** *DARK MACHINE THE ANIMATION* Episode 4 official battle-scene preview (Fuji TV, **2026-11-02**).
+- **stunt-choreography:** *HALL FIGHT* — director David Wayne Smith, fight choreography by Bronwin October; one-minute original Vimeo clip.
+- **AI-action:** ZELIA mountaintop kung fu (**2026-10-25**) and @clcoding laundromat fight (**2026-10-23**), both comparison videos testing Seedance 2.0 / 2.5 / Kling 4.0, with creator originals and direct mirror playback.
+
+**All 9 source URLs, original AI-video prompts, choreography and camera guidance, crop and attribution caveats:** [2026-11-08 fully annotated batch](runs/2026-11-08.md). Prior index, README, six categories and sampled older runs checked for repeat titles/URLs; full historic batch audit not complete.
+
 ## 2026-11-07 — 10 new curated fight references across all six categories
 
 - **martial arts:** WKO Shinkyokushin 58th All-Japan Karate Championship (2026-10-29 official short); **Superball Sitcho vs Saksri** at ONE Friday Fights 177 (**2026-11-06**, organizer replay + highlight).
