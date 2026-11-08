@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-07
+## Latest additions — 2026-11-08
+
+**Nine new source-linked action references in all six categories.** [Annotated 2026-11-08 batch with 9 original English motion prompts](references/runs/2026-11-08.md) · [dated index](references/INDEX.md).
+
+- **Martial arts:** Dakar 2026 silver medalist Asael Rondonuwu's Changquan (Nov 7), plus Justin Benedik's Jianshu demonstration (Nov 5).
+- **Film / TV:** Esko Brothers' surreal one-minute *Ninja Twins From Another Dimension*; **Kamen Rider Agito** 2026 prison confrontation excerpt (Cinema Today).
+- **Games:** Bandai Namco's Oct 12 *TEKKEN 8 — Roger Jr.* official gameplay, with Commando Wrestling throws.
+- **Anime:** Fuji TV's **DARK MACHINE THE ANIMATION** Episode 4 official battle preview (Nov 2).
+- **Stunt / choreography:** Bronwin October / David Wayne Smith's award-winning **HALL FIGHT** one-minute sequence.
+- **AI action:** ZELIA's Oct 25 mountaintop kung fu and @clcoding's Oct 23 laundromat fight — two **distinct** 3-model side-by-side tests (Seedance 2.0, Seedance 2.5, Kling 4.0), with original creator posts preserved.
+
+*Contains source and date checks, movement/camera analyses, suggested reference crops, original English prompts, provenance notes and rights caveats. Timecodes and precise on-screen actions have not been frame-audited; historical de-duplication remains best effort.*
+
+## Earlier additions — 2026-11-07
 
 **10 source-linked, annotated fight/action references across all six categories.** [Full 2026-11-07 research batch](references/runs/2026-11-07.md) · [dated index](references/INDEX.md).
 
