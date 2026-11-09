@@ -54,7 +54,20 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-08
+## Latest additions — 2026-11-09
+
+**9 newly selected watchable fight/action references in all six categories**, including the **Nov 6–7 ONE Fight Night 49** kickboxing highlights, two independently published short films, two distinct game combat videos, an official Crunchyroll anime excerpt, an original stunt previs, and two creator-attributed AI action studies.
+
+- **Martial arts:** Taiki Naito vs Kongthoranee (ONE Fight Night 49), source-linked official Instagram highlight.
+- **Film / TV:** *SANDBOX* (award-winning 2019 short) and Emerson Wong's *Savino — The Next Jedi* (group ninja choreography).
+- **Games:** IGN's *Black Myth: Wukong* PS5 boss-fight footage (different from *Black Myth: Zhong Kui*) and GameSpot's 2026 *PRAGMATA* combat/boss preview.
+- **Anime:** *Attack on Titan S3* Kenny versus Levi, official Crunchyroll clip (different fight from Levi vs Beast Titan).
+- **Stunt / Choreography:** Owen Matthess / Richard Ryan's **Pre-Visualization Choreographed Fight Scene** (2016).
+- **AI Action:** Mohanad Turman's **Shadow Strike** (Seedance 2.0) and Sergei Afonin's 2026 **LOCALS** (multi-tool Seedance 2.5 action storytelling).
+
+[Full 2026-11-09 batch with 9 original English motion prompts](references/runs/2026-11-09.md) · [dated index](references/INDEX.md). *Source confidence and login limitations stated per entry; no frame-by-frame audit; historical deduplication is best effort.*
+
+## Earlier additions — 2026-11-08
 
 **Nine new source-linked action references in all six categories.** [Annotated 2026-11-08 batch with 9 original English motion prompts](references/runs/2026-11-08.md) · [dated index](references/INDEX.md).
 
