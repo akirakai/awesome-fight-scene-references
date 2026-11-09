@@ -1,5 +1,17 @@
 # References Index
 
+## 2026-11-09 — 9 new source-linked video references across all six categories
+
+- **martial arts:** Taiki Naito vs Kongthoranee, ONE Fight Night 49 official 2026-11-06/07 kickboxing highlight (Instagram login may be required).
+- **film-TV:** *SANDBOX* (Daniel Anda, 2019), *Savino — The Next Jedi* (Emerson Wong, multi-ninja short).
+- **games:** *Black Myth: Wukong* (2024 IGN PS5 boss-fight trailer; distinct from 2026 Zhong Kui); *PRAGMATA* (GameSpot 2026-03-16 boss/combat gameplay).
+- **anime:** *Attack on Titan S3 — Kenny versus Levi* (Crunchyroll verified official clip, not the Beast Titan battle).
+- **stunt-choreography:** Richard Ryan choreographed fight pre-visualization / Owen Matthess (2016).
+- **AI-action:** *Shadow Strike* (single-image Seedance 2.0 character consistency); *LOCALS* (Seedance 2.5 / Higgsfield multi-scene action short).
+
+**All 9 original viewing URLs, scene breakdown hypotheses, camera/editing notes, 9 original motion prompts and rights/access caveats:** [2026-11-09 full annotated batch](runs/2026-11-09.md). Compared README, index, six main categories and candidate GitHub search; no exhaustive historical audit.
+
+
 ## 2026-11-08 — 9 new directly source-linked action references (six categories)
 
 - **martial arts:** Asael Rondonuwu (INA) Dakar 2026 silver-medal Changquan footage (**2026-11-07**); Justin Benedik straight-sword Jianshu demonstration (**2026-11-05**).
