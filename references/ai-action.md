@@ -62,3 +62,24 @@
 - Camera / editing: the research demos remove cinematic cutting, exposing whether timing, balance, spacing and reaction are physically coherent before any visual style is added.
 - AI-video takeaway: author combat in paired causal windows—A commits → B reacts to the observed trajectory → contact/avoidance changes body state → both recover from the new state. Solve interaction physics first, then add camera and cinematic appearance.
 - Tags: humanx, ai-action, reactive-fighting, human-video, physical-interaction, causal-response, 2026
+
+## 2026-11-09 — 2 new verified-source references
+
+### Shadow Strike — AI Assassin Scene (Seedance 2.0)
+- Original watch: https://vimeo.com/1180872388
+- Study: 比追求招式数量更重要的是追踪同一角色跨镜头的一致性；这是原作者自己声明的测试目标。
+- Movement: 把潜行动作设计为暂停观察→移动→一次短促反应→稳定收势；可从中学习连续身份、装备与运动速度约束。
+- Camera / editing: 将镜头运动和角色运动作为独立控制变量；优先使用中景横向跟随，减少一镜内同时急推、急旋及瞬移。
+- AI-video takeaway: 适合设定“单角色参考图+跨镜头行动一致性”的可复用实验。以下提示词为本轮原创，非创作者原文。
+- Tags: AI,Seedance-2.0,YouArt,single-reference,identity-consistency,stealth
+- Full independent motion prompt and provenance: [2026-11-09 curated batch](runs/2026-11-09.md)
+
+### LOCALS — Sergei Afonin's AI Action Short (Seedance 2.5 workflow)
+- Original watch: https://vimeo.com/1234337183
+- Study: 更接近有故事动机的 AI 动作短片：同一角色在咖啡馆、列车、医院等不同地点往返，适合研究跨空间人物与叙事状态继承。创作者称其为 action short；无证据证明每一场都是打斗。
+- Movement: 场景转换时固定角色衣着、身体朝向及携带物；需要生成冲突时先设定单次攻防，避免自动将每个动作场景推断为拳脚打斗。
+- Camera / editing: 以地点建立镜头→人物动作中景→情绪反应为基本节奏，跨场景利用视觉母题或动作匹配剪辑。
+- AI-video takeaway: 适合多镜头制作流：角色图、场景图、时间码 Prompt、音效和最终剪辑分别控制；不将影片中未经核实的具体打斗动作当成事实。
+- Tags: AI,Seedance-2.5,Higgsfield,character-consistency,action-storytelling,2026
+- Full independent motion prompt and provenance: [2026-11-09 curated batch](runs/2026-11-09.md)
+
