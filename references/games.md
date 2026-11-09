@@ -131,3 +131,24 @@
 - Camera / editing: the gameplay camera stays observational and stable enough to read which side initiated a strike, how the defender reacts, and when the exchange resets instead of using cinematic cutting to fake intensity.
 - AI-video takeaway: excellent grounded-brawl prompt grammar: left-side probe → right heavy commitment → block/counter → short stagger → reset. Explicitly assign attack side and recovery so limb motion does not become symmetric or random.
 - Tags: stranger-than-heaven, rgg-studio, 2026, grounded-brawl, left-right-controls, block-counter, directional-action
+
+## 2026-11-09 — 2 new verified-source references
+
+### Black Myth: Wukong — Official PS5 Boss Fight Gameplay (IGN)
+- Original watch: https://www.youtube.com/watch?v=5VcD8Uoqokg
+- Study: 第三人称 Boss 战适合拆解体型比例、攻击前摇与闪避窗口；主角和大敌同场，动作方向能被读懂。
+- Movement: 大型敌人的预备动作→主角判断攻击区域→向侧方闪避→趁空档短促还击→恢复双方距离。用于复刻时每轮只设置一次接触。
+- Camera / editing: 偏后方的第三人称跟随位置展示双方距离与攻击范围；避免 AI 镜头在回避时突然翻到敌人背后。
+- AI-video takeaway: 将游戏逻辑转换成写实镜头：先锁定敌人的轴线与主角相对位置，再加入一条明确闪避/反击线。建议 3–5 秒连续片段。
+- Tags: boss-fight,black-myth-wukong,gameplay,scale,telegraph,counter
+- Full independent motion prompt and provenance: [2026-11-09 curated batch](runs/2026-11-09.md)
+
+### PRAGMATA — New Combat and Boss Gameplay (GameSpot)
+- Original watch: https://www.gamespot.com/videos/pragmata-new-combat-and-boss-gameplay/2300-6466770/
+- Study: 不同于纯拳脚格斗：主角行动与伙伴黑入敌人的能力形成可读的双角色协同攻击，适合 AI 镜头多状态同步。
+- Movement: 主角寻找掩护/攻击窗口→伙伴完成一次辅助干预→敌人产生短暂反馈→主角执行短促攻击→恢复站位。脚本是基于玩法的可复用抽象，不是特定实机片段逐帧复述。
+- Camera / editing: 肩后第三人称构图、敌人与玩家相对位置清晰；画面重点随受击目标转移，避免界面效果遮蔽主体。
+- AI-video takeaway: 适合把双人协作做成 15 秒科幻动作：设置明确定时的伙伴动作，而不是同时发出十余个特效事件。
+- Tags: PRAGMATA,2026,cooperative-combat,boss,third-person,scifi
+- Full independent motion prompt and provenance: [2026-11-09 curated batch](runs/2026-11-09.md)
+
