@@ -75,3 +75,15 @@
 - AI-video takeaway: for believable karate, prompt probe/feint → explosive entry → one short scoring burst → immediate retreat/guard reset. Preserve the empty space and failed probes between attacks.
 - Tags: karate, kumite, 2026, asian-championships, distance-management, feint, guard-reset, full-body-reference
 
+## 2026-11-09 — 1 new verified-source reference
+
+### Taiki Naito vs Kongthoranee Sor Sommai — ONE Fight Night 49
+- Original watch: https://www.instagram.com/p/DfbbtZROBUy/
+- Supplemental official source: https://www.onefc.com/events/onefightnight49/
+- Study: 11月最新高水平真实攻防，尤其适合观察防守后恢复与决定性击打的因果。第三回合的左勾拳击倒及判定胜负由赛事报道证实；并非声称已逐帧看完视频。
+- Movement: 距离试探→对方出脚或出拳→调整护架与步幅→左侧打击命中→对手后退/失衡；先把两名选手的站位、脚下支撑、发力顺序锁定。
+- Camera / editing: 赛事转播以双人可读机位为主；可从剪辑中只提取未切镜的短攻防，不把多镜回放当作一条动作轨迹。
+- AI-video takeaway: 写实格斗测试：以脚步与力量传递为先，最后才加慢动作与观众反应。建议选 2–4 秒真正连续攻防（精确时间码未核实）。
+- Tags: kickboxing,ONE,2026,real-combat,weight-shift,counterpunch
+- Full independent motion prompt and provenance: [2026-11-09 curated batch](runs/2026-11-09.md)
+
