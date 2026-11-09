@@ -84,3 +84,15 @@
 - Camera / editing: rapid cuts are anchored by strong silhouettes, attack direction and impact poses; heavy VFX bridges movement after the body relationship is established.
 - AI-video takeaway: for 3+ anime fighters, keep one active pair plus one interrupter, lock attack direction across cuts, and trigger the largest VFX only after the contact/pose anchor is readable.
 - Tags: jujutsu-kaisen, sendai-colony, multi-fighter, anime-action, threat-handoff, impact-pose, 2026
+
+## 2026-11-09 — 1 new verified-source reference
+
+### Attack on Titan S3 — Kenny versus Levi (Crunchyroll Official Clip)
+- Original watch: https://www.youtube.com/watch?v=RcpbJpgVrfU
+- Study: 城市环境中的短距高速位移、远近尺度变化和明确的追击方向，适合动画动作的空间连续性研究。
+- Movement: 把追击拆成起动→穿越一处障碍/转向→观察对手→重新追近；可用明确关键帧替代难以生成的每个过渡动作。
+- Camera / editing: 大景别建立建筑纵深，速度感用快速移动与镜头转向表达；多个角度之间保留角色的运动方向与目标位置。
+- AI-video takeaway: 最适合提取高速追逐与人物方向变化的 2–4 秒片段，不适合直接把高速蒙太奇当作一次完整人体运动。
+- Tags: anime,attack-on-titan,Levi,Kenny,pursuit,environment,screen-direction
+- Full independent motion prompt and provenance: [2026-11-09 curated batch](runs/2026-11-09.md)
+
