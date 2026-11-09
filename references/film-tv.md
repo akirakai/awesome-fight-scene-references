@@ -174,3 +174,24 @@
 - Camera / editing: medium and medium-close framing frequently preserves hips, shoulders and the contact line, letting speed come from performer timing instead of hiding movement behind cuts.
 - AI-video takeaway: excellent reference for a photorealistic female action lead. Prompt one clear attack/counter phrase at a time, preserve foot contact and torso rotation, and use the camera to follow the body rather than to manufacture speed.
 - Tags: ghost-killer, female-action, japanese-action, close-quarters, grounded-choreography, kensuke-sonomura, 2025
+
+## 2026-11-09 — 2 new verified-source references
+
+### SANDBOX (2019) — Award-Winning Action Short
+- Original watch: https://vimeo.com/379963756
+- Study: 用生日派对被不速之客打断的明确戏剧动机，推动高压近身对抗；既有空间限制，又有可清晰追踪的保护目标。
+- Movement: 人物遭遇突然入侵→靠近或躲避→利用房间的有限路径进行防守反击→主动权变化。这里是建议分析路径，不代表作品的逐秒分镜。
+- Camera / editing: 研究房间/门口的轴线和景别切换如何让受击者和保护对象保持可辨认；剪切动作要对齐身体运动方向。
+- AI-video takeaway: 适合 10–15 秒剧情型动作：先建立保护目的，再安排两次因果明确的动作；建议抽取 3–5 秒同场景攻防。
+- Tags: short-film,indie-action,confined-space,character-motivation,2019
+- Full independent motion prompt and provenance: [2026-11-09 curated batch](runs/2026-11-09.md)
+
+### Savino — The Next Jedi (Emerson Wong)
+- Original watch: https://vimeo.com/248099264
+- Study: 一名主角应对一组忍者，适合研究群战角色优先级和短小动作单元串联；比纯风格剪辑更有明确的动作主题。
+- Movement: 主角面对多方向威胁时，安排敌人依次进入攻击范围；敌人 A 的动作结果必须先交代，再让 B 进入。不要把片中未证实的具体招式写成事实。
+- Camera / editing: 保持主角身份与屏幕方向；用全身中景交代相邻攻击者，再用一处反应特写突出节奏变化。
+- AI-video takeaway: 适合多敌人战斗的 staging：一次只允许一名主要攻击者发生可见接触，其他人保留位置。可提炼 3–5 秒模块。
+- Tags: ninja,multi-opponent,independent-short,blocking,stunt-performers
+- Full independent motion prompt and provenance: [2026-11-09 curated batch](runs/2026-11-09.md)
+
