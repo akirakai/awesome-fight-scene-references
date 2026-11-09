@@ -81,3 +81,15 @@
 - Camera / editing: the choreography is designed for specific framing and performer capability, letting the camera reveal full-body movement when the physical gag or technique matters most.
 - AI-video takeaway: assign one prop or spatial constraint to one action phrase, previs that phrase with the camera, then move to the next idea. This is a strong recipe for distinctive 15-second action without random move stacking.
 - Tags: everything-everywhere-all-at-once, martial-club, stunt-breakdown, prop-choreography, warehouse, hong-kong-action, camera-planning
+
+## 2026-11-09 — 1 new verified-source reference
+
+### Pre-Visualization Choreographed Fight Scene (2016) — Richard Ryan
+- Original watch: https://vimeo.com/208204763
+- Study: 非常适合研究“先把动作排清楚，再拍摄/换风格”的传统动作预演方法；比直接模仿成片更容易诊断 AI 动作链问题。
+- Movement: 在排练视频中区分起手、出招、反应、换位和收势五个环节，并为每个动作指定 A/B 执行者；这是建议标注框架。
+- Camera / editing: 优先从全身、单一机位分析动作和站位，再考虑镜头推进、反打或遮挡切点。
+- AI-video takeaway: 可作为 3–6 秒 ground truth 动作单元：先生成中景版本，与预演比对无误后再做电影化。
+- Tags: previs,Richard-Ryan,stunt,blocking,full-body,2016
+- Full independent motion prompt and provenance: [2026-11-09 curated batch](runs/2026-11-09.md)
+
