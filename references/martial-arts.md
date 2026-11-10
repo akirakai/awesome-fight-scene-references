@@ -1,5 +1,25 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-10 — 2 new references
+
+### Arash Pahali — Dakar 2026 Staff Routine (2026-11-10)
+- Watch: https://euwushu.tv/videos/arash-pahali-iri-olympic-bronze-staff-routine-at-dakar-2026
+- Related/creator/source: https://euwushu.tv/news/wushus-first-olympic-champions-lin-yilei-sondos-sonbol-poon-hao-ran-and-ng-zhe-nin-win-gold-at-dakar-2026
+- Action design: 建议按「立棍预备→跨步改变攻击线→横向抡扫→回收重心」分析；这是建议拆分，非逐帧核实的实际招式。
+- Camera/editing: 赛事展示镜头优先保留全身与棍两端，不靠密集切镜制造速度。42 秒原片含完整片段但未核准每个动作时间码。
+- AI takeaways: 先生成稳定中远景 3–5 秒，检测棍的长度、握持手、运动圆弧与落脚点，再增加环绕镜头。
+- Full motion prompt: [2026-11-10 daily run](runs/2026-11-10.md)
+- Tags: wushu,gunshu,staff,Dakar-2026,full-body,weapon-continuity
+
+### Hüseyin Küçükoglu vs Rusi Hadzhiev — Sanda Pro Fight
+- Watch: https://euwushu.tv/videos/sanda-pro-fight-huseyin-kucukoglu-vs-rusi-hadjiev
+- Action design: 建议识别一组独立有效交锋：进距→一次拳/腿攻击→对手防守→脚步调整→双方重置；不把多回合剪成单次连续运动。
+- Camera/editing: 转播赛事以双人机位为判断基准，仅抽取单次未切镜的攻防；受击特写须维持屏幕方向。
+- AI takeaways: 将两人的距离和运动轴线明确量化，避免 AI 生成中拳套穿模、踢击后支撑脚瞬移。
+- Full motion prompt: [2026-11-10 daily run](runs/2026-11-10.md)
+- Tags: sanda,real-combat,spacing,footwork,guard,ring
+
+
 ## 11th Sanda World Cup — Day 2 Session 3
 - Source: https://euwushu.tv/videos/11th-sanda-world-cup-day-2-session-3-bronze-medal-bout-23
 - Study: directly watchable elite Sanda competition footage from the 11th Sanda World Cup in Macau.

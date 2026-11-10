@@ -1,5 +1,16 @@
 # Anime Action References
 
+## Added 2026-11-10 — 1 new references
+
+### JUJUTSU KAISEN Season 3 — Naoya vs Choso (Crunchyroll)
+- Watch: https://www.youtube.com/watch?v=1FJQ6I9XV5c
+- Action design: 可将原作的速度感转成「A 提速突入→B 防护/受压→一处清晰停顿→反制」；具体招式不得据标题推断。
+- Camera/editing: 快速运动可用几帧轨迹提示，但受击点须用可读构图建立方位；冲击帧后恢复全身中景，避免特写导致位置漂移。
+- AI takeaways: 用两个关键姿态而非连续十个出拳设计 3–5 秒动漫风交锋，确保两人每次仍处于同一空间。
+- Full motion prompt: [2026-11-10 daily run](runs/2026-11-10.md)
+- Tags: JJK,Naoya,Choso,anime,impact-frame,speed-contrast
+
+
 ## BLEACH: Thousand-Year Blood War — Action Production Interview
 - Source: https://bleach-anime.com/special/interview03/29.html
 - Study: the production team explains how difficult action layouts are solved with reference photography and dedicated action animators.

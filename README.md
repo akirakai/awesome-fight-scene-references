@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-09
+## Latest additions — 2026-11-10
+
+**9 newly curated source-linked fighting references across all six categories**, including today's **Arash Pahali staff routine (Nov 10, 2026)**, a Sanda Pro fight, 2026 Japanese action film *四十九-SEEK*, a traditional long-take brawl, a distinct *Sifu* gameplay clip, *Jujutsu Kaisen* official **Naoya vs Choso**, Force Square fight previs, a MiniMax H3 nine-preset workflow, and a Seedance 2.5 rooftop staff-vs-sword duel with source prompt.
+
+[2026-11-10 full annotated batch with 9 original English prompts](references/runs/2026-11-10.md) · [date index](references/INDEX.md). Source dates, original viewing links, upload provenance, platform access limitations and rights caveats are documented in the batch. Candidate dedup included historical dated runs and six category files; detailed motion breakdowns are not frame-audited.
+
+## Earlier additions — 2026-11-09
 
 **9 newly selected watchable fight/action references in all six categories**, including the **Nov 6–7 ONE Fight Night 49** kickboxing highlights, two independently published short films, two distinct game combat videos, an official Crunchyroll anime excerpt, an original stunt previs, and two creator-attributed AI action studies.
 

@@ -1,5 +1,16 @@
 # Game Action References
 
+## Added 2026-11-10 — 1 new references
+
+### Sifu — 11 Minutes of Nightclub Combat Gameplay (GameSpot)
+- Watch: https://www.gamespot.com/videos/11-minutes-of-sifu-combat-gameplay/2300-6456976/
+- Action design: 建议聚焦一次近身进攻与敌人替换：挡击→身体旋转换向→短促反击→主角回架→下一人入场；原片并非单一镜头。
+- Camera/editing: 稳定跟随的第三人称构图是角色身份与战斗方向的锚点；横移比大幅翻转摄影机更容易保持攻防空间。
+- AI takeaways: 适合 4–6 秒多敌人小空间参考；先给敌人编号、固定其入场顺序，再附加场景道具反应。
+- Full motion prompt: [2026-11-10 daily run](runs/2026-11-10.md)
+- Tags: Sifu,gameplay,nightclub,multi-enemy,third-person,environment
+
+
 ## Sifu — Kung Fu & Motion Capture Behind the Scenes
 - Source: https://www.sifugame.com/behind-the-scene
 - Study: how real Pak-Mei Kung Fu practice, combat-design workshops and motion capture are translated into game action.

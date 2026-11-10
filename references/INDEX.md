@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-10 — 9 curated fighting/video workflow references across six categories
+
+- **martial arts:** Arash Pahali Dakar 2026 gunshu (published Nov 10) and Hüseyin Küçükoglu vs Rusi Hadzhiev (Sanda Pro Fight full bout).
+- **film-TV:** *四十九-SEEK* (2026, official Cinema Today excerpt) and *Shangdown: The Way Of The Spur — Jewelz / Get Started* (creator-published long-take mass brawl).
+- **games:** GameSpot *Sifu* **11 Minutes of Nightclub Combat**; a different video from the earlier Sifu mocap/process reference.
+- **anime:** Crunchyroll *JUJUTSU KAISEN S3 — Naoya vs Choso*, different from the previously indexed Maki vs Naoya.
+- **stunt-choreography:** Force Square **ANEK PROMO Fight PREVIS** (stunt designer upload).
+- **AI-action:** creator's **MiniMax H3 nine fight presets** (Bilibili + public GitHub workflow) and @ZephyraLeigh **Seedance 2.5 Moonlit Rooftop Staff vs Sword Duel** (watchable video + prompt + X original).
+
+**Links, movement breakdowns, camera notes, 9 independently written English prompts, source and dedup notes:** [2026-11-10 fully annotated batch](runs/2026-11-10.md). No frame-by-frame video audit; some platforms require login.
+
 ## 2026-11-09 — 9 new source-linked video references across all six categories
 
 - **martial arts:** Taiki Naito vs Kongthoranee, ONE Fight Night 49 official 2026-11-06/07 kickboxing highlight (Instagram login may be required).

@@ -1,5 +1,26 @@
 # AI Action References
 
+## Added 2026-11-10 — 2 new references
+
+### MiniMax H3 武打导演 — 9 组 AI 对抗动作预设 / ComfyUI
+- Watch: https://www.bilibili.com/video/BV1oFJ16BEH5/
+- Related/creator/source: https://github.com/AI-KSK/aiksk-minimax-h3-local-prompt
+- Action design: 重点检查攻击者 A 的每个动作能否在 B 身上产生对应反应、角色与刀剑是否发生无接触重叠；不要将预设宣传当作客观模型能力评测。
+- Camera/editing: 先固定镜头观察身体与武器的接触点，再加入一个横向跟随镜头验证连续性；不同预设不要混在同一次生成中。
+- AI takeaways: 适合搭建 MiniMax H3 与 Seedance 等模型的相同动作 Prompt 对照，记录命中率、动作完整度、身份漂移。
+- Full motion prompt: [2026-11-10 daily run](runs/2026-11-10.md)
+- Tags: MiniMax-H3,ComfyUI,workflow,AI-fight,contact-consistency,prompt-presets
+
+### Moonlit Rooftop Staff vs Sword Duel — Zephyra Leigh / Seedance 2.5
+- Watch: https://vflow.live/prompts/seedance-2-5/anime/moonlit-rooftop-staff-vs-sword-duel-676/
+- Related/creator/source: https://x.com/ZephyraLeigh/status/2089748509843152982
+- Action design: 完整 Prompt 含多阶段动作；建议只提取其中 3–5 秒「持棍防守→刀剑接触→侧移→解除交锋」，而非试图一个镜头照搬所有特效与腾空。
+- Camera/editing: 由宽景建立屋顶与通风箱位置，动作中用低机位跟随；避免环绕镜头与急速人体旋转同时改变空间轴线。
+- AI takeaways: 保留棍长、刀形、角色衣着与初始站位不变，分别对比固定全景版与动态镜头版，诊断武器接触是否真实。
+- Full motion prompt: [2026-11-10 daily run](runs/2026-11-10.md)
+- Tags: Seedance-2.5,original-prompt,staff-vs-sword,rooftop,weapon-consistency
+
+
 ## MagicFight / KungFu-Fiesta — Two-Person Martial Arts Video Generation
 - Paper: https://arxiv.org/abs/2601.02107
 - Video dataset: https://huggingface.co/datasets/MingfuYAN/KungFu-Fiesta

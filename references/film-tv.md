@@ -1,5 +1,25 @@
 # Film / TV Action References
 
+## Added 2026-11-10 — 2 new references
+
+### 四十九-SEEK (2026) — 浅野寛介 vs Kane Kosugi 正片动作节选
+- Watch: https://www.cinematoday.jp/video/VIY1G_F2TC2mWo
+- Related/creator/source: https://www.youtube.com/watch?v=1G_F2TC2mWo
+- Action design: 建议拆为一次攻势与一次有效反制：试探/拉距→近身进攻→闪避格挡→主导权翻转。片段具体招式未逐帧复核。
+- Camera/editing: 留意正反打中攻击线、人物朝向、视线与身体转动方向的连续；由动作进入/离开画面决定切镜时点。
+- AI takeaways: 适合 3–5 秒写实武术对决，控制双人位置、单个受击反馈与人物表情，不以大量特效掩盖肢体。
+- Full motion prompt: [2026-11-10 daily run](runs/2026-11-10.md)
+- Tags: film-2026,japanese-action,close-combat,eyeline,continuity
+
+### Shangdown: The Way Of The Spur — Jewelz / Get Started (long-take fight)
+- Watch: https://vimeo.com/17018925
+- Action design: 建议抽取一位主角依次应对两名对手的连续片段：击退 A→转身→B 接近→挡开 B→回到原位；不预设原片精确出现同一五拍。
+- Camera/editing: 长镜头保持人物全身、攻击起手和后续结果在同一空间内；少切镜靠角色换位改变画面张力。
+- AI takeaways: 最适合检验 AI 的一镜到底空间连续性，不要同时加入不可能的急推、环绕与瞬移。
+- Full motion prompt: [2026-11-10 daily run](runs/2026-11-10.md)
+- Tags: long-take,stunt-team,eastern-western,group-fight,blocking
+
+
 ## Atomic Blonde — Stairwell Sequence
 - Source: https://www.wired.com/video/watch/atomic-blonde-stairway-fight
 - Study: continuous action, fatigue, environmental interaction, hidden edits.

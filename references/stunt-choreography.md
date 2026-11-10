@@ -1,5 +1,16 @@
 # Stunt & Choreography References
 
+## Added 2026-11-10 — 1 new references
+
+### ANEK PROMO — Team Force Square Fight PREVIS
+- Watch: https://vimeo.com/714027139
+- Action design: 建议用五拍标注方法：起手→攻势→招架→位移→收势；仅标注实际能在画面内辨识的连续动作。
+- Camera/editing: 先看无遮挡的排练位置，再测试切换至过肩、横移和近景是否仍然能完整理解攻防。
+- AI takeaways: 把预演作为 AI 生成控制变量：先固定全身机位验证动作合理，再对同一个动作模块做电影化重拍。
+- Full motion prompt: [2026-11-10 daily run](runs/2026-11-10.md)
+- Tags: fight-previs,stunt-rehearsal,Force-Square,blocking,camera-coverage
+
+
 ## The Raid 2 — Choreography Behind the Scenes
 - Source: https://www.youtube.com/watch?v=qXecmLI12GY
 - Study: direct behind-the-scenes material showing how intricate Pencak Silat screen choreography is rehearsed and staged.
