@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-10
+## Latest additions — 2026-11-11
+
+**9 curated watchable motion references across all six categories:** Dakar 2026 Lanchenbi Changquan / Valeria Gunshu, *WIND BREAKER* head-to-head and Tony Jaa *The Rage*, *Echoes of Aincrad* partner combat, *Gintama* Kagura & Shinpachi vs Abuto (different encounter from prior clips), *Giddens Ko's Kung Fu* stunt/VFX making-of, and two distinctly sourced model tests (Seedance vs Omni; Western brawl Wan vs Seedance).
+
+[Read the full 2026-11-11 annotated batch, 9 original English motion prompts and source notes](references/runs/2026-11-11.md) · [dated index](references/INDEX.md). Original viewing links preserved; no frame-accurate timecodes; historical dedup is best effort.
+
+## Earlier additions — 2026-11-10
 
 **9 newly curated source-linked fighting references across all six categories**, including today's **Arash Pahali staff routine (Nov 10, 2026)**, a Sanda Pro fight, 2026 Japanese action film *四十九-SEEK*, a traditional long-take brawl, a distinct *Sifu* gameplay clip, *Jujutsu Kaisen* official **Naoya vs Choso**, Force Square fight previs, a MiniMax H3 nine-preset workflow, and a Seedance 2.5 rooftop staff-vs-sword duel with source prompt.
 

@@ -1,5 +1,28 @@
 # AI Action References
 
+## Added 2026-11-11 — 2 references
+
+### @fxmqs — Seedance 2.5 vs Gemini Omni 1.2 Flash: Fight Scene A/B
+- Watch: https://aivs.tv/p/2118689685304496469/
+- Original/related: https://x.com/fxmqs/status/2118689685304496469
+- Date: 2026-11-06 original X post
+- Action: Compare punch or kick anticipation, the impact-to-reaction causal chain, recovery feet and character displacement, rather than treating preference as objective benchmark.
+- Camera/editing: Use matched reference crop across top/bottom, check whether cuts mask missing contact; the model comparison's actual blocking was not frame-audited.
+- AI takeaway: Repeat with identical seed prompt and references where supported, grade contact accuracy, balance, ID drift, and shot continuity separately.
+- Full original prompt: [2026-11-11 annotated run](runs/2026-11-11.md)
+- Tags: Seedance-2.5,Gemini-Omni-1.2-Flash,A-B-test,physics,source-prompt-unavailable
+
+### @ai_lifehack55 — Cowgirl Unarmed Brawl: Wan 3.0 vs Seedance 2.5
+- Watch: https://aivs.tv/p/2115639759783825458/
+- Original/related: https://x.com/ai_lifehack55/status/2115639759783825458
+- Date: 2026-10-29 original X post
+- Action: Track the fighter's hand-to-body contact and opponent reaction; western clothing and hat/holster persistence are additional long-range continuity constraints.
+- Camera/editing: Do not mistake first-half Wan and second-half Seedance for one continuous scene; compare segments as separate clips with their own camera paths.
+- AI takeaway: Transfer the narrative trait 'unarmed but formidable' into simple believable exchange; control hat, belt, opponent count and attack sequence.
+- Full original prompt: [2026-11-11 annotated run](runs/2026-11-11.md)
+- Tags: Wan-3.0,Seedance-2.5,Western,unarmed-fight,imperfect-comparison
+
+
 ## Added 2026-11-10 — 2 new references
 
 ### MiniMax H3 武打导演 — 9 组 AI 对抗动作预设 / ComfyUI

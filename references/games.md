@@ -1,5 +1,18 @@
 # Game Action References
 
+## Added 2026-11-11 — 1 references
+
+### Echoes of Aincrad — Official Systems Gameplay: Partner Switch Combat
+- Watch: https://www.bandainamcoent.com/news/echoes-of-aincrad-systems-trailer
+- Original/related: https://www.youtube.com/watch?v=r0K_3l7j7E8 | https://www.bandainamcoent.com/news/echoes-of-aincrad-reveals-combat-system-and-signature-gameplay-features
+- Date: 2026-05-21 official gameplay systems trailer
+- Action: Use partner role-switch to model a clean handoff: A distracts or opens a window, B advances and attacks, both separate to prevent overlapping bodies.
+- Camera/editing: Game camera offers a consistent spatial master; keep partner and target in a legible two- or three-shot before adding cuts.
+- AI takeaway: 15-second cooperation reference: label player, companion, and opponent; preserve who acts first and where the enemy faces.
+- Full original prompt: [2026-11-11 annotated run](runs/2026-11-11.md)
+- Tags: Echoes-of-Aincrad,gameplay,partner-combat,turn-taking,third-person
+
+
 ## Added 2026-11-10 — 1 new references
 
 ### Sifu — 11 Minutes of Nightclub Combat Gameplay (GameSpot)

@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-11 — 9 source-linked fight / motion references (six categories)
+
+- **martial-arts (2):** Lanchenbi Chanu Rajkumari — Dakar 2026 Changquan bronze clip (**Nov 9**); Valeria Dudamel — Dakar gunshu staff silver-medalist clip (**Nov 8**).
+- **film-TV (2):** *WIND BREAKER* (2025) Mizukami/Hamao confrontation; Tony Jaa *The Rage* official 2026 Japanese action excerpt with persistent pink backpack.
+- **games (1):** Bandai Namco *Echoes of Aincrad* official gameplay systems showcase: partner switching and turn-taking.
+- **anime (1):** *New Gintama Movie* official **Kagura & Shinpachi vs Abuto** battle PV; distinct from indexed Gintoki/Jirocho or Gintoki/Hosen fights.
+- **stunt-choreography (1):** *Giddens Ko's Kung Fu* 2026 action + VFX making-of.
+- **AI-action (2):** @fxmqs **Seedance 2.5 vs Gemini Omni 1.2 Flash** fight comparison (**Nov 6**); @ai_lifehack55 **Cowgirl Brawl — Wan 3.0 vs Seedance 2.5** (**Oct 29**, non-controlled tuning).
+
+**Original watching URLs, clear date attribution, choreography/camera notes, prompts, source-provenance and limitations:** [2026-11-11 full report](runs/2026-11-11.md). No source video was copied; historical duplicate check is best effort.
+
 ## 2026-11-10 — 9 curated fighting/video workflow references across six categories
 
 - **martial arts:** Arash Pahali Dakar 2026 gunshu (published Nov 10) and Hüseyin Küçükoglu vs Rusi Hadzhiev (Sanda Pro Fight full bout).

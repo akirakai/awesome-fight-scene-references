@@ -1,5 +1,28 @@
 # Film / TV Action References
 
+## Added 2026-11-11 — 2 references
+
+### WIND BREAKER (Live-Action, 2025) — Mizukami vs Hamao Friendship Fight Clip
+- Watch: https://www.cinematoday.jp/video/VIYgLjd6V6CNrI
+- Original/related: https://www.youtube.com/watch?v=gLjd6V6CNrI
+- Date: 2025-11-19 published clip; 2025-12-05 Japanese release
+- Action: Analyse how a two-person confrontation can communicate challenge and emotional stakes through stance, eye-line and one clear reversal; exact strikes require manual playback.
+- Camera/editing: Shot/reverse-shot should preserve 180-degree axis and facing; use a wider body read before reaction close-ups.
+- AI takeaway: 15-second story-action clip with emotional opening: same two actors, consistent screen directions, a single decisive defensive reversal, reaction hold.
+- Full original prompt: [2026-11-11 annotated run](runs/2026-11-11.md)
+- Tags: live-action,duel,storytelling,180-degree-axis,emotional-action
+
+### The Rage (ザ・レイジ) — Tony Jaa Pink Backpack Fight Excerpt
+- Watch: https://www.cinematoday.jp/video/VIYf4gYouMQK2c
+- Original/related: https://www.youtube.com/watch?v=f4gYouMQK2c
+- Date: 2026-07-10 official Japanese excerpt and theatrical release listing
+- Action: Observe compact Thai-style close-range attack-and-response and the challenge of keeping a backpack attached during torso rotation; do not assume precise blows from the description alone.
+- Camera/editing: Use medium-wide framing for physical contact and a restrained tracking move so bag, arms, and opponent remain legible.
+- AI takeaway: Great character-state stress test: backpack color, straps and orientation must survive impact and turning without drifting.
+- Full original prompt: [2026-11-11 annotated run](runs/2026-11-11.md)
+- Tags: Tony-Jaa,prop-continuity,backpack,close-combat,cinematic
+
+
 ## Added 2026-11-10 — 2 new references
 
 ### 四十九-SEEK (2026) — 浅野寛介 vs Kane Kosugi 正片动作节选

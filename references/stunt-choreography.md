@@ -1,5 +1,18 @@
 # Stunt & Choreography References
 
+## Added 2026-11-11 — 1 references
+
+### Giddens Ko's Kung Fu (2026) — Action & VFX Making-of Clip
+- Watch: https://www.cinematoday.jp/video/VIY4lYbB_TZMds
+- Original/related: https://www.youtube.com/watch?v=4lYbB_TZMds
+- Date: 2026-06-09 published making-of feature
+- Action: Identify the performer movement before enhancement: entry, physical reaction, landing, then effect layer; refrain from treating editorial montage as a single rehearsed fight.
+- Camera/editing: Compare practical actor/prop positioning with final VFX screen space, tracking and cut-matching; source is BTS rather than uninterrupted original rehearsal.
+- AI takeaway: Use two-pass generation: actor-only movement draft, then stylized VFX pass while maintaining exact contact point and trajectory.
+- Full original prompt: [2026-11-11 annotated run](runs/2026-11-11.md)
+- Tags: making-of,stunt,VFX,previs-workflow,practical-to-final
+
+
 ## Added 2026-11-10 — 1 new references
 
 ### ANEK PROMO — Team Force Square Fight PREVIS

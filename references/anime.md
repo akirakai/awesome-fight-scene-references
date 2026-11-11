@@ -1,5 +1,18 @@
 # Anime Action References
 
+## Added 2026-11-11 — 1 references
+
+### New Gintama Movie: Yoshiwara in Flames — Kagura & Shinpachi vs Abuto Battle PV
+- Watch: https://www.youtube.com/watch?v=S1tF4wXoiKc
+- Original/related: https://eeo.today/media/2026/01/30/309404/
+- Date: 2026-01-29 official character-specific battle PV
+- Action: Study switching of ally initiative under a stronger opponent: defender protects partner, partner counterattacks, then emotional escalation. The PV is a montage, not one continuous exchange.
+- Camera/editing: Wide three-character geography followed by distinct reaction/impact inserts; preserve who is screened left versus right in AI reconstruction.
+- AI takeaway: Two-vs-one animated combat with role labels and one emotion-driven power beat; avoid unsignalled position swapping.
+- Full original prompt: [2026-11-11 annotated run](runs/2026-11-11.md)
+- Tags: Gintama,anime,2v1,teamwork,emotional-action,battle-PV
+
+
 ## Added 2026-11-10 — 1 new references
 
 ### JUJUTSU KAISEN Season 3 — Naoya vs Choso (Crunchyroll)

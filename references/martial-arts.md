@@ -1,5 +1,28 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-11 — 2 references
+
+### Lanchenbi Chanu Rajkumari — Dakar 2026 Changquan Bronze Routine
+- Watch: https://euwushu.tv/videos/lanchenbi-chanu-rajkumari-ind-olympic-bronze-changquan-at-dakar-2026
+- Original/related: https://euwushu.tv/news/egypts-sondos-sonbol-wins-womens-changquan-gold-at-dakar-2026-rajkumari-lanchenbi-chanu-takes-historic-bronze-for-india
+- Date: 2026-11-09 video; 2026-11-03 competition
+- Action: Study full-body long-fist pose transitions, acceleration-to-deceleration, rotation axis and foot placement. Do not infer an exact kick sequence without frame audit.
+- Camera/editing: Broadcast-friendly full-body framing and readable silhouette; avoid copying abrupt highlight cut points as motion continuity.
+- AI takeaway: 3–5 s motion crop: maintain stable support foot, single clean turn, controlled landing and recovery; use it as a solo-body mechanics test.
+- Full original prompt: [2026-11-11 annotated run](runs/2026-11-11.md)
+- Tags: changquan,taolu,Dakar-2026,rotation,body-balance
+
+### Valeria Dudamel — Dakar 2026 Gunshu Staff Routine (Silver Medalist)
+- Watch: https://euwushu.tv/videos/valeria-dudamel-ven-staff-routine-silver-at-dakar-2026
+- Original/related: https://euwushu.tv/news/valeria-dudamel-takes-changquan-silver-at-dakar-2026-venezuelas-first-wushu-medal-at-an-olympic-event
+- Date: 2026-11-08 video; 2026-11-03 competition
+- Action: Study the relationship between the hands, rigid staff length and whole-body steps; treat specific sweep directions below as creative extraction, not timecoded claims.
+- Camera/editing: Athlete-centered competition framing preserves full weapon length and footwork; avoid cuts that hide whether the pole changes hands.
+- AI takeaway: 3–5 s staff test: exact two-hand grip, staff-end continuity, step-and-sweep momentum, no spontaneous weapon reshaping.
+- Full original prompt: [2026-11-11 annotated run](runs/2026-11-11.md)
+- Tags: gunshu,staff,wushu,Dakar-2026,weapon-consistency
+
+
 ## Added 2026-11-10 — 2 new references
 
 ### Arash Pahali — Dakar 2026 Staff Routine (2026-11-10)
