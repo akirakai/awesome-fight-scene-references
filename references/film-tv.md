@@ -1,5 +1,27 @@
 # Film / TV Action References
 
+## Added 2026-11-12 — 2 verified-source references
+
+### Dominique (2023 film / 2025 Japan excerpt) — Night Ambush, One vs Many
+- Watch: https://www.cinematoday.jp/video/VIYTddKAI22_EE
+- Original / corroboration: https://www.cinematoday.jp/video/VIYTddKAI22_EE
+- Date: Official Japanese excerpt 2025-10-14; Japan release 2025-11-21
+- Action: Analyse sequential attackers entering a dark area, how cover, silhouette and lighting distinguish them; identify actual exchanges in playback before timecoding.
+- Camera / editing: Contrast wide spatial setup with short occluded/reveal shots; avoid using darkness to excuse incoherent character positions.
+- AI takeaway: Night-fight layout: one stationary light source, numbered opponents, left/right approach paths and explicit recovery after each engagement.
+- Full original English prompt & caveats: [2026-11-12 annotated run](runs/2026-11-12.md)
+- Tags: night-ambush,low-light,multi-opponent,environment,screen-direction
+
+### Panda Plan — Jackie Chan vs Ninja Action Excerpt
+- Watch: https://www.cinematoday.jp/video/VIYRStD9sL-bbc
+- Original / corroboration: https://www.cinematoday.jp/video/VIYRStD9sL-bbc
+- Date: Cinema Today excerpt 2025-12-26; Japanese film release 2026-01-23
+- Action: Study how a character protects a target while navigating an opponent; distinguish firearm-action editing from unarmed choreography.
+- Camera / editing: A readable wide establish before a close reaction/reveal keeps cover objects and exit routes consistent.
+- AI takeaway: Mission-driven action: keep a single protected object/teammate and a clear escape direction across cuts; use comedy timing instead of endless attacks.
+- Full original English prompt & caveats: [2026-11-12 annotated run](runs/2026-11-12.md)
+- Tags: Jackie-Chan,action-comedy,rescue,prop-continuity,exit-geography
+
 ## Added 2026-11-11 — 2 references
 
 ### WIND BREAKER (Live-Action, 2025) — Mizukami vs Hamao Friendship Fight Clip

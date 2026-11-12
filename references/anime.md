@@ -1,5 +1,17 @@
 # Anime Action References
 
+## Added 2026-11-12 — 1 verified-source references
+
+### Frieren Season 2 — Stark & Genau vs Revolte (official TOHO animation short)
+- Watch: https://www.youtube.com/watch?v=ieydKqFgqg0
+- Original / corroboration: https://yutura.net/channel/1002/video/ieydKqFgqg0/ | https://frieren-anime.jp/news/5081/
+- Date: TOHO animation official clip 2026-03-10; episode 35
+- Action: Study the separate melee vs magical roles of two allies and a common enemy; translate into one readable defence-then-opening rather than unrelated attacks.
+- Camera / editing: Preserve three-character triangle geography and one dominant attack direction; anime impact cuts should still retain a comprehensible pose before/after.
+- AI takeaway: Two-vs-one teamwork test with explicit initiative order, color/shape distinction and readable impact frame.
+- Full original English prompt & caveats: [2026-11-12 annotated run](runs/2026-11-12.md)
+- Tags: anime,teamwork,2v1,impact-pose,TOHO,Frieren
+
 ## Added 2026-11-11 — 1 references
 
 ### New Gintama Movie: Yoshiwara in Flames — Kagura & Shinpachi vs Abuto Battle PV

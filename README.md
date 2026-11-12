@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-11
+## Latest additions — 2026-11-12
+
+**9 new direct source-linked references, all six categories:** Dakar 2026 Kawamura Shiki taijishan and a professional sanda bout; official *Dominique* night ambush and Jackie Chan's *Panda Plan* action excerpt; Xbox's *Wo Long 2* Zuochi boss deep dive; official TOHO animation *Frieren* Stark & Genau vs Revolte; two creator-posted fight previsualizations (*BHUJ* and Natalie Burn/Arnold Chon); and @aimikoda's Seedance 2.5 aerial duel.
+
+[Read the complete 2026-11-12 annotated batch with nine original English motion prompts](references/runs/2026-11-12.md) · [dated index](references/INDEX.md). Original viewing links and date provenance preserved; clip movement is not frame-audited and access may vary.
+
+## Earlier additions — 2026-11-11
 
 **9 curated watchable motion references across all six categories:** Dakar 2026 Lanchenbi Changquan / Valeria Gunshu, *WIND BREAKER* head-to-head and Tony Jaa *The Rage*, *Echoes of Aincrad* partner combat, *Gintama* Kagura & Shinpachi vs Abuto (different encounter from prior clips), *Giddens Ko's Kung Fu* stunt/VFX making-of, and two distinctly sourced model tests (Seedance vs Omni; Western brawl Wan vs Seedance).
 

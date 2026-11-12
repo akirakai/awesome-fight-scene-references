@@ -1,5 +1,17 @@
 # Game Action References
 
+## Added 2026-11-12 — 1 verified-source references
+
+### Wo Long 2: Wings of Ember — Zuochi Boss Battle Deep Dive (Xbox TGS 2026)
+- Watch: https://www.youtube.com/watch?v=4sUA41V9670
+- Original / corroboration: https://game.watch.impress.co.jp/docs/news/2141966.html | https://gameblooms.com/games/wo-long-2-wings-of-ember
+- Date: Xbox TGS gameplay presentation 2026-09-17; archived video listing dated 2026-09-23
+- Action: Reference the deflection -> insight/counter mechanic, huge-tusk boss reach, environment knockback and temporary divine-beast empowerment (per reporting).
+- Camera / editing: Third-person action framing offers a stable player-to-boss distance; use a wide body read just before the collision and retain stable attack direction across camera changes.
+- AI takeaway: Distinctive big-vs-small fight: telegraphed boss strike, one accurate deflection, counterattack and retreat; do not stack unrelated abilities.
+- Full original English prompt & caveats: [2026-11-12 annotated run](runs/2026-11-12.md)
+- Tags: Wo-Long-2,Zuochi,boss,deflection,scale,third-person
+
 ## Added 2026-11-11 — 1 references
 
 ### Echoes of Aincrad — Official Systems Gameplay: Partner Switch Combat

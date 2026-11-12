@@ -1,5 +1,27 @@
 # Stunt & Choreography References
 
+## Added 2026-11-12 — 2 verified-source references
+
+### BHUJ — Team Force Square Fight PREVIS (Ajay Devgan production)
+- Watch: https://vimeo.com/660062756
+- Original / corroboration: https://vimeo.com/714027139
+- Date: Original creator-posted Vimeo video; posting date not established
+- Action: Use rehearsal blocking to count exactly one attack, response, transition and reset; do not conflate this separate project with ANEK.
+- Camera / editing: First inspect the overall previsualization geography; create a fixed-master version, then test a measured handheld lateral move.
+- AI takeaway: Previs-first action workflow: lock actor paths and attack timing before cinematic camera decisions.
+- Full original English prompt & caveats: [2026-11-12 annotated run](runs/2026-11-12.md)
+- Tags: BHUJ,previs,Force-Square,blocking,stunt-planning
+
+### Natalie Burn / Arnold Chon — Fight Previs
+- Watch: https://vimeo.com/323556503
+- Original / corroboration: https://vimeo.com/323556503
+- Date: Creator-hosted Vimeo classic; exact upload date unverified
+- Action: Isolate how balance, stance, defensive posture and strike reaction are rehearsed before the final cinematic treatment; avoid guessing the specific moves.
+- Camera / editing: Compare a steady wide safety master to an edited version: full feet and both bodies are essential to judging physical plausibility.
+- AI takeaway: Unarmed close-quarter rehearsal reference for a six-second continuous grounded exchange with stable limb ownership.
+- Full original English prompt & caveats: [2026-11-12 annotated run](runs/2026-11-12.md)
+- Tags: Natalie-Burn,Arnold-Chon,stunt,rehearsal,footwork
+
 ## Added 2026-11-11 — 1 references
 
 ### Giddens Ko's Kung Fu (2026) — Action & VFX Making-of Clip

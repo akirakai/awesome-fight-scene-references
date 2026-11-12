@@ -1,5 +1,27 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-12 — 2 verified-source references
+
+### Kawamura Shiki — Dakar 2026 Taijishan (Tai Chi Fan), Bronze
+- Watch: https://euwushu.tv/videos/kawamura-shiki-jpn-olympic-bronze-tai-chi-fan-at-dakar-2026
+- Original / corroboration: https://euwushu.tv/news/wushus-first-olympic-champions-lin-yilei-sondos-sonbol-poon-hao-ran-and-ng-zhe-nin-win-gold-at-dakar-2026
+- Date: Clip 2026-11-09; event 2026-11-03
+- Action: Study how fan orientation, wrist/forearm and torso rotation stay coordinated, then how the body settles into balance; this is a solo form, not a fight.
+- Camera / editing: Competition-wide framing can keep the fan, posture and feet legible; prefer continuous movement over highlight edits.
+- AI takeaway: Five-second fan-control test: one deliberate opening gesture, step, quarter turn and stable end pose. Lock fan size, hinge and hand.
+- Full original English prompt & caveats: [2026-11-12 annotated run](runs/2026-11-12.md)
+- Tags: wushu,taijishan,fan,prop-consistency,solo-form
+
+### Alexander Kuchava vs Conte Guiseppe — Eurasian Professional Sanda League
+- Watch: https://euwushu.tv/videos/alexander-kuchava-vs-conte-guiseppe
+- Original / corroboration: https://euwushu.tv/
+- Date: Video 2026-02-16; bout 2026-02-14 (Tbilisi, Georgia)
+- Action: Track guard, range, attack entry, defensive foot placement and separation; do not infer a specific scored strike without reviewing the segment.
+- Camera / editing: Use the fight broadcast's continuous wide view to map fighter A/B left-right positions and judge actual distance; refrain from copying arbitrary edited highlights.
+- AI takeaway: Two-person realism benchmark: one attack and one defensive displacement with visible contact or miss, followed by balance recovery.
+- Full original English prompt & caveats: [2026-11-12 annotated run](runs/2026-11-12.md)
+- Tags: sanda,real-sparring,range,footwork,body-balance
+
 ## Added 2026-11-11 — 2 references
 
 ### Lanchenbi Chanu Rajkumari — Dakar 2026 Changquan Bronze Routine

@@ -1,5 +1,17 @@
 # AI Action References
 
+## Added 2026-11-12 — 1 verified-source references
+
+### Kōda (@aimikoda) — Kinetic Mid-Air Kick Exchange (Seedance 2.5)
+- Watch: https://aivs.tv/p/2111824828009193814/
+- Original / corroboration: https://x.com/aimikoda/status/2111824828009193814
+- Date: Creator original X 2026-10-18; ~30.1s as indexed
+- Action: Study symmetric aerial timing and independent body rotation, then explicitly question whether contact and landing physics hold up.
+- Camera / editing: Bright uncluttered background helps expose missing contact or spatial jumps; camera movement should be secondary to leg/body paths.
+- AI takeaway: Use one small airborne exchange as a reproducible test; score pose fidelity, interaction contact, individual landing and no mid-air role swap.
+- Full original English prompt & caveats: [2026-11-12 annotated run](runs/2026-11-12.md)
+- Tags: Seedance-2.5,AI-action,airborne-kick,physics,character-identity
+
 ## Added 2026-11-11 — 2 references
 
 ### @fxmqs — Seedance 2.5 vs Gemini Omni 1.2 Flash: Fight Scene A/B

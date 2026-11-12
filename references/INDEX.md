@@ -1,5 +1,17 @@
 # References Index
 
+## 2026-11-12 — 9 new source-linked action references (six categories)
+
+- **martial-arts (2):** Kawamura Shiki, Dakar 2026 taijishan (Nov 9 video); Alexander Kuchava vs Conte Guiseppe (Feb 2026 professional sanda bout).
+- **film-TV (2):** *Dominique* (night ambush excerpt, 2025 official Japanese upload) and *Panda Plan* (Jackie Chan vs ninja action excerpt, 2025 official Japanese upload).
+- **games (1):** *Wo Long 2: Wings of Ember* Xbox TGS **Zuochi Boss Battle Deep Dive** (specific boss analysis, not announcement trailer).
+- **anime (1):** TOHO animation official *Frieren S2* Stark & Genau vs Revolte short (2026-03-10).
+- **stunt-choreography (2):** Team Force Square's *BHUJ* fight previs (different film from previously included *ANEK*); Natalie Burn/Arnold Chon's *Fight Previs*.
+- **ai-action (1):** Kōda @aimikoda, solo Seedance 2.5 mid-air martial arts clip (2026-10-18), original X link and watch mirror.
+
+**Original sources, movement/camera notes, nine original prompts, rights/access limits:** [full 2026-11-12 batch](runs/2026-11-12.md). No videos copied; only best-effort title/URL dedup, no frame/timecode audit.
+
+
 ## 2026-11-11 — 9 source-linked fight / motion references (six categories)
 
 - **martial-arts (2):** Lanchenbi Chanu Rajkumari — Dakar 2026 Changquan bronze clip (**Nov 9**); Valeria Dudamel — Dakar gunshu staff silver-medalist clip (**Nov 8**).
