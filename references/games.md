@@ -1,5 +1,19 @@
 # Game Action References
 
+## Added 2026-11-13 — 1 references
+
+### Tides of Annihilation — Mirror Boss Fight Gameplay Trailer (Tyronoe)
+- Watch: https://www.youtube.com/watch?v=Fmhu_oZOUAk
+- Original / corroboration: https://www.gamespot.com/videos/tides-of-annihilation-mirror-boss-fight-gameplay-trailer/2300-6466542/
+- Date: 2025-11-20 original GameSpot gameplay publication
+- Action design: Gwendolyn teams with former rival Lamorak against Tyronoe in a mirror realm; useful to explore coordinated combat and an environment with repeated reflections.
+- Camera / editing: PC in-game footage favors third-person player-to-Boss framing; mirror surfaces make axis consistency and true-vs-reflection character identity measurable.
+- AI-video takeaway: Write reflected bodies as visual duplications only, not extra combat participants; use clear ally-to-Boss reaction ordering.
+- Limits: GameSpot identifies footage as captured in-game on PC. Choreographic microbeats are prompt design suggestions, not a precise transcript of gameplay.
+- Full independent motion prompt and provenance: [2026-11-13 annotated batch](runs/2026-11-13.md)
+- Tags: boss-fight,ally-combat,mirrors,third-person,gameplay,2025
+
+
 ## Added 2026-11-12 — 1 verified-source references
 
 ### Wo Long 2: Wings of Ember — Zuochi Boss Battle Deep Dive (Xbox TGS 2026)
