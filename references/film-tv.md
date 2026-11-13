@@ -1,5 +1,30 @@
 # Film / TV Action References
 
+## Added 2026-11-13 — 2 references
+
+### Fists on a Plane: Wings of Dread — Well Go USA official trailer (Ashton Chen / Iko Uwais)
+- Watch: https://www.youtube.com/watch?v=eZd7O-8G3rE
+- Original / corroboration: https://wellgousa.com/films/fists-plane-wings-dread
+- Date: Official promotional trailer 2026-11-05; US digital release scheduled 2026-11-24
+- Action design: Opposing martial-arts styles inside the constrained rows and aisle of a passenger aircraft; action is driven by protecting civilians against a hijacking.
+- Camera / editing: The trailer is a montage, not an unbroken fight. For analysis mark aisle axis, seat positions, passage restrictions and continuity of who is blocking whom.
+- AI-video takeaway: A useful enclosed-set 15-second prompt: keep aisle width, seat geometry and escape direction constant; alternate only one attacker into the central aisle.
+- Limits: Only the official trailer is available ahead of the stated US digital date; exact individual choreography and continuity cannot be established from trailer editing.
+- Full independent motion prompt and provenance: [2026-11-13 annotated batch](runs/2026-11-13.md)
+- Tags: aircraft,close-quarters,constrained-space,film-trailer,Ashton-Chen,Iko-Uwais
+
+### Gunman — Well Go USA Official Teaser (single-take Argentine action thriller)
+- Watch: https://www.youtube.com/watch?v=8s099ASCGu8
+- Original / corroboration: https://www.movievine.com/movies/sergio-podeley-stars-in-action-thriller-gunman-trailer-and-release-date/ | https://app.gironafilmfestival.com/pelicula/34244101
+- Date: Teaser reported 2026-11-11; film originated 2025; US digital scheduled 2026-12-08
+- Action design: A single-night pursuit through a Buenos Aires neighborhood where a minor confrontation escalates; the film is publicly billed as a real-time continuous-shot action thriller.
+- Camera / editing: Most valuable for hidden-cut long-take planning: scene-to-scene handoffs, sight-line continuity, cover and moving follow-camera. The teaser itself is not guaranteed a single shot.
+- AI-video takeaway: Create a miniature one-shot chase with an explicit route: door → corridor → street; movement rather than repeated punch exchanges maintains momentum.
+- Limits: Source verifies single-shot presentation for the feature and a newly released teaser. Neither an exact fight move nor the teaser's own edit pattern is frame-audited.
+- Full independent motion prompt and provenance: [2026-11-13 annotated batch](runs/2026-11-13.md)
+- Tags: single-take,hidden-cuts,chase,film-trailer,Argentina,spatial-continuity
+
+
 ## Added 2026-11-12 — 2 verified-source references
 
 ### Dominique (2023 film / 2025 Japan excerpt) — Night Ambush, One vs Many
