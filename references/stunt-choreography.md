@@ -1,5 +1,19 @@
 # Stunt & Choreography References
 
+## Added 2026-11-13 — 1 references
+
+### Scott Adkins — The Landing Game Action Hour, no-rehearsal fight challenges
+- Watch: https://www.youtube.com/watch?v=GCilioSM9mE
+- Original / corroboration: https://action-flix.com/2026/11/01/scott-adkins-takes-on-the-ultimate-no-rehearsal-challenge-in-an-all-out-action-special/
+- Date: Creator challenge reported 2026-11-01; roughly 30-minute stunt-action program
+- Action design: An expert performer responds to changing staged opponents and short-notice stunt challenges; study small reactive adjustments, distance control and visible reset between exchanges.
+- Camera / editing: Longer gym/stunt-show demonstration lets you observe full-body responses rather than isolated trailer impacts; collect a genuinely uninterrupted 3–6-second action segment.
+- AI-video takeaway: A/B-test preset choreography versus reactive attack-response prompts; retain each actor's start and end locations, ignore claims that lack of rehearsal is an on-set safety ideal.
+- Limits: 'No rehearsal time' describes the program's entertainment format, NOT a recommended real-world safety procedure. Prompt explicitly uses trained performers and a safely rehearsed, non-contact exchange.
+- Full independent motion prompt and provenance: [2026-11-13 annotated batch](runs/2026-11-13.md)
+- Tags: Scott-Adkins,stunt-rehearsal,reactive-timing,gym,full-body,2026
+
+
 ## Added 2026-11-12 — 2 verified-source references
 
 ### BHUJ — Team Force Square Fight PREVIS (Ajay Devgan production)
