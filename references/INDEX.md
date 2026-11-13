@@ -1,5 +1,17 @@
 # References Index
 
+## 2026-11-13 — 8 newly linked reference videos (all six categories)
+
+- **martial-arts (2):** ONE Friday Fights 178 — Superlek Jitmuangnon vs Anar Mammadov (official event stream); WANG Yirui — World Junior Gold Changquan Highlights (IWUF source).
+- **film-tv (2):** Fists on a Plane: Wings of Dread — Well Go USA official trailer (Ashton Chen / Iko Uwais); Gunman — Well Go USA Official Teaser (single-take Argentine action thriller).
+- **games (1):** Tides of Annihilation — Mirror Boss Fight Gameplay Trailer (Tyronoe).
+- **anime (1):** One Piece episode 1061 — Sanji vs Queen (official Crunchyroll excerpt).
+- **stunt-choreography (1):** Scott Adkins — The Landing Game Action Hour, no-rehearsal fight challenges.
+- **ai-action (1):** Epic Legends Showdown — Zeshan Hasen @chudry223 (Seedance 2.5 / Higgsfield).
+
+[Complete 2026-11-13 annotated batch with 8 original English prompts](runs/2026-11-13.md). Cross-checked against current category files and dated index; earlier historical runs not exhaustively scanned. Live-event replay, trailers, access constraints and creative-inference limits are labeled.
+
+
 ## 2026-11-12 — 9 new source-linked action references (six categories)
 
 - **martial-arts (2):** Kawamura Shiki, Dakar 2026 taijishan (Nov 9 video); Alexander Kuchava vs Conte Guiseppe (Feb 2026 professional sanda bout).
