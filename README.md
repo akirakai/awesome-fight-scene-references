@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-12
+## Latest additions — 2026-11-13
+
+**8 new source-linked fight-video references across six categories:** ONE Friday Fights 178 and WANG Yirui changquan; *Fists on a Plane* narrow-aircraft action trailer and *Gunman* single-shot thriller teaser; *Tides of Annihilation* mirror-boss gameplay; Crunchyroll's *One Piece* Sanji vs Queen classic; Scott Adkins/The Landing Game practical fight challenges; and Zeshan Hasen's Seedance 2.5 *Epic Legends Showdown*.
+
+[Read all 8 references with choreography/camera analysis and 8 independent English Motion Prompts](references/runs/2026-11-13.md) · [date/category index](references/INDEX.md). Original viewing links preserved, regional restrictions marked; no frame-by-frame transcription or video redistribution.
+
+## Earlier additions — 2026-11-12
 
 **9 new direct source-linked references, all six categories:** Dakar 2026 Kawamura Shiki taijishan and a professional sanda bout; official *Dominique* night ambush and Jackie Chan's *Panda Plan* action excerpt; Xbox's *Wo Long 2* Zuochi boss deep dive; official TOHO animation *Frieren* Stark & Genau vs Revolte; two creator-posted fight previsualizations (*BHUJ* and Natalie Burn/Arnold Chon); and @aimikoda's Seedance 2.5 aerial duel.
 
