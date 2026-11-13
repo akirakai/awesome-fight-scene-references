@@ -1,5 +1,30 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-13 — 2 references
+
+### ONE Friday Fights 178 — Superlek Jitmuangnon vs Anar Mammadov (official event stream)
+- Watch: https://www.onefc.com/events/one-friday-fights-178/
+- Original / corroboration: https://watch.onefc.com/
+- Date: 2026-11-13 (Bangkok event/live broadcast)
+- Action design: Real Muay Thai range finding, guard recovery and attack-reaction timing; use a single completed exchange from the live stream rather than inventing bout-specific moves or an outcome.
+- Camera / editing: Broadcast ringside long/mid shots provide shared two-person geometry. Avoid treating instant replays, interstitials or cutaways as an uninterrupted exchange.
+- AI-video takeaway: A six-second realistic two-person spacing test: one advance, one parry/defensive sidestep, then both reset; feet and gloves visible.
+- Limits: Verified event page and line-up, NOT an independently inspected bout recording. Live or archive access varies by country/subscription; no winner, strike or round is asserted.
+- Full independent motion prompt and provenance: [2026-11-13 annotated batch](runs/2026-11-13.md)
+- Tags: muay-thai,live-event,2026-11-13,spacing,ring-camera
+
+### WANG Yirui — World Junior Gold Changquan Highlights (IWUF source)
+- Watch: https://euwushu.tv/videos/world-junior-gold-wang-yirui-changquan-highlights
+- Original / corroboration: https://euwushu.tv/videos
+- Date: Video 2026-11-01; 10th World Junior Wushu Championships (event date not separately checked)
+- Action design: A 41-second highlight of a gold-winning youth changquan form; study the distinction between leaps, grounded directional changes and stable finishing postures. Solo performance, not combat.
+- Camera / editing: Competition framing is suited to body/foot placement and limb silhouettes; identify any internal edits before selecting a continuous segment.
+- AI-video takeaway: Turn the full-body movement idea into a short, adult-performer footwork and landing benchmark. Track support foot, torso axis and pose hold.
+- Limits: The footage is an official-source 41-second highlight rather than a full uncut routine; the described sequence and prompt are independent abstractions, not claims about the exact original moves.
+- Full independent motion prompt and provenance: [2026-11-13 annotated batch](runs/2026-11-13.md)
+- Tags: changquan,wushu,athletic-landing,full-body,2026
+
+
 ## Added 2026-11-12 — 2 verified-source references
 
 ### Kawamura Shiki — Dakar 2026 Taijishan (Tai Chi Fan), Bronze
