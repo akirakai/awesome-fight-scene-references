@@ -1,5 +1,19 @@
 # AI Action References
 
+## Added 2026-11-13 — 1 references
+
+### Epic Legends Showdown — Zeshan Hasen @chudry223 (Seedance 2.5 / Higgsfield)
+- Watch: https://dropday.ai/c/epic-legends-showdown
+- Original / corroboration: https://x.com/chudry223/status/2117500138080092644
+- Date: Creator X post 2026-11-03; third-party playable index
+- Action design: A creator-posted cinematic stylized martial-arts character duel; examine identity stability while both animated figures change fighting poses and exchange positions.
+- Camera / editing: The index describes dynamic camera work and stylized cinematic lighting; avoid attributing specific pans, cut points or strike choreography without frame review.
+- AI-video takeaway: Score face/costume drift, strike-to-react timing, pose clarity and screen-direction continuity. Use an original stylized duo rather than reproducing recognizable real people's likenesses.
+- Limits: Model attribution is drawn from creator post as quoted by Dropday; Dropday notes some details may be inferred. Original X may require login. No creator prompt or video frames were copied.
+- Full independent motion prompt and provenance: [2026-11-13 annotated batch](runs/2026-11-13.md)
+- Tags: Seedance-2.5,Higgsfield,stylized-fight,character-consistency,2026-11-03
+
+
 ## Added 2026-11-12 — 1 verified-source references
 
 ### Kōda (@aimikoda) — Kinetic Mid-Air Kick Exchange (Seedance 2.5)
