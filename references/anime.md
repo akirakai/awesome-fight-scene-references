@@ -1,5 +1,19 @@
 # Anime Action References
 
+## Added 2026-11-13 — 1 references
+
+### One Piece episode 1061 — Sanji vs Queen (official Crunchyroll excerpt)
+- Watch: https://www.youtube.com/watch?v=3F39wwHPLQU
+- Original / corroboration: https://www.crunchyroll.com/it/watch/GJWU20G2E/the-strike-of-an-ifrit-sanji-vs-queen
+- Date: Official Crunchyroll clip 2023-05-10; episode broadcast 2023-05-07
+- Action design: An iconic leg-driven duel where rapid attack chaining and differential fighter scale make contact-to-knockback causality especially legible.
+- Camera / editing: Anime cuts combine held strike silhouettes with speed-oriented reframing and impact frames. Distinguish animation timing from realistic continuous human biomechanics.
+- AI-video takeaway: For a grounded adaptation, keep a single planted-leg pivot, exactly one front kick and the larger opponent's displacement in the same travel direction.
+- Limits: Original official clip is accessible on YouTube subject to region restrictions. Prompt introduces new characters and a simplified attack, not verbatim recreation.
+- Full independent motion prompt and provenance: [2026-11-13 annotated batch](runs/2026-11-13.md)
+- Tags: anime,kick-combo,scale,impact-frame,One-Piece,classic
+
+
 ## Added 2026-11-12 — 1 verified-source references
 
 ### Frieren Season 2 — Stark & Genau vs Revolte (official TOHO animation short)
