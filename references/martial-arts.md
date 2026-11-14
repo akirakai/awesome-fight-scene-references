@@ -1,5 +1,19 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-14 — 1 source-checked references
+
+### Kyaw Swar Win vs Sherzodi Sadullo — ONE Friday Fights 178 co-main
+- Watch: https://www.instagram.com/p/DfsCMyQOCc3/
+- Original / supporting source: https://www.onefc.com/news/one-friday-fights-178-co-main-event-result-kyaw-swar-win-outlasts-sadullo-in-a-slugfest/
+- Date: Bout 2026-11-13; official ONE report 2026-11-14
+- Type: ONE official social highlight (may require Instagram login); official report accessible
+- Movement design: Kyaw's unorthodox punching pressure clashes with Sadullo's spinning kicks, including a reported rolling-thunder kick near the ropes. Real offensive pressure, rotation and recovery are valuable; do not turn the whole bout into a single nonstop combo.
+- Camera / editing: Broadcast two-person mid/wide geometry documents fighter distance and the ropes as a fixed spatial anchor. Instant replays and highlight edits are not continuous movement.
+- AI-video takeaway: Reference a single rotational kick with a believable setup and landing, then both fighters recover their guard. Keep the ropes and each athlete's left/right identity fixed.
+- Limitations: Official article confirms the striking styles and outcome; original Instagram link is a social highlight, not a frame-by-frame verified full bout. It is a DIFFERENT matchup from the previously indexed Superlek vs Anar Mammadov stream.
+- Full original English Motion Prompt and provenance: [2026-11-14 annotated batch](runs/2026-11-14.md)
+- Tags: muay-thai,2026-11-13,spinning-kick,ring-geography,rotational-balance
+
 ## Added 2026-11-13 — 2 references
 
 ### ONE Friday Fights 178 — Superlek Jitmuangnon vs Anar Mammadov (official event stream)
