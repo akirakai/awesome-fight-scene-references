@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-14 — 9 new source-linked fight/action video references (all six categories)
+
+- **martial-arts (1):** Kyaw Swar Win vs Sherzodi Sadullo — ONE Friday Fights 178 co-main.
+- **film-tv (2):** They Will Kill You (2026) — 'Bloody Samurai' exclusive fight clip; Spirit Slayer: The Rise of the Apprentice — Joel Lim official trailer.
+- **games (2):** Fable (2027) — Official Quest Gameplay | Xbox 25th Anniversary; Stellar Blade: BLOOD RAIN — SHIFT UP Official Reveal Trailer.
+- **anime (1):** Mob Psycho 100 — '1000% Epic Fight' (Crunchyroll Dubs).
+- **stunt-choreography (1):** HiPhi — The Future Never Sleeps (Joon Brandt / Battleblade action design).
+- **ai-action (2):** Seedance 2.5 — nine-model same-fight-prompt comparison (Japanese); AI Madame — 30-second Seedance 2.5 cinematic martial-arts one-take + skill tutorial.
+
+[Full 2026-11-14 annotated collection, nine independent English Motion Prompts, source provenance and playback restrictions](runs/2026-11-14.md). Candidates compared with current categories, README and index, but historical run files are not guaranteed fully deduplicated. Videos are linked only, not mirrored.
+
 ## 2026-11-13 — 8 newly linked reference videos (all six categories)
 
 - **martial-arts (2):** ONE Friday Fights 178 — Superlek Jitmuangnon vs Anar Mammadov (official event stream); WANG Yirui — World Junior Gold Changquan Highlights (IWUF source).
