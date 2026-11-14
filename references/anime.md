@@ -1,5 +1,19 @@
 # Anime Action References
 
+## Added 2026-11-14 — 1 source-checked references
+
+### Mob Psycho 100 — '1000% Epic Fight' (Crunchyroll Dubs)
+- Watch: https://www.youtube.com/watch?v=ix0McLlzrcE
+- Original / supporting source: https://www.crunchyroll.com/series/GY190DKQR/mob-psycho-100
+- Date: Official Crunchyroll Dubs excerpt published 2021-10-19
+- Type: Official anime fight excerpt / dubbed edit
+- Movement design: Psychic-force exchanges and dramatic changes in the hero's power state emphasize anticipation, held silhouettes, energy direction and displaced opponents, rather than physically ordinary striking.
+- Camera / editing: Anime uses pose emphasis, effect layers and purposeful reframing. Analyze start pose → directional energy burst → visible reaction as distinct frames, not a physically continuous live-action stunt.
+- AI-video takeaway: For original AI animation, establish the body silhouette and a single force vector; use one impact frame, not simultaneous incoherent shock waves.
+- Limitations: Official YouTube clip title and uploader verified; exact individual original animation cuts have not been frame-audited. Prompt uses original characters and choreography.
+- Full original English Motion Prompt and provenance: [2026-11-14 annotated batch](runs/2026-11-14.md)
+- Tags: anime,mob-psycho,psychic-battle,power-contrast,impact-frame,classic
+
 ## Added 2026-11-13 — 1 references
 
 ### One Piece episode 1061 — Sanji vs Queen (official Crunchyroll excerpt)
