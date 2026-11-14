@@ -1,5 +1,31 @@
 # AI Action References
 
+## Added 2026-11-14 — 2 source-checked references
+
+### Seedance 2.5 — nine-model same-fight-prompt comparison (Japanese)
+- Watch: https://www.youtube.com/watch?v=N6IMgxC_G7o
+- Original / supporting source: https://yutura.net/channel/127789/video/N6IMgxC_G7o/
+- Date: Creator short published 2026-11-13 07:00 (Japan)
+- Type: Creator-posted model comparison short, 9 video AI models; independent quality claims not verified
+- Movement design: Nine generated variants target a shared fight prompt. Creator notes spinning kick, planned cut points and slow-motion instruction as comparison dimensions.
+- Camera / editing: Compare how each output handles shot changes, kick support-leg position and purposeful speed ramp; avoid treating creator's preferred model as a controlled benchmark.
+- AI-video takeaway: Score every model on contact timing, spin direction, landing balance, screen geography, clothing continuity and whether cuts occur when instructed.
+- Limitations: The 2026-11-13 short is indexed by a third-party video directory; exact nine model names, settings and full prompt are not independently confirmed. The creator's claim that one model performed best is not an independent evaluation.
+- Full original English Motion Prompt and provenance: [2026-11-14 annotated batch](runs/2026-11-14.md)
+- Tags: ai-generated,9-model-comparison,2026-11-13,spinning-kick,controlled-benchmark
+
+### AI Madame — 30-second Seedance 2.5 cinematic martial-arts one-take + skill tutorial
+- Watch: https://www.youtube.com/watch?v=ZjmrWs2aAOc
+- Original / supporting source: https://ai-madame.academy/
+- Date: Creator video published 2026-08-17
+- Type: Creator's generated sample + motion-reference and reusable-skill tutorial
+- Movement design: Opening 00:00–00:30 is described as a continuous AI martial-arts take; a separate 1-vs-3 action sample appears at about 08:17. Focus on fight causality, distinct roles and character separation.
+- Camera / editing: Tutorial separates motion-reference extraction (pacing, lens, cuts, physics) from a reusable martial-arts directing skill, providing a stronger process reference than a single flashy output.
+- AI-video takeaway: Test two ways of producing the same 8-second exchange: a video-reference-derived beat map versus prompt-only choreography; compare consistency before adding elaborate camera movement.
+- Limitations: Creator-attributed Seedance 2.5 workflow and chapter timestamps come from the video description; generated outputs are samples, not proof of model-wide capability. Prompt is independently written, not the creator's original.
+- Full original English Motion Prompt and provenance: [2026-11-14 annotated batch](runs/2026-11-14.md)
+- Tags: AI,Seedance-2.5,one-take,skill-workflow,reference-analysis,2026
+
 ## Added 2026-11-13 — 1 references
 
 ### Epic Legends Showdown — Zeshan Hasen @chudry223 (Seedance 2.5 / Higgsfield)
