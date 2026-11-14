@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-13
+## Latest additions — 2026-11-14
+
+**9 new source-linked fight / action references across six categories:** ONE Friday Fights 178 Kyaw Swar Win vs Sherzodi Sadullo; *They Will Kill You* official excerpt and virtual-production *Spirit Slayer* creator trailer; Xbox's **Nov 12** *Fable* quest gameplay and SHIFT UP's *Stellar Blade: BLOOD RAIN* official game trailer; classic Crunchyroll *Mob Psycho 100* psychic battle; HiPhi *Future Never Sleeps* warehouse stunt/design workflow; and two AI-video production references, **Nov 13** nine-model same-prompt fighting comparison plus AI Madame's Seedance 2.5 30-second fight/skill tutorial.
+
+[Read the 2026-11-14 annotated 9-reference batch and original English Motion Prompts](references/runs/2026-11-14.md) · [browse the date/category index](references/INDEX.md). Event vs publication dates, trailer vs full fight footage and availability restrictions are distinguished; no original video is mirrored or frame-accurately transcribed.
+
+## Earlier additions — 2026-11-13
 
 **8 new source-linked fight-video references across six categories:** ONE Friday Fights 178 and WANG Yirui changquan; *Fists on a Plane* narrow-aircraft action trailer and *Gunman* single-shot thriller teaser; *Tides of Annihilation* mirror-boss gameplay; Crunchyroll's *One Piece* Sanji vs Queen classic; Scott Adkins/The Landing Game practical fight challenges; and Zeshan Hasen's Seedance 2.5 *Epic Legends Showdown*.
 
