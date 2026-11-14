@@ -1,5 +1,31 @@
 # Film / TV Action References
 
+## Added 2026-11-14 — 2 source-checked references
+
+### They Will Kill You (2026) — 'Bloody Samurai' exclusive fight clip
+- Watch: https://www.moviefone.com/movie/they-will-kill-you/epgwyqAtGleYCLpbCY6gW2/videos/OM8whbFg/
+- Original / supporting source: https://www.dailymotion.com/video/xa18xdo
+- Date: Exclusive clip published 2026-02-26
+- Type: Film excerpt / embedded video (graphic horror-action content)
+- Movement design: A focused blade-action encounter in a horror-comedy setting, useful for abrupt threat recognition, defensive reactions and a concise counter. The clip title is verified; precise strike ordering has not been frame-audited.
+- Camera / editing: Study whether sharp close views and reaction shots preserve weapon ownership, strike line and the distance to the opponent. Clip, not a complete film-long sequence.
+- AI-video takeaway: Make a 6–8 second original action beat with a single blade threat, one evasive body shift and a clear reversal; lock the blade hand and avoid disconnected fast cuts.
+- Limitations: Moviefone labels this an exclusive clip; embed availability can depend on region, while the alternative Dailymotion upload may not be rights-holder posted. Action directions above are creative extraction, not a frame-accurate transcript.
+- Full original English Motion Prompt and provenance: [2026-11-14 annotated batch](runs/2026-11-14.md)
+- Tags: film-clip,horror-action,blade-continuity,close-quarters,2026
+
+### Spirit Slayer: The Rise of the Apprentice — Joel Lim official trailer
+- Watch: https://vimeo.com/1103804494
+- Original / supporting source: https://www.joellimstudios.com/spirit-slayer
+- Date: Short film completed May 2025; creator trailer / 2025 festival promotion
+- Type: Director/producer original trailer, virtual-production martial-arts film
+- Movement design: The supernatural fox-spirit conflict creates a useful contrast between trained physical performer movement and effects-based enemy motion. A midnight bus/ritual threat anchors the dramatic stakes.
+- Camera / editing: Director's creator notes confirm ARRI Alexa 35 with tracked camera and Unreal Engine LED-volume backgrounds; this is a montage trailer, so cuts do not prove single-take choreography.
+- AI-video takeaway: Lock performer footwork and enemy screen location before visualizing the spectral force. Treat moving virtual background as camera-tracked geometry, not as a freely drifting image.
+- Limitations: Creator lists stunt coordination by Sunny Pang and tracked LED virtual-production workflow; full 25-minute film is NOT the accessible trailer. No claim of a verified exact punch or bus-fight shot.
+- Full original English Motion Prompt and provenance: [2026-11-14 annotated batch](runs/2026-11-14.md)
+- Tags: virtual-production,fox-spirit,supernatural-action,tracked-camera,2025
+
 ## Added 2026-11-13 — 2 references
 
 ### Fists on a Plane: Wings of Dread — Well Go USA official trailer (Ashton Chen / Iko Uwais)
