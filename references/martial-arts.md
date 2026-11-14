@@ -3,7 +3,7 @@
 ## Added 2026-11-14 — 1 source-checked references
 
 ### Kyaw Swar Win vs Sherzodi Sadullo — ONE Friday Fights 178 co-main
-- Watch: https://www.instagram.com/p/DfsCMyQOCc3/
+- Watch: https://www.instagram.com/reel/DfsCMyQOCc3/
 - Original / supporting source: https://www.onefc.com/news/one-friday-fights-178-co-main-event-result-kyaw-swar-win-outlasts-sadullo-in-a-slugfest/
 - Date: Bout 2026-11-13; official ONE report 2026-11-14
 - Type: ONE official social highlight (may require Instagram login); official report accessible
