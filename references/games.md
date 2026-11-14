@@ -1,5 +1,31 @@
 # Game Action References
 
+## Added 2026-11-14 — 2 source-checked references
+
+### Fable (2027) — Official Quest Gameplay | Xbox 25th Anniversary
+- Watch: https://www.youtube.com/watch?v=Tnsp2xlU5ts
+- Original / supporting source: https://www.gematsu.com/2026/11/fable-xbox-25th-anniversary-quest-gameplay
+- Date: Official gameplay released 2026-11-12; game planned for 2027
+- Type: Official gameplay / quest walkthrough, ~4 minutes
+- Movement design: The Hero of Briar Hill and Arden investigate corrupted Deepwood magic; extract only a discrete combat contact rather than treating quest traversal and action as one continuous battle.
+- Camera / editing: Third-person follow view with environmental silhouettes supports player/ally separation, opposing threat direction and depth staging in a forest.
+- AI-video takeaway: A strong ally-plus-threat AI test: fixed Hero and Arden identities, one magical corruption cue, hero dodges and ally responds in turn, without switching characters.
+- Limitations: Xbox/Playground published a quest gameplay compilation with investigation and combat elements, not a verified uninterrupted full fight. Specific attack sequence in this prompt is original.
+- Full original English Motion Prompt and provenance: [2026-11-14 annotated batch](runs/2026-11-14.md)
+- Tags: fable,xbox,2026-11-12,ally-combat,third-person,forest-geography
+
+### Stellar Blade: BLOOD RAIN — SHIFT UP Official Reveal Trailer
+- Watch: https://www.youtube.com/watch?v=zhdh_LspRHk
+- Original / supporting source: https://en.as.com/meristation/news/stellar-blade-blood-rain-was-revealed-with-its-first-trailer-at-summer-game-fest-f202606-n/
+- Date: Official developer trailer 2026-06-05
+- Type: SHIFT UP official in-game PC footage, reveal trailer
+- Movement design: New protagonist Evie favors striking / fist-led close combat versus the prior protagonist's sword emphasis. Useful for glove/forearm silhouette, hip rotation and timed close-range evasions.
+- Camera / editing: Third-person in-game camera and composed action trailer cuts reveal timing and distance; montage edits cannot be assumed to show continuous uncut attack strings.
+- AI-video takeaway: Design a grounded one-two strike and step-out for a futuristic protagonist, preserve both fists' shape and the counterparty's full reaction before adding VFX.
+- Limitations: Developer describes footage as PC in-game and work-in-progress; title is a sequel and distinct from the previously catalogued original Stellar Blade combat flow.
+- Full original English Motion Prompt and provenance: [2026-11-14 annotated batch](runs/2026-11-14.md)
+- Tags: stellar-blade,blood-rain,2026,gauntlet,cyberpunk,melee-continuity
+
 ## Added 2026-11-13 — 1 references
 
 ### Tides of Annihilation — Mirror Boss Fight Gameplay Trailer (Tyronoe)
