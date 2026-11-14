@@ -1,5 +1,19 @@
 # Stunt & Choreography References
 
+## Added 2026-11-14 — 1 source-checked references
+
+### HiPhi — The Future Never Sleeps (Joon Brandt / Battleblade action design)
+- Watch: https://vimeo.com/1193496746
+- Original / supporting source: https://www.battlebladeproductions.com/action-design.html
+- Date: Commercial produced 2024; creator Vimeo original and choreographer production notes
+- Type: Creator-uploaded finished warehouse-fight commercial; documented prior stunt previs
+- Movement design: Warehouse confrontation designed by Bertan Berber, who also filmed and edited the previs and performed as a stunt. Excellent evidence that movement, coverage and cut points should be planned together.
+- Camera / editing: The choreographer confirms shot selection and transitions were anticipated at previs stage; final graded commercial is accessible, whereas the actual working previs is not separately linked.
+- AI-video takeaway: Preplan camera and fight as one schedule: stable establish → attacker entry → readable counter → same-direction exit. Capture a neutral full-body version before adding dramatic angles.
+- Limitations: Source directly attributes the choreography and previs to Battleblade; do not mislabel the creator's final commercial video as raw previs footage.
+- Full original English Motion Prompt and provenance: [2026-11-14 annotated batch](runs/2026-11-14.md)
+- Tags: stunt,action-design,hiphi,warehouse,previs,2024
+
 ## Added 2026-11-13 — 1 references
 
 ### Scott Adkins — The Landing Game Action Hour, no-rehearsal fight challenges
