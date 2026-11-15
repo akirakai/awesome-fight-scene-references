@@ -1,5 +1,17 @@
 # References Index
 
+## 2026-11-15 — 9 new source-linked action references (all six categories)
+
+- **martial-arts (2):** Quanzhou South Shaolin competition opening showcase (**Nov 13**); Poon Hao Ran's Dakar 2026 gold-medal tai chi fan (Nov 5).
+- **film-tv (2):** *Kill Zone 2 / SPL 2* official-publicity prison-break clip; *Avengement* bar fight (third-party clip).
+- **games (1):** NEXON *Vindictus: Defying Fate* official game overview embedded by RPG Site, with PlayStation lead-director notes (**Nov 12**).
+- **anime (1):** *Fire Force S3* Arthur vs Dragon — official Crunchyroll Brasil excerpt.
+- **stunt-choreography (1):** LBP Stunts *Shawn vs Jim — Fight Choreography Test 5*.
+- **ai-action (2):** Scenepond's cherry-blossom duel (**Seedance 2.5 / MiniMax H3 Max / Wan 3.0**); Chris Tran's same-reference Seedance 2.5 vs Topview T1 fight test.
+
+[Read the full 2026-11-15 source links, movement/camera breakdowns, 9 original English Motion Prompts, limitations and rights notes](runs/2026-11-15.md). No videos mirrored. Current category/index titles checked for duplicate overlap; historical files not exhaustively reviewed.
+
+
 ## 2026-11-14 — 9 new source-linked fight/action video references (all six categories)
 
 - **martial-arts (1):** Kyaw Swar Win vs Sherzodi Sadullo — ONE Friday Fights 178 co-main.

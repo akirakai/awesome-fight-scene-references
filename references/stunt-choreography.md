@@ -1,5 +1,21 @@
 # Stunt & Choreography References
 
+## Added 2026-11-15 — 1 source-linked new references
+
+### Shawn vs Jim — Martial Arts Fight Choreography Test 5 (LBP Stunts)
+- Watch: https://vimeo.com/9666566
+- Original / corroborating source: https://vimeo.com/9666566
+- Date: Classic rehearsal/test; exact upload date not verified
+- Type: Creator-published stunt choreography test; not film footage
+- Action design: Emmanuel Manzanares choreographed Shawn Bernal and Jim 'Jester' Ng in a quickly arranged gym-session test, directly exposing how basic reactions and responses are sequenced.
+- Camera / editing: Shot and edited by the same action director using a Panasonic HVX 200. Study how moderate staging, visible body parts and simple shot coverage make even a quick test legible.
+- AI-video takeaway: Use the raw short exchange as a conceptual motion storyboard: attacker initiates → defender reacts → both reset. This is a stronger motion baseline than effects-heavy footage.
+- Limitations: Analysis is conceptual from verified descriptions and viewing entry metadata, not a frame-by-frame motion transcription. Only a link is retained.
+- Full original English motion prompt and provenance: [2026-11-15 annotated batch](runs/2026-11-15.md)
+- Tags: lbp-stunts,emmanuel-manzanares,stunt-rehearsal,full-body,contact-control
+
+
+
 ## Added 2026-11-14 — 1 source-checked references
 
 ### HiPhi — The Future Never Sleeps (Joon Brandt / Battleblade action design)

@@ -1,5 +1,33 @@
 # Film / TV Action References
 
+## Added 2026-11-15 — 2 source-linked new references
+
+### Kill Zone 2 / SPL 2 — Prison Break movie clip (Tony Jaa)
+- Watch: https://www.youtube.com/watch?v=D6w1_g6WraE
+- Original / corroborating source: https://www.youtube.com/watch?v=D6w1_g6WraE
+- Date: 2016-05-16 FilmIsNow Action Movies upload; film 2015/2016 distribution
+- Type: Promotional film excerpt (not full feature)
+- Action design: Prison unrest stages a fighter inside a crowded set with multiple moving bodies. Observe separating the principal exchange from background reactions, proximity to barriers and the consequences of one attack.
+- Camera / editing: Commercial clip may mix wide crowd geography with tighter punches. Study only a continuous uncut beat when extracting motion; do not splice different takes as a single physical movement.
+- AI-video takeaway: Build layered action with one active attacker/defender pair and restrained background motion; preserve wall/bar location and avoid extras suddenly swapping identities.
+- Limitations: Analysis is conceptual from verified descriptions and viewing entry metadata, not a frame-by-frame motion transcription. Only a link is retained.
+- Full original English motion prompt and provenance: [2026-11-15 annotated batch](runs/2026-11-15.md)
+- Tags: spl-2,prison-action,crowd-blocking,tony-jaa,live-action,2016
+
+### Avengement (2019) — Scott Adkins bar-fight excerpt
+- Watch: https://vimeo.com/727217110
+- Original / corroborating source: https://www.dailymotion.com/video/x7u4wqv
+- Date: Film released 2019; upload date of Vimeo copy not verified
+- Type: Third-party posted movie excerpt; uploader's distribution rights unverified
+- Action design: Bar brawl centers a single combatant among opponents and loose furniture. A source review describes an extended climax built from punches, kicks and improvised objects rather than one choreographic move repeated.
+- Camera / editing: Study how the bar counter, tables and audience fix geography while character shifts from opponent to opponent; keep cut points at identifiable body states.
+- AI-video takeaway: Use a single prop as a tactical barrier, preserve distances, design one opponent exit before the next enters. Avoid copying any exact copyrighted choreography.
+- Limitations: Analysis is conceptual from verified descriptions and viewing entry metadata, not a frame-by-frame motion transcription. Only a link is retained.
+- Full original English motion prompt and provenance: [2026-11-15 annotated batch](runs/2026-11-15.md)
+- Tags: avengement,scott-adkins,bar-brawl,environmental-choreography,third-party-clip
+
+
+
 ## Added 2026-11-14 — 2 source-checked references
 
 ### They Will Kill You (2026) — 'Bloody Samurai' exclusive fight clip

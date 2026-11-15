@@ -1,5 +1,33 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-15 — 2 source-linked new references
+
+### 2026 Quanzhou South Shaolin Kung Fu Elite Tournament — opening showcase
+- Watch: https://euwushu.tv/videos/2026-quanzhou-south-shaolin-kung-fu-elite-tournament-opens
+- Original / corroborating source: https://euwushu.tv/videos/2026-quanzhou-south-shaolin-kung-fu-elite-tournament-opens
+- Date: 2026-11-13 upload; tournament opened 2026-11-12
+- Type: 1:09 China News Service video embedded by EUWUSHU.TV; event montage, not a continuous bout
+- Action design: Large South Shaolin competition offers group and paired-form staging as an alternative to isolated punches. Use one participant's entrance, clear shape, weight transfer and terminal pose, not fabricated sequence details from a multi-shot opening montage.
+- Camera / editing: News-style coverage changes framing; a panoramic group shot is useful for formation and silhouette, while cuts must not be treated as one continuous stunt.
+- AI-video takeaway: For original kung-fu performance use an ordered synchronized two-person opening, one clean hand-technique exchange and a balanced shared final pose; hold camera wide enough to see feet.
+- Limitations: Analysis is conceptual from verified descriptions and viewing entry metadata, not a frame-by-frame motion transcription. Only a link is retained.
+- Full original English motion prompt and provenance: [2026-11-15 annotated batch](runs/2026-11-15.md)
+- Tags: south-shaolin,competition,paired-form,group-blocking,2026,original-news-footage
+
+### Poon Hao Ran — Dakar 2026 gold-medal Tai Chi Fan performance
+- Watch: https://euwushu.tv/videos/poon-hao-ran-olympic-wushu-champion-tai-chi-fan-at-dakar-2026
+- Original / corroborating source: https://euwushu.tv/videos/poon-hao-ran-olympic-wushu-champion-tai-chi-fan-at-dakar-2026
+- Date: 2026-11-05 upload; original footage credited to Olympics
+- Type: 0:48 competition performance excerpt
+- Action design: The Hong Kong competitor's taijishan is an explicit study in one-handed fan geometry, controlled torso turns and slow-to-quick transitions; a gold medal in men's taijiquan combined is source-confirmed.
+- Camera / editing: Competition coverage provides a primarily observational, full-body reference. A fan's spread/closed state should remain readable relative to wrist and elbow.
+- AI-video takeaway: Lock which hand holds the fan, its fixed hinge and open/closed state; prompt deliberate body turn and feet recovery before decorative sleeve motion.
+- Limitations: Analysis is conceptual from verified descriptions and viewing entry metadata, not a frame-by-frame motion transcription. Only a link is retained.
+- Full original English motion prompt and provenance: [2026-11-15 annotated batch](runs/2026-11-15.md)
+- Tags: taijishan,dakar-2026,fan-prop,center-of-gravity,continuous-pose
+
+
+
 ## Added 2026-11-14 — 1 source-checked references
 
 ### Kyaw Swar Win vs Sherzodi Sadullo — ONE Friday Fights 178 co-main

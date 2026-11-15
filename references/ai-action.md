@@ -1,5 +1,33 @@
 # AI Action References
 
+## Added 2026-11-15 — 2 source-linked new references
+
+### Cherry-blossom sword duel — Seedance 2.5 vs MiniMax H3 Max vs Wan 3.0
+- Watch: https://aivs.tv/p/2112477342576873842/
+- Original / corroborating source: https://x.com/scenepond/status/2112477342576873842
+- Date: Creator post 2026-10-20
+- Type: Creator-attributed side-by-side video; 15s; full original prompt NOT published
+- Action design: One sword-duel prompt under falling sakura is applied to three models. The poster qualitatively highlights scene richness for Wan, petal burst for Seedance, and a quicker held close-up for H3 Max; these are creator impressions, not controlled rankings.
+- Camera / editing: Useful for comparing camera reframe timing versus readable sword-owner continuity; decorative petals are a distraction variable that can occlude hand and blade.
+- AI-video takeaway: Keep the exact duel beat, subjects and petal density fixed when testing models; score blade ownership, contact frame and post-contact positions rather than aesthetics alone.
+- Limitations: Analysis is conceptual from verified descriptions and viewing entry metadata, not a frame-by-frame motion transcription. Only a link is retained.
+- Full original English motion prompt and provenance: [2026-11-15 annotated batch](runs/2026-11-15.md)
+- Tags: seedance-2.5,minimax-h3-max,wan-3.0,same-prompt,duel,sakura,model-comparison
+
+### Fight scene — Seedance 2.5 vs Topview T1 (Chris Tran cost/continuity test)
+- Watch: https://aivs.tv/p/2117043887655248120/
+- Original / corroborating source: https://x.com/ChrisTranGG/status/2117043887655248120
+- Date: Creator post 2026-11-01
+- Type: 12s playable side-by-side; original full prompt NOT quoted
+- Action design: Creator compares two models with the same fight task and character references. A shared starting pair makes reference-image persistence, body contacts and action timing the useful observations, not a single best model claim.
+- Camera / editing: Compare the 720p outputs' framing and cut continuity; Seedance top has no audio, Topview bottom includes sound, so audio cannot be treated as a controlled variable.
+- AI-video takeaway: Evaluate in a simple rubric (contact, balance, identity, screen direction, camera): compare these dimensions before modeling costs; poster reports cost figures but not a controlled benchmark.
+- Limitations: Analysis is conceptual from verified descriptions and viewing entry metadata, not a frame-by-frame motion transcription. Only a link is retained.
+- Full original English motion prompt and provenance: [2026-11-15 annotated batch](runs/2026-11-15.md)
+- Tags: seedance-2.5,topview-t1,side-by-side,2026-11-01,identity-consistency,pricing-as-reported
+
+
+
 ## Added 2026-11-14 — 2 source-checked references
 
 ### Seedance 2.5 — nine-model same-fight-prompt comparison (Japanese)

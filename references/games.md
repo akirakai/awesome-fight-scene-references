@@ -1,5 +1,21 @@
 # Game Action References
 
+## Added 2026-11-15 — 1 source-linked new references
+
+### Vindictus: Defying Fate — Game Overview Trailer (NEXON, PS5 reveal)
+- Watch: https://www.rpgsite.net/news/21766-nexon-releases-cinematic-gameplay-trailers-for-free-to-play-online-action-rpg-vindictus-defying-fate
+- Original / corroborating source: https://blog.playstation.com/2026/11/12/vindictus-defying-fate-comes-to-ps5-next-year/
+- Date: PlayStation announcement 2026-11-12; RPG Site compilation 2026-11-14
+- Type: Official game overview embedded in press article (distinct from Nov 13 story-focused cinematic trailer)
+- Action design: The lead director describes distinctly readable combat grammars: Fiona shield-blocks and counters, Lann chain-dodges, Delia charges attacks, and Karok absorbs force. Focus on one parry/counter loop against a much larger opponent.
+- Camera / editing: Third-person gameplay framing supports scale and telegraphed attack arcs; the montage is not one continuous duel.
+- AI-video takeaway: Select one hero's movement language (e.g. shield-counter) and keep the boss's silhouette, collision range, and character's shield hand fixed.
+- Limitations: Analysis is conceptual from verified descriptions and viewing entry metadata, not a frame-by-frame motion transcription. Only a link is retained.
+- Full original English motion prompt and provenance: [2026-11-15 annotated batch](runs/2026-11-15.md)
+- Tags: vindictus-defying-fate,nexon,2026-11-12,shield-parry,boss-scale,game-overview
+
+
+
 ## Added 2026-11-14 — 2 source-checked references
 
 ### Fable (2027) — Official Quest Gameplay | Xbox 25th Anniversary

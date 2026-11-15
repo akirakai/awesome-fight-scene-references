@@ -1,5 +1,21 @@
 # Anime Action References
 
+## Added 2026-11-15 — 1 source-linked new references
+
+### Fire Force season 3 — Arthur vs Dragon (Crunchyroll Brasil official clip)
+- Watch: https://www.youtube.com/watch?v=j3HnmSEiKqU
+- Original / corroborating source: https://www.youtube.com/watch?v=j3HnmSEiKqU
+- Date: 2026-03-27 official Crunchyroll Brasil video
+- Type: Official episode-21 fight excerpt, not a full episode
+- Action design: A high-intensity duel shows the dramatic contrast between a knightly fighter and a physically imposing dragon-like enemy; use anticipation/impact silhouettes, not a realistic martial-arts biomechanics reference.
+- Camera / editing: Anime scale changes and effects are organized around pose anchors and a clear attack direction. Avoid mapping all intervening frames directly to photoreal action.
+- AI-video takeaway: For original animation, write strong pre-impact still pose, a single directional energy exchange, and a response pose with one readable change of scale.
+- Limitations: Analysis is conceptual from verified descriptions and viewing entry metadata, not a frame-by-frame motion transcription. Only a link is retained.
+- Full original English motion prompt and provenance: [2026-11-15 annotated batch](runs/2026-11-15.md)
+- Tags: fire-force,arthur-vs-dragon,crunchyroll-brasil,anime-sakuga,impact-pose,2026
+
+
+
 ## Added 2026-11-14 — 1 source-checked references
 
 ### Mob Psycho 100 — '1000% Epic Fight' (Crunchyroll Dubs)

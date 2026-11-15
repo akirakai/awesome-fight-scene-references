@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-14
+## Latest additions — 2026-11-15
+
+**9 new video references across all six categories:** Quanzhou South Shaolin showcase and Poon Hao Ran fan (martial arts); *SPL 2* prison-break clip and *Avengement* pub fight (film); NEXON's **Nov 12** *Vindictus: Defying Fate* game overview; official Crunchyroll Brasil *Fire Force* Arthur vs Dragon; LBP Stunts *Shawn vs Jim* choreography test; and two new AI motion comparisons (sakura sword duel Seedance/H3 Max/Wan, Seedance vs Topview T1).
+
+[Full 2026-11-15 annotated batch — 9 original English Motion Prompts](references/runs/2026-11-15.md) · [dated category index](references/INDEX.md). Each clip links to its source and is labeled as excerpt, montage, rehearsal or model test. Rights, availability and non-frame-verified caveats are documented.
+
+## Earlier additions — 2026-11-14
 
 **9 new source-linked fight / action references across six categories:** ONE Friday Fights 178 Kyaw Swar Win vs Sherzodi Sadullo; *They Will Kill You* official excerpt and virtual-production *Spirit Slayer* creator trailer; Xbox's **Nov 12** *Fable* quest gameplay and SHIFT UP's *Stellar Blade: BLOOD RAIN* official game trailer; classic Crunchyroll *Mob Psycho 100* psychic battle; HiPhi *Future Never Sleeps* warehouse stunt/design workflow; and two AI-video production references, **Nov 13** nine-model same-prompt fighting comparison plus AI Madame's Seedance 2.5 30-second fight/skill tutorial.
 
