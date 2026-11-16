@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-15
+## Latest additions — 2026-11-16
+
+**10 new source-linked movement and fight references across six categories:** Nguyen Khac Le Hoang's Dakar fan performance and Jon Cheung's *Fight in Motion* (martial arts); *A Good Fight* and Lenx Productions' filmed choreography (film-TV); SEGA's *SHINOBI: Art of Vengeance* combat trailer (games); official Crunchyroll Brasil *Gojo vs Sukuna* clip (anime); Ryan Rohtla's choreography demo and Lex Garcia's 2026 stunt reel (stunt); and creator-posted AI action from Leopati and *Two Seconds* (AI-action). **Includes 10 original English prompts.**
+
+[Full annotated 2026-11-16 batch](references/runs/2026-11-16.md) · [dated six-category index](references/INDEX.md). Dates and media types identified, no video mirrored, precise choreography not frame-audited.
+
+## Earlier additions — 2026-11-15
 
 **9 new video references across all six categories:** Quanzhou South Shaolin showcase and Poon Hao Ran fan (martial arts); *SPL 2* prison-break clip and *Avengement* pub fight (film); NEXON's **Nov 12** *Vindictus: Defying Fate* game overview; official Crunchyroll Brasil *Fire Force* Arthur vs Dragon; LBP Stunts *Shawn vs Jim* choreography test; and two new AI motion comparisons (sakura sword duel Seedance/H3 Max/Wan, Seedance vs Topview T1).
 
