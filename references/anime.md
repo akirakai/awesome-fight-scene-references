@@ -1,5 +1,19 @@
 # Anime Action References
 
+## Added 2026-11-16 — 1 new source-linked references
+
+### JUJUTSU KAISEN — Gojo vs Sukuna (Crunchyroll Brasil)
+- Watch: https://www.youtube.com/watch?v=V1_PdZzqIt8
+- Original / supporting source: https://www.youtube.com/watch?v=V1_PdZzqIt8
+- Date: 2020-12-01 official Crunchyroll Brasil upload; classic anime fight excerpt
+- Type: Official dubbed anime excerpt, not full episode
+- Action design: Contrast between a confident stationary fighter and an aggressively mobile adversary, with brief high-contrast attack and reaction poses. Better as stylized timing reference than realistic contact physics.
+- Camera / editing: Anime edits favor posing, anticipation and sudden changes in scale; do not interpret drawn impact exaggeration as physically accurate movement.
+- AI-video takeaway: Create an original anime duel with readable setup→burst→impact→pause, preserving fighter screen direction across cuts.
+- Full independent English prompt & source limitations: [2026-11-16 annotated batch](runs/2026-11-16.md)
+- Tags: anime,2026-11-16,source-checked,motion-reference
+
+
 ## Added 2026-11-15 — 1 source-linked new references
 
 ### Fire Force season 3 — Arthur vs Dragon (Crunchyroll Brasil official clip)
