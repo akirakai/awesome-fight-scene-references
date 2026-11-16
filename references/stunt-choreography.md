@@ -1,5 +1,30 @@
 # Stunt & Choreography References
 
+## Added 2026-11-16 — 2 new source-linked references
+
+### Ryan Rohtla — Martial Arts Skill Video (Alejandro Matias choreography)
+- Watch: https://vimeo.com/644577725
+- Original / supporting source: https://vimeo.com/644577725
+- Date: Creator-published choreography skills reel; upload date not confirmed
+- Type: Performer fight-choreography demonstration, not completed movie scene
+- Action design: Ryan Rohtla demonstrates trained fight choreography under fight choreographer Alejandro Matias. Useful as a rehearsal-style motion baseline rather than special effects reference; exact strikes not frame-audited.
+- Camera / editing: Assess whether the performer stays fully visible and resets on marks; keep camera stable when using rehearsal footage as motion reference.
+- AI-video takeaway: Translate a rehearsal into motion beats with explicit reset frames before requesting expressive camera movement.
+- Full independent English prompt & source limitations: [2026-11-16 annotated batch](runs/2026-11-16.md)
+- Tags: stunt-choreography,2026-11-16,source-checked,motion-reference
+
+### Lex Garcia — 2026 Stunt Reel
+- Watch: https://vimeo.com/638805224
+- Original / supporting source: https://vimeo.com/638805224
+- Date: Reel titled 2026; source listing does not independently verify each clip's recording date
+- Type: Performer showreel / montage (Taekwondo, BJJ and sword training listed)
+- Action design: The creator lists training in taekwondo, Brazilian jiu-jitsu and katana. Treat the reel as an overview of movement competencies, not a claim that all skills are demonstrated in a single uncut sequence.
+- Camera / editing: Showreel cuts may hide transitions. Choose one continuous full-body passage at a time and do not infer complete choreography across montage cuts.
+- AI-video takeaway: Build and evaluate a movement library separated into kicking, grappling and blade-handling primitives; don't combine unrelated reel fragments into one supposedly real action.
+- Full independent English prompt & source limitations: [2026-11-16 annotated batch](runs/2026-11-16.md)
+- Tags: stunt-choreography,2026-11-16,source-checked,motion-reference
+
+
 ## Added 2026-11-15 — 1 source-linked new references
 
 ### Shawn vs Jim — Martial Arts Fight Choreography Test 5 (LBP Stunts)
