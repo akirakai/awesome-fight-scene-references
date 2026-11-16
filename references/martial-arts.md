@@ -1,5 +1,30 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-16 — 2 new source-linked references
+
+### Nguyen Khac Le Hoang — Dakar 2026 Taiji Fan (silver-medal routine)
+- Watch: https://euwushu.tv/videos/nguyen-khac-le-hoang-vie-taiji-fan-silver-at-dakar-2026
+- Original / supporting source: https://euwushu.tv/news/nguyen-khac-le-hoang-wins-vietnams-first-medal-of-dakar-2026-with-taijiquan-silver
+- Date: 2026-11-08 upload; Olympic performance from November 2026; footage credited to Olympics
+- Type: 48-second competition taijishan excerpt
+- Action design: A real fan routine gives an unusually clean reference for hand-tool coupling: controlled wrist orientation, torso rotation, opening/closing fan geometry, weight shifts and balanced finishing poses. Not a duel.
+- Camera / editing: Competition coverage favors a readable full-body figure; use the steady portions as movement references rather than assuming editorial cuts preserve a single trajectory.
+- AI-video takeaway: Create an original fan-form with locked right-hand grip, fan hinge and number of ribs, visible supporting foot, and deliberately varied tempo.
+- Full independent English prompt & source limitations: [2026-11-16 annotated batch](runs/2026-11-16.md)
+- Tags: martial-arts,2026-11-16,source-checked,motion-reference
+
+### FIGHT IN MOTION — Jon Cheung combat-sport movement film
+- Watch: https://vimeo.com/709548234
+- Original / supporting source: https://vimeo.com/709548234
+- Date: Classic Vimeo film; upload date not independently established
+- Type: Creator-published stylized combat-sports movement short, not a competition bout
+- Action design: Cycles of training-based boxing, BJJ, judo, Muay Thai and wrestling movement provide a rhythm and reaction reference. Do not assume a specific technique appears in a particular frame without video inspection.
+- Camera / editing: Director cites Eadweard Muybridge and repetitive athletic training. ARRl Alexa Mini photography and multiple editors make it a useful study in repeated movement and editorial rhythm, not a one-take motion ground truth.
+- AI-video takeaway: Turn a repeated contact drill into a visually consistent loop; distinguish real movement from cuts and speed ramps.
+- Full independent English prompt & source limitations: [2026-11-16 annotated batch](runs/2026-11-16.md)
+- Tags: martial-arts,2026-11-16,source-checked,motion-reference
+
+
 ## Added 2026-11-15 — 2 source-linked new references
 
 ### 2026 Quanzhou South Shaolin Kung Fu Elite Tournament — opening showcase
