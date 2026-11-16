@@ -1,5 +1,19 @@
 # Game Action References
 
+## Added 2026-11-16 — 1 new source-linked references
+
+### SHINOBI: Art of Vengeance — official SEGA Combat Trailer
+- Watch: https://www.youtube.com/watch?v=ahKG2_5QRLw
+- Original / supporting source: https://www.youtube.com/watch?v=P-yIQvNRY5w
+- Date: 2025-06-02 official SEGA combat trailer; game released 2025-08-29
+- Type: Official edited 2D combat trailer, not uninterrupted gameplay
+- Action design: Joe Musashi combines sword, kunai, ninjutsu and ninpo in stylized 2D sequences. Useful for separating readable attack silhouettes from utility movement and chained abilities.
+- Camera / editing: Side-on 2D staging gives highly legible screen direction and threat distance; trailer cuts should not be stitched into one continuous combo.
+- AI-video takeaway: Adapt a 2D attack-evade-return loop with fixed actor silhouette and clear projectile owner, then test a cinematic 3D re-render.
+- Full independent English prompt & source limitations: [2026-11-16 annotated batch](runs/2026-11-16.md)
+- Tags: games,2026-11-16,source-checked,motion-reference
+
+
 ## Added 2026-11-15 — 1 source-linked new references
 
 ### Vindictus: Defying Fate — Game Overview Trailer (NEXON, PS5 reveal)
