@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-16 — 10 new source-linked motion and action references (six categories)
+
+- **martial-arts (2):** Nguyen Khac Le Hoang's Dakar 2026 silver-medal taiji fan; Jon Cheung's *FIGHT IN MOTION* combat-sports rhythmic study.
+- **film-TV (2):** *A GOOD FIGHT* (creator-published ritual kung-fu short); *Fighting sequence* (Lenx Productions / Allen Keng filming).
+- **games (1):** SEGA official *SHINOBI: Art of Vengeance* 2D combat trailer.
+- **anime (1):** Official Crunchyroll Brasil *Jujutsu Kaisen* Gojo vs Sukuna scene.
+- **stunt-choreography (2):** Ryan Rohtla / Alejandro Matias choreography demo; Lex Garcia 2026 stunt reel.
+- **ai-action (2):** Leopati's October 2026 AI 1970s arena film; Bilal Gürkan Şanlı's *Two Seconds* (brief sword-action segment + open production workflow).
+
+[Read the complete 2026-11-16 source-linked analysis, 10 original English motion prompts and caveats](runs/2026-11-16.md). Sources checked, montage/reel/drama vs fighting footage distinguished; not frame-audited.
+
 ## 2026-11-15 — 9 new source-linked action references (all six categories)
 
 - **martial-arts (2):** Quanzhou South Shaolin competition opening showcase (**Nov 13**); Poon Hao Ran's Dakar 2026 gold-medal tai chi fan (Nov 5).
