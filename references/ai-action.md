@@ -1,5 +1,30 @@
 # AI Action References
 
+## Added 2026-11-16 — 2 new source-linked references
+
+### Leopati — Bruce Lee vs Muay Thai AI short (1970s arena homage)
+- Watch: https://www.leopati.com/portfolio/bruce-lee-ai-short-film/
+- Original / supporting source: https://www.leopati.com/portfolio/bruce-lee-ai-short-film/
+- Date: Released 2026-10-18, director Güneş Polater; studio-described 59-second vertical film
+- Type: Creator-published 9:16 all-AI generated action short with onsite embedded playback and chapter markers
+- Action design: Studio-provided timeline: 00:12 fight, 00:40 pre-strike close-up, 00:52 knockout and 00:55 final stance. Opponent kicks and knees, defender uses guard and footwork; one finishing strike supplies a clean dramatic payoff.
+- Camera / editing: Ring-height action coverage, then an extreme face close-up before the last impact; excellent study in shot-size escalation and payoff rather than long unbroken choreography.
+- AI-video takeaway: Replicate the *editing logic* with two entirely fictional, consent-safe characters; do not reproduce Bruce Lee's likeness or assume estate authorization.
+- Full independent English prompt & source limitations: [2026-11-16 annotated batch](runs/2026-11-16.md)
+- Tags: ai-action,2026-11-16,source-checked,motion-reference
+
+### TWO SECONDS — Bilal Gürkan Şanlı AI film / forest sword-action sequence
+- Watch: https://www.youtube.com/watch?v=sH7Qz9wd5v0
+- Original / supporting source: https://projects.bilalgurkansanli.com/en/two-seconds/
+- Date: 2026 creator project; September 2026 festival nomination noted on creator page; film 10:27
+- Type: AI sci-fi drama with a *short* adventure/action sequence; not primarily a fight film; maker publishes workflow and assets
+- Action design: Creator describes alien fire, forest swords and a fall as part of the brief action sequence. The strongest transferable reference is the production method rather than an independently verified, continuous sword duel.
+- Camera / editing: Creator says every cut was human edited: character sheets, environment plates, hero frames and short image-to-video shots were made before assembly. Fix cheapest errors at the hero-frame step.
+- AI-video takeaway: Excellent 4-stage pipeline: CAST→LOCATION→HERO FRAME→SHOT. Preserve identities, sword inventory, screen direction and controlled scene changes during the brief action beat.
+- Full independent English prompt & source limitations: [2026-11-16 annotated batch](runs/2026-11-16.md)
+- Tags: ai-action,2026-11-16,source-checked,motion-reference
+
+
 ## Added 2026-11-15 — 2 source-linked new references
 
 ### Cherry-blossom sword duel — Seedance 2.5 vs MiniMax H3 Max vs Wan 3.0
