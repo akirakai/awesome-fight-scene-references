@@ -1,5 +1,30 @@
 # Film / TV Action References
 
+## Added 2026-11-16 — 2 new source-linked references
+
+### A GOOD FIGHT — Saurav Mohapatra's ritual combat short
+- Watch: https://vimeo.com/712409005
+- Original / supporting source: https://filmfreeway.com/AGoodFightShortFilm
+- Date: Classic independent short; 2021–2023 festival recognition; current Vimeo listing
+- Type: 10-minute creator-uploaded martial-arts fantasy short film
+- Action design: The premise pits an incognito exiled warrior against a recurring ritual challenger. Study a confrontation with a dramatic rule, distinct fighter motivations and escalating combat rather than anonymous punches; exact techniques not frame-audited.
+- Camera / editing: The director and cinematographer can be studied for how scenes establish the arena before closer action coverage. Treat edits as new takes, not as physically continuous motion.
+- AI-video takeaway: Give the 15-second duel an emotional stake and a clear physical win condition while retaining consistent spatial blocking.
+- Full independent English prompt & source limitations: [2026-11-16 annotated batch](runs/2026-11-16.md)
+- Tags: film-tv,2026-11-16,source-checked,motion-reference
+
+### Fighting sequence — Lenx Productions / Allen Keng
+- Watch: https://vimeo.com/836045923
+- Original / supporting source: https://vimeo.com/836045923
+- Date: Creator-uploaded Vimeo footage; exact upload date unverified
+- Type: Independent filmed choreography sequence with Amanda Zhou and Allen Keng; not identified as a full feature-film excerpt
+- Action design: A two-performer choreographed fight designed by Allen Keng. Valuable for learning paired action verbs and how a scene can be built around mutual timing; do not claim unverified individual strikes.
+- Camera / editing: Alen Xhafa credited as DOP. Compare framing around hand/foot contacts with performer recovery; keep both bodies visible when generating baseline motion.
+- AI-video takeaway: Treat attacker and defender as coupled states: lead, response, contact or miss, and balanced reset.
+- Full independent English prompt & source limitations: [2026-11-16 annotated batch](runs/2026-11-16.md)
+- Tags: film-tv,2026-11-16,source-checked,motion-reference
+
+
 ## Added 2026-11-15 — 2 source-linked new references
 
 ### Kill Zone 2 / SPL 2 — Prison Break movie clip (Tony Jaa)
