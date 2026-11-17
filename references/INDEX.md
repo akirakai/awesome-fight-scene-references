@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-17 — 10 new source-linked fight/action references (six categories)
+
+- **martial-arts (2):** European Kuo Shu Cup 2026 — He Yong Gan Martial Arts competition highlights; Duilian: Shaolin Shi San Quan — He Yong Gan Martial Arts.
+- **film-tv (2):** NIGHT SHIFT — Lorenz Hideyoshi / Action C (complete action short); MIND, BODY & SOUL — The Fisticuffs Collective virtual kumite.
+- **games (1):** Lords of the Fallen II — 'Steel & Sorcery' official combat gameplay trailer.
+- **anime (1):** X-Men '97 — Jean Grey / Cyclops vs Cable (official Marvel fight clip).
+- **stunt-choreography (2):** Street Fight Previs — Arnav Banerji (Maya → Unreal Engine); Shawn vs Keith — Fight Choreography Test 3 (LBP Stunts Chicago).
+- **ai-action (2):** 30-second mountain-temple katana fight — Shams / Seedance 2.5; Warehouse Fight — one storyboard, Seedance 2.0 vs Kling V3 Pro (Jo Aiba).
+
+[Read complete 2026-11-17 analysis, 10 independently authored English prompts, provenance and limitations](runs/2026-11-17.md). Player accessibility may vary; frame-accurate fight transcription was not attempted.
+
 ## 2026-11-16 — 10 new source-linked motion and action references (six categories)
 
 - **martial-arts (2):** Nguyen Khac Le Hoang's Dakar 2026 silver-medal taiji fan; Jon Cheung's *FIGHT IN MOTION* combat-sports rhythmic study.
