@@ -1,5 +1,29 @@
 # AI Action References
 
+## Added 2026-11-17 — 2 source-linked references
+
+### 30-second mountain-temple katana fight — Shams / Seedance 2.5
+- Watch: https://behindthegen.com/w/30-second-temple-katana-fight-with-ragdoll-physics-in-seedance-25
+- Original / supporting source: https://behindthegen.com/w/30-second-temple-katana-fight-with-ragdoll-physics-in-seedance-25
+- Date: Creator-posted 2026-09-08, according to workflow page
+- Type: Creator-attributed 30–31-second AI sword-fight generation/workflow, 16:9; original long prompt published on linked page
+- Action design: Timed 5-second beats for shinobi ambush, parry, counter, thrown blades, wall run and final strike. Strongest lesson is that defeated enemies and displaced objects should remain in the scene rather than teleport/despawn.
+- Camera / editing: The supplied workflow requests lens changes, ground tracking, orbits, whip-pans, hit-stops and speed changes; these are PROMPT INSTRUCTIONS, not independently confirmed successfully rendered frames.
+- AI-video takeaway: Simplify the source's ambitious 30-second script into a test of one parry and one knockback with opponent persistence and believable collision physics.
+- Original English motion prompt, caveats and provenance: [2026-11-17 annotated batch](runs/2026-11-17.md)
+- Tags: ai-action,2026-11-17,source-linked,choreography-reference
+
+### Warehouse Fight — one storyboard, Seedance 2.0 vs Kling V3 Pro (Jo Aiba)
+- Watch: https://behindthegen.com/w/warehouse-fight-one-storyboard-seedance-20-vs-kling-v3-pro
+- Original / supporting source: https://behindthegen.com/w/warehouse-fight-one-storyboard-seedance-20-vs-kling-v3-pro
+- Date: Creator-posted 2026-05-20 according to workflow catalogue
+- Type: AI action model-comparison workflow, roughly 20-second demonstration, not a controlled peer-reviewed benchmark
+- Action design: Single image storyboard built with GPT Image 2 in Hedra, animated independently by Seedance 2.0 and Kling V3 Pro. Best reference for separating staging provided by a still from movement invented by video models.
+- Camera / editing: Compare whether each generated take retains the storyboard's camera axis, subject scale and action timing; the source does not establish identical seeds, exact model settings or generation counts.
+- AI-video takeaway: Reuse one storyboard and one prompt, then score contact causality, character continuity, camera-axis consistency and body recovery rather than picking a winner by visual flash.
+- Original English motion prompt, caveats and provenance: [2026-11-17 annotated batch](runs/2026-11-17.md)
+- Tags: ai-action,2026-11-17,source-linked,choreography-reference
+
 ## Added 2026-11-16 — 2 new source-linked references
 
 ### Leopati — Bruce Lee vs Muay Thai AI short (1970s arena homage)
