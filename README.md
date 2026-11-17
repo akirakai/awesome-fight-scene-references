@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-16
+## Latest additions — 2026-11-17
+
+**10 new action/motion studies spanning all six categories:** European Kuo Shu 2026 and traditional Shaolin duilian (martial arts); *NIGHT SHIFT* and *Mind, Body & Soul* (independent film); *Lords of the Fallen II* Steel & Sorcery combat trailer (games); official Marvel *X-Men '97* Jean/Cyclops vs Cable clip (animation); Arnav Banerji's Unreal street-fight previs and LBP Stunts' noir choreography test; and two original AI motion workflows (Shams' Seedance 2.5 mountain-temple katana fight; Jo Aiba's Seedance-vs-Kling warehouse storyboard test). Includes 10 independently drafted English motion prompts, source links, camera notes and limitations.
+
+[Full annotated 2026-11-17 batch](references/runs/2026-11-17.md) · [dated six-category index](references/INDEX.md). Specific shots have not been individually frame-audited; some embedded video platforms may restrict access.
+
+## Earlier additions — 2026-11-16
 
 **10 new source-linked movement and fight references across six categories:** Nguyen Khac Le Hoang's Dakar fan performance and Jon Cheung's *Fight in Motion* (martial arts); *A Good Fight* and Lenx Productions' filmed choreography (film-TV); SEGA's *SHINOBI: Art of Vengeance* combat trailer (games); official Crunchyroll Brasil *Gojo vs Sukuna* clip (anime); Ryan Rohtla's choreography demo and Lex Garcia's 2026 stunt reel (stunt); and creator-posted AI action from Leopati and *Two Seconds* (AI-action). **Includes 10 original English prompts.**
 
