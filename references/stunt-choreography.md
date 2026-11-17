@@ -1,5 +1,29 @@
 # Stunt & Choreography References
 
+## Added 2026-11-17 — 2 source-linked references
+
+### Street Fight Previs — Arnav Banerji (Maya → Unreal Engine)
+- Watch: https://vimeo.com/544154856
+- Original / supporting source: https://vimeo.com/544154856
+- Date: Creator-uploaded classic previs; precise posting date not established
+- Type: 3D shot-planning / fight-previsualization project, not live action
+- Action design: The creator credits borrowed choreography by Vlad Rimburg and Emmanuel Manzanares. The key value is controlled interaction between two performers and deliberate breakdown into cameraable blocks.
+- Camera / editing: Creator says they used physical focal lengths, camera parameters and an Unreal real-time workflow to test shot choice and movement — unusually useful for physically plausible AI camera planning.
+- AI-video takeaway: Generate a baseline with 28–35mm lens and two bodies always visible, then vary camera route independently from actor trajectories. Test matching action before style.
+- Original English motion prompt, caveats and provenance: [2026-11-17 annotated batch](runs/2026-11-17.md)
+- Tags: stunt-choreography,2026-11-17,source-linked,choreography-reference
+
+### Shawn vs Keith — Fight Choreography Test 3 (LBP Stunts Chicago)
+- Watch: https://vimeo.com/8309552
+- Original / supporting source: https://vimeo.com/8309552
+- Date: Classic stunt test; creator upload date not independently confirmed
+- Type: Creator-published choreographed live-action two-person stunt test
+- Action design: Emmanuel Manzanares directed, choreographed, shot and edited the test featuring Keith Min and Shawn Bernal. Useful for rehearsal-level paired timing, especially when comparing attacker and responder states.
+- Camera / editing: The source explicitly identifies a noir aesthetic and Panasonic HVX200 footage. No exaggerated claim about exact lens or single-take structure; start with readable rehearsal-length segments.
+- AI-video takeaway: Study how low-resource choreography and controlled camera make action readable without dependence on CG or fast-cut spectacle.
+- Original English motion prompt, caveats and provenance: [2026-11-17 annotated batch](runs/2026-11-17.md)
+- Tags: stunt-choreography,2026-11-17,source-linked,choreography-reference
+
 ## Added 2026-11-16 — 2 new source-linked references
 
 ### Ryan Rohtla — Martial Arts Skill Video (Alejandro Matias choreography)
