@@ -1,5 +1,18 @@
 # Anime Action References
 
+## Added 2026-11-17 — 1 source-linked references
+
+### X-Men '97 — Jean Grey / Cyclops vs Cable (official Marvel fight clip)
+- Watch: https://www.youtube.com/watch?v=nXoAbcsTTEo
+- Original / supporting source: https://www.awn.com/news/awn-trailer-roundup-november-11-x-men-97-invincible-and-helluva-boss
+- Date: Official clip reported 2026-11-11; series title originally introduced in earlier years
+- Type: Official Marvel Animation edited animated fight clip; Western TV animation indexed here under broader animation/anime motion grammar
+- Action design: A three-character family conflict places characters with different supernatural abilities into opposition despite overlapping motivations. Study priorities of threat, reaction and identifiable power ownership.
+- Camera / editing: Animation can bridge a wide three-character spatial anchor and selective power/reaction close-ups; shot transitions require strict actor and energy-direction continuity.
+- AI-video takeaway: Use distinct power silhouettes for three participants and only one principal attack at a time, maintaining clear screen-left/screen-right positions.
+- Original English motion prompt, caveats and provenance: [2026-11-17 annotated batch](runs/2026-11-17.md)
+- Tags: anime,2026-11-17,source-linked,choreography-reference
+
 ## Added 2026-11-16 — 1 new source-linked references
 
 ### JUJUTSU KAISEN — Gojo vs Sukuna (Crunchyroll Brasil)
