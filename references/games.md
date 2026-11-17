@@ -1,5 +1,18 @@
 # Game Action References
 
+## Added 2026-11-17 — 1 source-linked references
+
+### Lords of the Fallen II — 'Steel & Sorcery' official combat gameplay trailer
+- Watch: https://www.youtube.com/watch?v=BKgEZ1J6i5w
+- Original / supporting source: https://gridvids.com/playstation/lords-of-the-fallen-ii-new-steel-sorcery-gameplay-trailer-ps5-games
+- Date: PlayStation trailer published 2026-11-04; game promotional footage for future release
+- Type: Official edited gameplay trailer (not uncut boss-fight footage)
+- Action design: Mid-combo weapon changes, Quickfire/Counterstrike, magic/ranged stances and weapon variety are explicitly identified by the publisher. Study switching combat 'verbs' while retaining the main actor's kinetic momentum.
+- Camera / editing: Third-person game framing helps identify where threat and protagonist face; montage cuts in the trailer should never be interpreted as continuous attack transitions.
+- AI-video takeaway: For AI, request only one mid-combo weapon swap and one clearly signalled counter rather than cramming all trailer mechanics into eight seconds.
+- Original English motion prompt, caveats and provenance: [2026-11-17 annotated batch](runs/2026-11-17.md)
+- Tags: games,2026-11-17,source-linked,choreography-reference
+
 ## Added 2026-11-16 — 1 new source-linked references
 
 ### SHINOBI: Art of Vengeance — official SEGA Combat Trailer
