@@ -1,5 +1,29 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-17 — 2 source-linked references
+
+### European Kuo Shu Cup 2026 — He Yong Gan Martial Arts competition highlights
+- Watch: https://www.dailymotion.com/video/xbpwfvm
+- Original / supporting source: https://www.dailymotion.com/video/xbpwfvm
+- Date: Competition 2026-10-17; creator-upload page checked 2026-11-17 (exact upload date not independently confirmed)
+- Type: Creator/team-posted martial-arts competition highlights; montage, not one continuous sparring bout
+- Action design: He Yong Gan's team shows traditional kung fu, taiji, weapon forms and sanda competition contexts. The useful contrast is controlled formal poses versus explosive contest motion; do not infer a single continuous combination across montage cuts.
+- Camera / editing: The short montage mixes moments; only pick a visibly uncut, full-body passage for motion analysis, and treat all editorial cuts as independent shots.
+- AI-video takeaway: Train a two-mode prompt: measured stance/arm position followed by one realistic short offensive motion, with an explicit balance recovery. Do not mix different athletes' moves into one body trajectory.
+- Original English motion prompt, caveats and provenance: [2026-11-17 annotated batch](runs/2026-11-17.md)
+- Tags: martial-arts,2026-11-17,source-linked,choreography-reference
+
+### Duilian: Shaolin Shi San Quan — He Yong Gan Martial Arts
+- Watch: https://www.dailymotion.com/video/x96i02u
+- Original / supporting source: https://www.dailymotion.com/video/x96i02u
+- Date: Creator page published 2024-09-30
+- Type: Classic traditional Shaolin paired-form demonstration (duilian), not an unscripted bout
+- Action design: Paired kung-fu routines are valuable for studying reciprocal attacks, matching timing, controlled distance, and both participants finishing on stable marks. Exact strikes are deliberately not inferred from page text alone.
+- Camera / editing: The original creator video is a concise demonstration. Use a two-person wide view when testing AI imitation; do not interpolate through any unverified edits.
+- AI-video takeaway: Couple A's attack to B's evasion and visible posture reset; ensure both participants remain on-screen, with no spontaneous position swap.
+- Original English motion prompt, caveats and provenance: [2026-11-17 annotated batch](runs/2026-11-17.md)
+- Tags: martial-arts,2026-11-17,source-linked,choreography-reference
+
 ## Added 2026-11-16 — 2 new source-linked references
 
 ### Nguyen Khac Le Hoang — Dakar 2026 Taiji Fan (silver-medal routine)
