@@ -1,5 +1,29 @@
 # Film / TV Action References
 
+## Added 2026-11-17 — 2 source-linked references
+
+### NIGHT SHIFT — Lorenz Hideyoshi / Action C (complete action short)
+- Watch: https://www.youtube.com/watch?v=syPO8e36YSI
+- Original / supporting source: https://filmcombatsyndicate.com/night-shift-hong-kong-action-noir-lights-up-the-streets-of-saigon-in-lorenz-hideyoshis-new-short/
+- Date: Full short published 2026-05-21; filmed 2023–2024 in Ho Chi Minh City, Vietnam
+- Type: Creator-uploaded full live-action martial-arts short film; actor/director/action designer Lorenz Hideyoshi, with Andy Long and Action C
+- Action design: An ordinary scooter-cab-driver premise creates clear dramatic purpose for escalating physical encounters. Cast and stunt-team credits make it a particularly relevant reference for believable distance, reversals and injury reactions.
+- Camera / editing: Creator describes experimenting with very short close-ups and tight editing; contrast complete readable two-shots with inserted reaction shots rather than assuming the whole film is one take.
+- AI-video takeaway: Start with a legible six-second attack–defence–reset block and only then add a single short face or hand insert to heighten tension.
+- Original English motion prompt, caveats and provenance: [2026-11-17 annotated batch](runs/2026-11-17.md)
+- Tags: film-tv,2026-11-17,source-linked,choreography-reference
+
+### MIND, BODY & SOUL — The Fisticuffs Collective virtual kumite
+- Watch: https://filmcombatsyndicate.com/mind-body-soul-watch-aaron-vargas-and-nnanyere-okoro-bring-style-substance-and-spirit-in-their-latest-action-comedy-short/
+- Original / supporting source: https://www.reddit.com/r/Filmmakers/comments/1wtgern/a_friendly_rivalry_goes_from_a_casual_game_of/
+- Date: Film publicly discussed and linked 2026-09-29; festival screenings reported in 2026
+- Type: Independent martial-arts comedy short; watch embedded on linked source article (player may be inaccessible in some regions), not an official standalone playback URL verified by this run
+- Action design: A chess rivalry transforms into an imaginative combat-space rivalry; its design explicitly connects mental strategy, physical technique and resolve. Aaron Vargas and Nnanyere Okoro developed choreography/previs; Davidson Corona worked on action design and camera.
+- Camera / editing: Reportedly shot with natural light, stunt coverage and two camera operators; the scene concept is excellent for a transition from restrained over-the-board looks to readable combat coverage.
+- AI-video takeaway: Connect story and choreography: a deliberate visual decision by A leads to a specific combat initiative, not gratuitous simultaneous motion from both characters.
+- Original English motion prompt, caveats and provenance: [2026-11-17 annotated batch](runs/2026-11-17.md)
+- Tags: film-tv,2026-11-17,source-linked,choreography-reference
+
 ## Added 2026-11-16 — 2 new source-linked references
 
 ### A GOOD FIGHT — Saurav Mohapatra's ritual combat short
