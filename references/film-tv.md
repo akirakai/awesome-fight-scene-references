@@ -1,5 +1,29 @@
 # Film / TV Action References
 
+## Added 2026-11-18 — 2 new source-linked references
+
+### The Wrecking Crew (2026) — Jason Momoa vs Yakuza (MovieGasm clip)
+- Watch: https://www.youtube.com/watch?v=x3lPNWOpOvg
+- Original / supporting: https://www.youtube.com/watch?v=x3lPNWOpOvg
+- Date / type: Clip published 2026-01-29 — Live-action movie fight excerpt, uploaded by MovieGasm (third-party channel, not verified studio-original upload)
+- Action design: A central fighter confronting several opponents; break group choreography into one dominant attacker, the target's reaction and a clear next-threat handoff.
+- Camera / editing: Review medium-wide scene anchors against tighter inserts and edited impact beats; don't invent one uninterrupted oner from this edited film clip.
+- AI-video takeaway: Use foreground/background layering and one-attacker-at-a-time motion to maintain recognizable character and spatial placement in crowded AI action.
+- Source limitations: MovieGasm is a third-party repost with unverified uploading rights; the user is linked to a reference, not provided a redistributed video.
+- Original English Motion Prompt and detailed provenance: [2026-11-18 annotated batch](runs/2026-11-18.md)
+- Tags: live-action, multi-opponent, threat-handoff, blocking, film-excerpt, 2026-11-18
+
+### Red Sonja (2026) — One-Eyed Monster Attack, Main-Film Clip
+- Watch: https://www.cinematoday.jp/video/VIYVp3SjECoFdE
+- Original / supporting: https://www.cinematoday.jp/news/N0154735
+- Date / type: Official distributor-linked excerpt via Cinema Today, published 2026-05-09 — Fantasy film scene excerpt, heroine confronting giant one-eyed creature
+- Action design: Opponents with sharply different scale; use a readable monster telegraph, human reaction and only one deliberate counteraction in a short segment.
+- Camera / editing: Anchor human and monster in a scale-revealing wide shot before dramatic low angles and selective reaction cuts; edited excerpt, not a verified long take.
+- AI-video takeaway: Large-creature contact test: consistent claw/head dimensions, strike trajectory, environment displacement, and correct human-to-monster scale.
+- Source limitations: Story facts verified by linked film-media source; suggested camera setup and attack sequence are original AI study instructions, not shot-by-shot claims.
+- Original English Motion Prompt and detailed provenance: [2026-11-18 annotated batch](runs/2026-11-18.md)
+- Tags: film, fantasy, monster, scale, telegraph, continuity, 2026-11-18
+
 ## Added 2026-11-17 — 2 source-linked references
 
 ### NIGHT SHIFT — Lorenz Hideyoshi / Action C (complete action short)
