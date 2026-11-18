@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-18 — 10 new source-linked fight / action studies (six categories)
+
+- **martial-arts (2):** Mia Zhuo (GER) — Dakar 2026 Taijishan / Tai Chi Fan; Davit Nazarov vs Alain Dethon — Eurasian Professional Sanda League.
+- **film-tv (2):** The Wrecking Crew (2026) — Jason Momoa vs Yakuza (MovieGasm clip); Red Sonja (2026) — One-Eyed Monster Attack, Main-Film Clip.
+- **games (1):** Once Human — Visional Wheel S5: Dissonant Resonance Official Launch Trailer.
+- **anime (1):** Mob Psycho 100 II — Mob vs Mogami (Crunchyroll FR Official Clip).
+- **stunt-choreography (2):** KICKBOXER: VENGEANCE — Eric Sloane vs Tong Po Pre-Vis (LBP Stunts); GROUP FIGHT PRACTICE — Magic Jacket V3 (LBP Stunts).
+- **ai-action (2):** Woodland Arena Fight — Text-only Seedance / Supercool (MadMax); Kinetic Fight Scene — Kōda / Seedance 2.5 Rooftop Anime Duel.
+
+[Read the complete 2026-11-18 reference batch, direct-watch sources, limitations and 10 independently authored English prompts](runs/2026-11-18.md). Source pages verified; shot-by-shot transcription not claimed.
+
 ## 2026-11-17 — 10 new source-linked fight/action references (six categories)
 
 - **martial-arts (2):** European Kuo Shu Cup 2026 — He Yong Gan Martial Arts competition highlights; Duilian: Shaolin Shi San Quan — He Yong Gan Martial Arts.
