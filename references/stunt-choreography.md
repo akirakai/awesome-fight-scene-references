@@ -1,5 +1,29 @@
 # Stunt & Choreography References
 
+## Added 2026-11-18 — 2 new source-linked references
+
+### KICKBOXER: VENGEANCE — Eric Sloane vs Tong Po Pre-Vis (LBP Stunts)
+- Watch: https://vimeo.com/248389892
+- Original / supporting: https://vimeo.com/248389892
+- Date / type: Stunt previsualization filmed in 2014 at 87eleven; original Vimeo creator page (upload date not independently confirmed) — Creator-published physical stunt previsualization; Larnell Stovall and Emmanuel Manzanares credited
+- Action design: Two-performer fight staging with intentional distances and partner reactions; a clean place to separate choreographed contact from editing.
+- Camera / editing: Emmanuel Manzanares credited as pre-vis camera operator/editor; compare wide action coverage against motivated inserts after each move.
+- AI-video takeaway: Use a pre-vis-first generation loop: generate stable full bodies and obvious reaction timing, and only then introduce stylized camerawork.
+- Source limitations: Use for safe choreography and motion study, not instructions for unsafe real-world stunt performance; creator/video credits directly supported.
+- Original English Motion Prompt and detailed provenance: [2026-11-18 annotated batch](runs/2026-11-18.md)
+- Tags: stunts, previs, LBP, 87eleven, rehearsal, spacing, 2026-11-18
+
+### GROUP FIGHT PRACTICE — Magic Jacket V3 (LBP Stunts)
+- Watch: https://vimeo.com/332629878
+- Original / supporting: https://vimeo.com/332629878
+- Date / type: 2019-04-05 as in creator's video title — Creator-produced comedic multi-person physical fight rehearsal with outtakes
+- Action design: Prop-centered choreography with three performers and planned reaction beats; focus on what the jacket does between performers and why each move follows the last.
+- Camera / editing: Action design, directing, camera operation and editing are all credited to Emmanuel Manzanares; useful for comparing continuous rehearsal with montage/outtakes.
+- AI-video takeaway: Test exactly one persistent wearable jacket as the visual continuity target while three bodies interact in a readable order.
+- Source limitations: Video explicitly includes bloopers; do not interpret different takes as one continuous move chain. Proposed story beats are original.
+- Original English Motion Prompt and detailed provenance: [2026-11-18 annotated batch](runs/2026-11-18.md)
+- Tags: stunt, magic-jacket, three-person, prop, comedy, rehearsal, 2026-11-18
+
 ## Added 2026-11-17 — 2 source-linked references
 
 ### Street Fight Previs — Arnav Banerji (Maya → Unreal Engine)
