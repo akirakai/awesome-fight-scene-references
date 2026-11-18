@@ -1,5 +1,29 @@
 # AI Action References
 
+## Added 2026-11-18 — 2 new source-linked references
+
+### Woodland Arena Fight — Text-only Seedance / Supercool (MadMax)
+- Watch: https://behindthegen.com/w/woodland-arena-fight-from-a-text-only-seedance-prompt-on-supercool
+- Original / supporting: https://behindthegen.com/w/woodland-arena-fight-from-a-text-only-seedance-prompt-on-supercool
+- Date / type: Creator workflow dated 2026-09-20; 30-second AI sequence — AI-generated two-fighter hand-to-hand scene with full creator-published 30-second text-only timed prompt, no reference images
+- Action design: The written reference uses time-blocked lunges, ground grappling, guarded impacts, recoveries and a final lift/slam; these are prompt instructions, not proven perfectly executed frames.
+- Camera / editing: Source prompt requests low tracking, face push-ins, short arcs, Dutch tilts, extreme wides during lifts, strict fixed arena geography.
+- AI-video takeaway: Valuable for a prompt-engineering ablation: isolate only one 4-second grappling/contact unit, then compare text-only versus with a single pose reference; check collision and role continuity.
+- Source limitations: Publisher's detailed source prompt is accessible in search results; the site returned HTTP 502 during one direct-open attempt, so in-browser playback may be intermittent. Original prompt is NOT republished here; ours is independent.
+- Original English Motion Prompt and detailed provenance: [2026-11-18 annotated batch](runs/2026-11-18.md)
+- Tags: ai, Seedance, Supercool, text-to-video, grapple, geography, prompt-timing, 2026-11-18
+
+### Kinetic Fight Scene — Kōda / Seedance 2.5 Rooftop Anime Duel
+- Watch: https://dropday.ai/c/kinetic-fight-scene
+- Original / supporting: https://x.com/aimikoda/status/2112538725288681831
+- Date / type: Creator's X post dated 2026-10-20; reported ~30-second anime clip; model credited as Seedance 2.5 — Creator-attributed AI 2D rooftop action video with three related prompts indexed by Dropday; distinct from Kōda's Oct 18 mid-air fight previously indexed
+- Action design: Two characters named Mina and Rue fight on concrete rooftop; study impact frames, directional smears and coherent character poses between dynamic shots.
+- Camera / editing: Creator page describes spiraling camera motion and multi-shot sakuga style; model/site summary may include AI-inferred details and should not be treated as frame-accurate audit.
+- AI-video takeaway: Make one single-shot 3-second strike baseline before testing one sweeping orbit. Validate rooftop edges, limb silhouettes, character positions and beat transitions.
+- Source limitations: Direct creator X post preserved as provenance but X may require login; playable embed on Dropday may require browser scripts. This Kōda example is not the distinct mid-air clip indexed on 2026-11-12.
+- Original English Motion Prompt and detailed provenance: [2026-11-18 annotated batch](runs/2026-11-18.md)
+- Tags: ai, Seedance-2.5, Koda, anime, sakuga, impact-frame, roof, orbit, 2026-11-18
+
 ## Added 2026-11-17 — 2 source-linked references
 
 ### 30-second mountain-temple katana fight — Shams / Seedance 2.5
