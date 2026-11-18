@@ -1,5 +1,29 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-18 — 2 new source-linked references
+
+### Mia Zhuo (GER) — Dakar 2026 Taijishan / Tai Chi Fan
+- Watch: https://euwushu.tv/videos/mia-zhuo-ger-taijishan-at-dakar-2026-youth-olympics
+- Original / supporting: https://euwushu.tv/news/germanys-mia-zhuo-15-takes-taijiquan-bronze-as-the-only-european-in-a-dakar-2026-wushu-final
+- Date / type: 2026-11-05; 39-second embedded competition excerpt (original footage credited to Olympics) — Real-person taijishan routine; Olympic wushu performance, not contact sparring
+- Action design: Fan opening/closing, arm-to-weapon alignment, weight transfers, torso turn, stable final stance; analyze the exact fan state before and after each change.
+- Camera / editing: Competition full-body framing is the useful baseline; avoid treating any broadcast edit as a continuous turn.
+- AI-video takeaway: High-value rigid/hinged prop continuity benchmark: track the right hand, fan ribs, shoulder axis and grounded support foot across a 4-second phrase.
+- Source limitations: Routine and score independently described by the hosting page; exact individual moves, hand choice and 8-second pattern in our prompt are newly designed, not a transcription.
+- Original English Motion Prompt and detailed provenance: [2026-11-18 annotated batch](runs/2026-11-18.md)
+- Tags: taijishan, fan, Olympics, props, full-body, stance, 2026-11-18
+
+### Davit Nazarov vs Alain Dethon — Eurasian Professional Sanda League
+- Watch: https://euwushu.tv/videos/davit-nazarov-vs-alain-dethon
+- Original / supporting: https://euwushu.tv/videos
+- Date / type: Bout 2026-02-14, video published 2026-02-16; 6:00 — Live competitive sanda bout; match footage
+- Action design: Authentic distance, checking guards, shifting weight and balanced retreats; identify only genuinely continuous attacks in the bout when making frame annotations.
+- Camera / editing: Stable competition/broadcast perspective is a reference for keeping two bodies and their strike distance visible; refrain from connecting replay cuts as one action.
+- AI-video takeaway: Use as ground truth for guard restoration and the time gap between attacks, not as a flashy every-frame collision montage.
+- Source limitations: No specific winning move or KO asserted. Described motions are a suggested reproducible sparring test, not verified timecoded footage.
+- Original English Motion Prompt and detailed provenance: [2026-11-18 annotated batch](runs/2026-11-18.md)
+- Tags: sanda, ring, real-fight, distance, guard-reset, 2026-11-18
+
 ## Added 2026-11-17 — 2 source-linked references
 
 ### European Kuo Shu Cup 2026 — He Yong Gan Martial Arts competition highlights
