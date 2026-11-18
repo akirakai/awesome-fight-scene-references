@@ -54,7 +54,21 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-17
+## Latest additions — 2026-11-18
+
+**10 newly catalogued fight/motion references across six categories:** 
+- **martial-arts (2):** Mia Zhuo (GER) — Dakar 2026 Taijishan / Tai Chi Fan; Davit Nazarov vs Alain Dethon — Eurasian Professional Sanda League.
+- **film-tv (2):** The Wrecking Crew (2026) — Jason Momoa vs Yakuza (MovieGasm clip); Red Sonja (2026) — One-Eyed Monster Attack, Main-Film Clip.
+- **games (1):** Once Human — Visional Wheel S5: Dissonant Resonance Official Launch Trailer.
+- **anime (1):** Mob Psycho 100 II — Mob vs Mogami (Crunchyroll FR Official Clip).
+- **stunt-choreography (2):** KICKBOXER: VENGEANCE — Eric Sloane vs Tong Po Pre-Vis (LBP Stunts); GROUP FIGHT PRACTICE — Magic Jacket V3 (LBP Stunts).
+- **ai-action (2):** Woodland Arena Fight — Text-only Seedance / Supercool (MadMax); Kinetic Fight Scene — Kōda / Seedance 2.5 Rooftop Anime Duel.
+
+The batch preserves direct watch links and creator/source attribution, distinguishes edited trailers from performance reels and published AI workflow prompts, and includes 10 independently authored English Motion Prompts. Sources were compared against README, INDEX and category files to reduce duplicates.
+
+[Full annotated 2026-11-18 batch](references/runs/2026-11-18.md) · [dated six-category index](references/INDEX.md)
+
+## Earlier additions — 2026-11-17
 
 **10 new action/motion studies spanning all six categories:** European Kuo Shu 2026 and traditional Shaolin duilian (martial arts); *NIGHT SHIFT* and *Mind, Body & Soul* (independent film); *Lords of the Fallen II* Steel & Sorcery combat trailer (games); official Marvel *X-Men '97* Jean/Cyclops vs Cable clip (animation); Arnav Banerji's Unreal street-fight previs and LBP Stunts' noir choreography test; and two original AI motion workflows (Shams' Seedance 2.5 mountain-temple katana fight; Jo Aiba's Seedance-vs-Kling warehouse storyboard test). Includes 10 independently drafted English motion prompts, source links, camera notes and limitations.
 
