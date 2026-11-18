@@ -1,5 +1,18 @@
 # Game Action References
 
+## Added 2026-11-18 — 1 new source-linked reference
+
+### Once Human — Visional Wheel S5: Dissonant Resonance Official Launch Trailer
+- Watch: https://youtu.be/YHtEri8vJmI
+- Original / supporting: https://blog.playstation.com/2026/11/12/once-human-season-5-gameplay-showcases-co-op-colossus-boss-battle-live-november-18/
+- Date / type: Official video linked in 2026-11-17 press release; season scheduled for 2026-11-18 Pacific Time — Official edited gameplay/promo trailer; 4-player musical Colossus boss system described by developers
+- Action design: Cooperative squad positioning, giant resonating pipe-organ threat, audio-cued arena states, prioritizing glowing objectives between monster attacks.
+- Camera / editing: Third-person combat geometry with a giant overhead silhouette; edited trailer cuts are distinct gameplay moments, not an unbroken sequence.
+- AI-video takeaway: Create a 4-person boss-fight staging sheet: stable player roles, clear one-at-a-time objective actions, visible arena pulse before the players react.
+- Source limitations: Verified trailer and developer descriptions separately; the exact sequence of moves in our prompt is newly proposed, not claimed to appear in the trailer.
+- Original English Motion Prompt and detailed provenance: [2026-11-18 annotated batch](runs/2026-11-18.md)
+- Tags: games, co-op, boss, scale, audio-cues, environment, 2026-11-18
+
 ## Added 2026-11-17 — 1 source-linked references
 
 ### Lords of the Fallen II — 'Steel & Sorcery' official combat gameplay trailer
