@@ -1,5 +1,18 @@
 # Anime Action References
 
+## Added 2026-11-18 — 1 new source-linked reference
+
+### Mob Psycho 100 II — Mob vs Mogami (Crunchyroll FR Official Clip)
+- Watch: https://www.youtube.com/watch?v=a0igSWXteec
+- Original / supporting: https://www.crunchyroll.com/id/news/features/2022/12/29/feature-the-10-best-animation-moments-of-mob-psycho-100
+- Date / type: Official Crunchyroll FR YouTube scene posted 2019-02-13; original season 2 episode 5 (2019) — Official anime psychic fight sequence; distinct from Ritsu vs Shimazaki and Reigen 1000% entries in this repository
+- Action design: Psychic conflict is conveyed through posture, environmental deformation and escalating energy impacts rather than ordinary hand-to-hand contact.
+- Camera / editing: Strong silhouette and shot-scale contrast; abstract animation or aggressive effects may follow a clearly established emotional/physical position.
+- AI-video takeaway: For AI animation, anchor the character in wide geometry first, then use one energy strike and one impact frame, preserving light and force direction.
+- Source limitations: The branded clip and Crunchyroll animation analysis are sourced; this original psychic motion prompt is not the exact choreography of the video.
+- Original English Motion Prompt and detailed provenance: [2026-11-18 annotated batch](runs/2026-11-18.md)
+- Tags: anime, mob-psycho, sakuga, psychic, impact-frames, energy-direction, 2026-11-18
+
 ## Added 2026-11-17 — 1 source-linked references
 
 ### X-Men '97 — Jean Grey / Cyclops vs Cable (official Marvel fight clip)
