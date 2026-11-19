@@ -1,5 +1,29 @@
 # Stunt & Choreography References
 
+## Added 2026-11-19 — 2 source-linked reference(s)
+
+### Above the Shadows — Flashback Fight Pre-Vis (Alternate UFC Highlight Edit)
+- **Watch:** https://vimeo.com/509383234
+- **Original / corroborating source:** https://vimeo.com/509383234
+- **Date and media:** Creator-published classic previsualization; film's action-previs production, exact upload date unverified; LBP Stunts Chicago / Emmanuel Manzanares physical pre-vis; edited like UFC highlight recap
+- **Action design:** Two performers stage a planned first loss for the protagonist against his new rival, allowing the scene to communicate the turning point rather than merely trade technically impressive attacks.
+- **Camera / edit:** Creator explicitly says this alternate is deliberately shot/cut as a UFC highlight reel; compare brief full-body anchors and editorial impact fragments against plain rehearsal views.
+- **AI-video takeaway:** Create both a locked wide previs and a sparingly edited recap from the same fictional choreography to measure whether editing hides spatial mistakes.
+- **Source limitations:** Filmed staged pre-vis, not an actual UFC contest or the final film footage; source credits Alex Hashioka, Dennis Ruel and Manzanares.
+- **Tags:** stunt,previs,above-the-shadows,lbp,highlight-edit,story-beat
+- **Full analysis + independent English prompt:** [2026-11-19 reference batch](runs/2026-11-19.md)
+
+### Melissa Lischer — Stunt Reel: Action Sequence
+- **Watch:** https://vimeo.com/1107046030
+- **Original / corroborating source:** https://vimeo.com/1107046030
+- **Date and media:** Creator Vimeo showcase (video page indexed in 2025; exact publish date unverified); Performer-published action stunt reel; do not mistake reel cuts for one take
+- **Action design:** The creator describes close-combat choreography, dynamic kicks and reversal beats. Use isolated individual movement patterns, especially the transition from planted stance to kick and back to guard.
+- **Camera / edit:** Reel/montage format supports comparing dramatic cut choices, but movement continuity should be rebuilt from a single stable view for AI tests.
+- **AI-video takeaway:** One kick and one recovery is a better controllable AI reference unit than an entire edited stunt reel. Preserve support-leg mechanics.
+- **Source limitations:** Title and creator description verified; frame-specific techniques and filming gear not asserted.
+- **Tags:** stunt,reel,melissa-lischer,kicks,reverse,full-body
+- **Full analysis + independent English prompt:** [2026-11-19 reference batch](runs/2026-11-19.md)
+
 ## Added 2026-11-18 — 2 new source-linked references
 
 ### KICKBOXER: VENGEANCE — Eric Sloane vs Tong Po Pre-Vis (LBP Stunts)

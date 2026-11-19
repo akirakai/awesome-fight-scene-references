@@ -1,5 +1,29 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-19 — 2 source-linked reference(s)
+
+### Dakar 2026 — Justin Benedik Straight Sword (USAWKF)
+- **Watch:** https://euwushu.tv/videos/dakar-2026-wushu-showcase-justin-benedik-straight-sword
+- **Original / corroborating source:** https://euwushu.tv/videos/dakar-2026-wushu-showcase-justin-benedik-straight-sword
+- **Date and media:** 2026-11-05 (31-second demonstration); Organiser-credited wushu jianshu demonstration; performance, not combat
+- **Action design:** Judge Justin Benedik demonstrates the straight sword (jian). Study single-hand grip, sword-tip direction, torso-to-foot alignment, weight transfer and a visible closing pose. This is solo weapons work, not two-person contact.
+- **Camera / edit:** A short competition/showcase video rather than a continuous combat scene; study complete body silhouette before inventing alternate camera views.
+- **AI-video takeaway:** For image-to-video, lock the sword to the correct hand, preserve blade length and orientation through one turn, and keep the planted foot visible.
+- **Source limitations:** The publisher/USAWKF credit and 31s duration are verified; the proposed micro-movement is a study exercise, not an exact frame transcription.
+- **Tags:** wushu,jianshu,straight-sword,full-body,prop-continuity
+- **Full analysis + independent English prompt:** [2026-11-19 reference batch](runs/2026-11-19.md)
+
+### ONE SAMURAI 5 — Ryujin Nasukawa vs Raichi Nagai (36-second KO highlight)
+- **Watch:** https://www.instagram.com/p/Df4ePIAu2-P/
+- **Original / corroborating source:** https://www.onefc.com/kickboxing/one-samurai-5-kickboxing-and-muay-thai-results-ryujin-kumura-asahi-emerge-victorious-in-japan/
+- **Date and media:** 2026-11-18 (fight and official highlight); Actual strawweight kickboxing bout; ONE official Instagram highlight (possible login/georestriction)
+- **Action design:** Official result account describes a quick jab-and-body-shot pressure sequence, a body-to-head transition and opponent retreat before the finish at 0:36 of round one. Study the interval between clean entry, opponent reaction, chase and stoppage.
+- **Camera / edit:** Sports coverage keeps the fighters' ring orientation legible; edit a reference only around an actual exchange rather than treating the entire 36-second bout as one choreography beat.
+- **AI-video takeaway:** Use realistic hand-retraction and guard recovery between the opening jab and the next committed attack; map the defender's retreat to the contact.
+- **Source limitations:** Result and finish sequence sourced to ONE; Instagram watch URL is ONE's linked 'View Highlights' post. Direct playback may require Instagram access; no frame-accurate timestamp claim.
+- **Tags:** kickboxing,one-championship,2026,real-fight,body-shot,contact-timing
+- **Full analysis + independent English prompt:** [2026-11-19 reference batch](runs/2026-11-19.md)
+
 ## Added 2026-11-18 — 2 new source-linked references
 
 ### Mia Zhuo (GER) — Dakar 2026 Taijishan / Tai Chi Fan

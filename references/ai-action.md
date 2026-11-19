@@ -1,5 +1,29 @@
 # AI Action References
 
+## Added 2026-11-19 — 2 source-linked reference(s)
+
+### Elemental Battle — Kick Nost (Seedance 2.5 + GPT Image 2.5 Flare)
+- **Watch:** https://dropday.ai/c/elemental-battle
+- **Original / corroborating source:** https://dropday.ai/c/elemental-battle
+- **Date and media:** 2026-09-18 (creator post reported by Dropday); Creator-attributed AI-generated martial-arts fantasy demo; playable indexed embed may need scripts
+- **Action design:** The shared piece depicts a choreographed duel with fire and ice manifestations. The valuable test is to make each elemental visual effect correspond to a single named fighter and a cause-and-effect exchange.
+- **Camera / edit:** A cinematic demo with dynamic movement and compositing; start by checking character positions in a wide shot, then isolate one accent or orbit rather than overloading the prompt.
+- **AI-video takeaway:** Lock fire to fighter A and ice to fighter B; maintain lighting and direction across the moment of contact, and use one small energy reaction.
+- **Source limitations:** Model/version and high-level content attributed by Dropday to creator; site warns some descriptions/tags may be inferred. Watch embed access not independently guaranteed.
+- **Tags:** ai,seedance-2.5,gpt-image,elemental,fire,ice,character-role
+- **Full analysis + independent English prompt:** [2026-11-19 reference batch](runs/2026-11-19.md)
+
+### Mage vs Swordswoman — VoxelPlot / Víctor Sánchez (Wan 3.0, Seedance 2.5, Hailuo H3)
+- **Watch:** https://x.com/voxelplot/status/2100159928233009478
+- **Original / corroborating source:** https://www.whatpeoplemade.com/i/a-mage-versus-swordswoman-anime-fight-cut-from-three-vid-009478.html
+- **Date and media:** 2026-09-16 (creator X post / independent index); Creator-described multi-model original fantasy anime duel; X access may be login restricted
+- **Action design:** A mage-versus-swordswoman duel assembled through different video models with Vid2Vid / Omni Reference; prioritize character identity and timing continuity between a spell cast and a blade defense.
+- **Camera / edit:** The creator attributes different strengths to models (timing/layout versus on-model characters), a subjective production observation rather than a standardized benchmark.
+- **AI-video takeaway:** Maintain a scene bible of side, wardrobe, sword-hand, spell ownership and camera axis across separate generated shots; compare model roles within the same exchange.
+- **Source limitations:** Cross-model workflow and attribution sourced; full video playback on X not independently frame-audited and quality claims are creator opinion.
+- **Tags:** ai,wan-3.0,seedance-2.5,hailuo-h3,multimodel,anime,continuity
+- **Full analysis + independent English prompt:** [2026-11-19 reference batch](runs/2026-11-19.md)
+
 ## Added 2026-11-18 — 2 new source-linked references
 
 ### Woodland Arena Fight — Text-only Seedance / Supercool (MadMax)

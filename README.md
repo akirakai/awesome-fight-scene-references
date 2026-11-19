@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-18
+## Latest additions — 2026-11-19
+
+**10 newly curated links across all six categories** (2 martial-arts, 2 film-TV, 1 games, 1 anime, 2 stunt-choreography, 2 AI-action). Highlights include ONE SAMURAI 5 Ryujin vs Nagai's 36-second KO, *Furious* official action teaser, *Crimson Desert* 4K boss gameplay, and two distinct multi-model AI combat studies. Each entry preserves an original source/watch link, action and camera notes, a provenance caveat, and one independently authored English Motion Prompt.
+
+[Read the complete 2026-11-19 reference batch](references/runs/2026-11-19.md) · [six-category date index](references/INDEX.md).
+
+## Earlier additions — 2026-11-18
 
 **10 newly catalogued fight/motion references across six categories:** 
 - **martial-arts (2):** Mia Zhuo (GER) — Dakar 2026 Taijishan / Tai Chi Fan; Davit Nazarov vs Alain Dethon — Eurasian Professional Sanda League.

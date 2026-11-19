@@ -1,5 +1,29 @@
 # Film / TV Action References
 
+## Added 2026-11-19 — 2 source-linked reference(s)
+
+### Furious / フュリアス 怒りの頂上決戦 — Japanese Teaser (Kenji Tanigaki / Kensuke Sonomura)
+- **Watch:** https://www.cinematoday.jp/video/VIY8169VnN9r8o
+- **Original / corroborating source:** https://www.cinematoday.jp/video/VIY8169VnN9r8o
+- **Date and media:** 2026-09-17 teaser; Japan theatrical release announced for 2027-01-29; Edited official film teaser; not a complete fight or unbroken shot
+- **Action design:** International action ensemble includes Xie Miao, Joe Taslim, Yayan Ruhian and others; the character setup spans hand-to-hand fighters, a kick-focused antagonist and an archer. Use differences in combat range and protagonist goals rather than mixing every performer into one shot.
+- **Camera / edit:** Teaser cuts between separate setups; good inspiration for contrast between an orientation wide, a close-distance action insert and a motivated reaction, not evidence of one-take continuity.
+- **AI-video takeaway:** Build an original 1-vs-2 threat hierarchy and choose just one contact-and-reaction beat in a six-second segment.
+- **Source limitations:** Story, creators and cast come from Cinema Today; exact beat order is original advice inferred from genre, not verified shot transcription.
+- **Tags:** film,teaser,hong-kong-action,kenji-tanigaki,kensuke-sonomura,range-contrast
+- **Full analysis + independent English prompt:** [2026-11-19 reference batch](runs/2026-11-19.md)
+
+### From the World of John Wick: Ballerina — Practical Flamethrower Battle Making-of
+- **Watch:** https://www.cinematoday.jp/video/VIYRj6EAj2x4Ug
+- **Original / corroborating source:** https://www.cinematoday.jp/video/VIYRj6EAj2x4Ug
+- **Date and media:** 2025-08-26 (Japanese making-of featurette); Distributor-related film behind-the-scenes excerpt, not full continuous finished fight
+- **Action design:** A high-intensity fire-based confrontation staged for the action film. The valuable lesson is the division of performer movement, visible environmental obstacles and spectacular screen effects; do not equate making-of footage with the finished screen geography.
+- **Camera / edit:** Compare production coverage and finished cinematic framing where shown; avoid claiming an exact single take or precise technical method from the summary.
+- **AI-video takeaway:** For AI-only VFX, establish two actors' silhouettes and an unambiguous direction for one fictional energy/flame burst, then add lighting and particle response. Not a real-world pyrotechnics how-to.
+- **Source limitations:** Source calls the scene practical rather than wholly CG; no claim about unsafe details of fire equipment or shot-by-shot methods.
+- **Tags:** film,behind-the-scenes,ballerina,fire-vfx,blocking,screen-safety
+- **Full analysis + independent English prompt:** [2026-11-19 reference batch](runs/2026-11-19.md)
+
 ## Added 2026-11-18 — 2 new source-linked references
 
 ### The Wrecking Crew (2026) — Jason Momoa vs Yakuza (MovieGasm clip)

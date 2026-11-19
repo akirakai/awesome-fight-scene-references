@@ -1,5 +1,18 @@
 # Game Action References
 
+## Added 2026-11-19 — 1 source-linked reference(s)
+
+### Crimson Desert — The Crimson Nightmare Boss Fight (4K gameplay capture)
+- **Watch:** https://www.youtube.com/watch?v=3BIwrxEY--o
+- **Original / corroborating source:** https://www.destructoid.com/how-to-beat-the-crimson-nightmare-in-crimson-desert/
+- **Date and media:** 2026-03-23 (Panzarini Gaming upload; game 2026-03-19); Player-recorded 4K boss gameplay, not publisher-originated trailer
+- **Action design:** The Crimson Nightmare alternates a threatening form and temporary knockdown/vulnerability, inviting a rhythm of telegraph, controlled response, opening and reset; source gameplay explains a specific Focus/Unleash counter mechanic.
+- **Camera / edit:** Third-person game camera allows relative scale, attack range and monster-to-player placement to remain readable without cinematic continuity tricks.
+- **AI-video takeaway:** Describe only one monster telegraph and one player avoidance before the monster becomes briefly vulnerable; keep the smoke body proportional through state change.
+- **Source limitations:** Boss mechanics corroborated by game guide; video is third-party capture. Exact timecodes and specific observed angles are not independently audited.
+- **Tags:** gameplay,boss,crimson-desert,smoke-monster,telegraph,third-person
+- **Full analysis + independent English prompt:** [2026-11-19 reference batch](runs/2026-11-19.md)
+
 ## Added 2026-11-18 — 1 new source-linked reference
 
 ### Once Human — Visional Wheel S5: Dissonant Resonance Official Launch Trailer

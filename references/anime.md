@@ -1,5 +1,18 @@
 # Anime Action References
 
+## Added 2026-11-19 — 1 source-linked reference(s)
+
+### Demon Slayer: Infinity Castle I — Zenitsu vs Kaigaku (Crunchyroll official clip)
+- **Watch:** https://www.youtube.com/watch?v=RGr9-6aqGec
+- **Original / corroborating source:** https://www.youtube.com/watch?v=RGr9-6aqGec
+- **Date and media:** 2026-08-19 (official Crunchyroll upload); Official anime movie scene excerpt, fight between Zenitsu and Kaigaku
+- **Action design:** Two sword users with an emotional rivalry: pause and posture contrast, acceleration across an established axis and a readable blade approach are the key animation-study variables.
+- **Camera / edit:** In AI recreations, let a strong profile silhouette and a brief accent frame communicate velocity; do not turn each lightning effect into an unexplained teleport or extra blade.
+- **AI-video takeaway:** Use a single directional dash and one defended blade path, with consistent identity and weapon ownership; invent original characters rather than duplicating specific IP designs.
+- **Source limitations:** Clip title and rival pairing verified from publisher metadata; suggested micro-steps are a new prompt pattern, not exact source choreography.
+- **Tags:** anime,demon-slayer,zenitsu,kaigaku,sword,lightning,impact-frame
+- **Full analysis + independent English prompt:** [2026-11-19 reference batch](runs/2026-11-19.md)
+
 ## Added 2026-11-18 — 1 new source-linked reference
 
 ### Mob Psycho 100 II — Mob vs Mogami (Crunchyroll FR Official Clip)

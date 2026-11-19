@@ -1,5 +1,17 @@
 # References Index
 
+## 2026-11-19 — 10 new curated fight/action references (six categories)
+
+- **martial-arts (2):** Dakar 2026 — Justin Benedik Straight Sword (USAWKF); ONE SAMURAI 5 — Ryujin Nasukawa vs Raichi Nagai (36-second KO highlight).
+- **film-tv (2):** Furious / フュリアス 怒りの頂上決戦 — Japanese Teaser (Kenji Tanigaki / Kensuke Sonomura); From the World of John Wick: Ballerina — Practical Flamethrower Battle Making-of.
+- **games (1):** Crimson Desert — The Crimson Nightmare Boss Fight (4K gameplay capture).
+- **anime (1):** Demon Slayer: Infinity Castle I — Zenitsu vs Kaigaku (Crunchyroll official clip).
+- **stunt-choreography (2):** Above the Shadows — Flashback Fight Pre-Vis (Alternate UFC Highlight Edit); Melissa Lischer — Stunt Reel: Action Sequence.
+- **ai-action (2):** Elemental Battle — Kick Nost (Seedance 2.5 + GPT Image 2.5 Flare); Mage vs Swordswoman — VoxelPlot / Víctor Sánchez (Wan 3.0, Seedance 2.5, Hailuo H3).
+
+[Full 2026-11-19 breakdown, original watch/source URLs, camera/choreography analysis and 10 new English prompts](runs/2026-11-19.md). Direct playback can vary by region/login; no full frame audit. Duplicate checks covered README, INDEX and six category files.
+
+
 ## 2026-11-18 — 10 new source-linked fight / action studies (six categories)
 
 - **martial-arts (2):** Mia Zhuo (GER) — Dakar 2026 Taijishan / Tai Chi Fan; Davit Nazarov vs Alain Dethon — Eurasian Professional Sanda League.
