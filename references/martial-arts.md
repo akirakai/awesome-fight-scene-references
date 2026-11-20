@@ -1,5 +1,30 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-20 — 2 source-linked references
+
+### Dakar 2026 — Gao Jiamin & Gao Haonan Taijiquan Showcase
+- **Watch:** https://euwushu.tv/videos/dakar-2026-wushu-showcase-gao-jiamin-and-gao-haonan-taijiquan
+- **Original / support:** https://euwushu.tv/videos/dakar-2026-wushu-showcase-gao-jiamin-and-gao-haonan-taijiquan
+- **Type / date:** 2026-11-05; 1:05; USAWKF-credited public wushu demonstration
+- **Action:** Two named masters give a taijiquan demonstration, useful for mapping controlled weight transfer, torso orientation and relaxed-to-firm poses. The source does not establish that every move is synchronized or that physical contact occurs.
+- **Camera / editing:** Public event demonstration rather than edited movie fight; inspect a readable full-body camera before inventing close-ups.
+- **AI takeaway:** Test a short coordinated two-person non-contact form: preserve identity, left-right positions, foot grounding and a shared closing pose.
+- **Limitations:** Title, organisers and duration checked; detailed sequence and camera path not frame-audited.
+- **Full independent English Prompt:** [2026-11-20 batch](runs/2026-11-20.md)
+- **Tags:** taijiquan,duo,real-wushu,stance,body-continuity
+
+### Dakar 2026 — Chu Yu-En Silver-Medal Tai Chi Fan Routine
+- **Watch:** https://euwushu.tv/videos/chu-yu-en-tpe-olympic-silver-tai-chi-fan-at-dakar-2026
+- **Original / support:** https://euwushu.tv/videos/chu-yu-en-tpe-olympic-silver-tai-chi-fan-at-dakar-2026
+- **Type / date:** 2026-11-06; 0:43; European Wushu Television clip from Olympics footage
+- **Action:** A competition taijishan/fan routine (reported 9.166 points), valuable for fan opening-state, wrist angle, turn balance and final stance. Solo weapon/form performance, not an opponent fight.
+- **Camera / editing:** Short event clip; full-body readability and stable fan silhouette are more useful than presuming a specific cinematic lens or cut.
+- **AI takeaway:** Keep fan ribs, grip hand, open/closed state, and support foot consistent through a single turn.
+- **Limitations:** Publisher credits Olympics as footage origin; no shot-by-shot verification.
+- **Full independent English Prompt:** [2026-11-20 batch](runs/2026-11-20.md)
+- **Tags:** taiji-fan,taijishan,real-wushu,prop-continuity,2026
+
+
 ## Added 2026-11-19 — 2 source-linked reference(s)
 
 ### Dakar 2026 — Justin Benedik Straight Sword (USAWKF)
