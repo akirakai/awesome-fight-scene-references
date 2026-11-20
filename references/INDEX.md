@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-20 — 10 new watch/source-linked fight and action studies (six categories)
+
+- **martial-arts (2):** Dakar 2026 — Gao Jiamin & Gao Haonan Taijiquan Showcase; Dakar 2026 — Chu Yu-En Silver-Medal Tai Chi Fan Routine.
+- **film-tv (2):** Furious (2026) — Pak Lung / Joey Iwanaga High-Kick Character PV; Sons of the Neon Night / 風林火山 — Japanese Official Crime-Action Trailer.
+- **games (1):** Gladio Mori — Physics-Based Arena Fighting Release-Date Trailer.
+- **anime (1):** Black Clover — Yami vs Licht (Crunchyroll Official Clip).
+- **stunt-choreography (2):** BEATDOWN BIBIMBAP — Brendon Huor & Nate Hitpas (LBP Stunts); Whirlwind Action — Kickboxing Girl vs Guy (24p Classic Compilation).
+- **ai-action (2):** MayorKingAI — Ali–Tyson Styled 30-Second Seedance 2.5 Boxing Workflow; Chumbo / Contanimation — 13-Shot Fight Repair in Seedance 2.5.
+
+[Full 2026-11-20 action/camera analysis, source URLs and ten independently written English motion prompts](runs/2026-11-20.md). Titles and video identifiers checked against category files and dated index; historical runs not exhaustively compared. Film trailers, animation, event demos, stunt shorts and AI process films are labelled; no full frame audit.
+
 ## 2026-11-19 — 10 new curated fight/action references (six categories)
 
 - **martial-arts (2):** Dakar 2026 — Justin Benedik Straight Sword (USAWKF); ONE SAMURAI 5 — Ryujin Nasukawa vs Raichi Nagai (36-second KO highlight).
