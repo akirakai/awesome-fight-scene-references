@@ -1,5 +1,19 @@
 # Game Action References
 
+## Added 2026-11-20 — 1 source-linked references
+
+### Gladio Mori — Physics-Based Arena Fighting Release-Date Trailer
+- **Watch:** https://www.youtube.com/watch?v=XrIezpKW2Tg
+- **Original / support:** https://www.gematsu.com/2026/08/physics-based-fighting-game-gladio-mori-launches-september-16-for-ps5-xbox-series-and-pc
+- **Type / date:** 2026-08-21 publisher announcement/trailer; September 16, 2026 release date
+- **Action:** Physics-driven arena fighting game with custom move editor and readable weapon/armour interaction. Useful for testing swing anticipation, inertia and distance, not for copying graphic injury mechanics.
+- **Camera / editing:** Edited gameplay/promo trailer rather than one unbroken duel; game camera helps define spacing before effects.
+- **AI takeaway:** Use safe practice weapons and a simple parry-recover beat, keeping weapon in one hand and the opponent at a credible distance.
+- **Limitations:** Gameplay-system claims checked in publisher summary; exact trailer cuts not independently frame-audited.
+- **Full independent English Prompt:** [2026-11-20 batch](runs/2026-11-20.md)
+- **Tags:** games,physics,gladiator,weapon,custom-moves
+
+
 ## Added 2026-11-19 — 1 source-linked reference(s)
 
 ### Crimson Desert — The Crimson Nightmare Boss Fight (4K gameplay capture)
