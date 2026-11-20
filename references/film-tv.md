@@ -1,5 +1,30 @@
 # Film / TV Action References
 
+## Added 2026-11-20 — 2 source-linked references
+
+### Furious (2026) — Pak Lung / Joey Iwanaga High-Kick Character PV
+- **Watch:** https://www.cinematoday.jp/video/VIYL_Z-ZQ-5Rb8
+- **Original / support:** https://www.cinematoday.jp/news/N0158061
+- **Type / date:** 2026-11-19; Cinema Today distributor-related character PV; different video from the 2026-09-17 teaser catalogued 2026-11-19
+- **Action:** Character-focused promotional clip highlights Joey Iwanaga's antagonist Pak Lung and an exceptionally high / near-vertical kick. Use the shape of the chamber, extension, and return-to-base as an isolated design problem rather than claiming the whole fight is continuous.
+- **Camera / editing:** Character PV is edited marketing footage; treat each kick view as a separate shot, not a verified uninterrupted exchange.
+- **AI takeaway:** A short high kick should have a visible support foot, committed hip rotation and a clean recovery. Model test should not require an actual strike.
+- **Limitations:** Different underlying video URL and character-specific emphasis from the earlier generic teaser; exact kick timing and camera cuts were not frame-audited.
+- **Full independent English Prompt:** [2026-11-20 batch](runs/2026-11-20.md)
+- **Tags:** film,2026,high-kick,character-pv,kenji-tanigaki
+
+### Sons of the Neon Night / 風林火山 — Japanese Official Crime-Action Trailer
+- **Watch:** https://www.youtube.com/watch?v=X2AoLQpackg
+- **Original / support:** https://towapictures.co.jp/furinkazan-movie/news/
+- **Type / date:** 2026-10-08 Japanese trailer; 2026-12-11 Japan release planned; Towa Pictures official site
+- **Action:** Hong Kong snowbound crime-thriller trailer depicts competing groups, armed confrontations and a large-scale urban conflict. Study team orientation and the threat geography instead of attributing unverified precise hand-to-hand moves.
+- **Camera / editing:** A deliberately edited noir trailer, strong for chilly high-contrast urban establishing shots followed by short character-reaction inserts; not one take.
+- **AI takeaway:** An original non-graphic confrontation can use one fixed street corner, single threat direction and two reaction cuts while preserving snow, sightlines and characters' sides.
+- **Limitations:** The trailer is official and direct video embedded from publisher; its beat structure here is an original adaptation, not a frame transcription.
+- **Full independent English Prompt:** [2026-11-20 batch](runs/2026-11-20.md)
+- **Tags:** film,hong-kong,noir,snow,urban-action,edited-trailer
+
+
 ## Added 2026-11-19 — 2 source-linked reference(s)
 
 ### Furious / フュリアス 怒りの頂上決戦 — Japanese Teaser (Kenji Tanigaki / Kensuke Sonomura)
