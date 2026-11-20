@@ -1,5 +1,19 @@
 # Anime Action References
 
+## Added 2026-11-20 — 1 source-linked references
+
+### Black Clover — Yami vs Licht (Crunchyroll Official Clip)
+- **Watch:** https://www.youtube.com/watch?v=T4xfxNUOqC0
+- **Original / support:** https://www.youtube.com/watch?v=T4xfxNUOqC0
+- **Type / date:** 2018-06-03 official Crunchyroll clip; classic animation reference
+- **Action:** Darkness-infused sword defence against fast light-spell projectiles; clear visual contrast between two combat abilities. Core technique is a single directional projectile followed by a sword parry.
+- **Camera / editing:** Animated cut/energy effects serve fast-vs-grounded rhythm contrast; precise shot count not verified.
+- **AI takeaway:** Lock spell ownership and projectile direction; show an anticipation pose, one parry, then a stable defensive recovery rather than constant screen-filling flares.
+- **Limitations:** Official uploader and scene summary verified; no timecode or frame-accurate cut breakdown claimed.
+- **Full independent English Prompt:** [2026-11-20 batch](runs/2026-11-20.md)
+- **Tags:** anime,black-clover,sword,magic,light-vs-dark,parry
+
+
 ## Added 2026-11-19 — 1 source-linked reference(s)
 
 ### Demon Slayer: Infinity Castle I — Zenitsu vs Kaigaku (Crunchyroll official clip)
