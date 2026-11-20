@@ -1,5 +1,30 @@
 # AI Action References
 
+## Added 2026-11-20 — 2 source-linked references
+
+### MayorKingAI — Ali–Tyson Styled 30-Second Seedance 2.5 Boxing Workflow
+- **Watch:** https://x.com/MayorKingAI/status/2102098616039158015
+- **Original / support:** https://www.ai-primer.com/creative/stories/ali-tyson-animation-workflow
+- **Type / date:** 2026-09-22 workflow report; creator X original clip and public prompt thread
+- **Action:** Creator's stylized animation uses five named image references, including separate robe/fight states for two boxers and a fixed arena, to stage entrances, rope-side exchanges and a knockdown followed by continuation.
+- **Camera / editing:** Multi-beat animated boxing narrative; planned reference images and shot-state transitions are the main lesson, rather than a single uninterrupted punch.
+- **AI takeaway:** Build fighter and arena reference sheets separately, designate explicit costume-state windows, and use last-frame continuation rather than resetting a new shot. Use fictional characters rather than real likenesses.
+- **Limitations:** Original X playback may require login; workflow and prompts documented by linked editorial report, not independently frame-audited.
+- **Full independent English Prompt:** [2026-11-20 batch](runs/2026-11-20.md)
+- **Tags:** ai,seedance-2.5,boxing,character-sheet,state-window,extension
+
+### Chumbo / Contanimation — 13-Shot Fight Repair in Seedance 2.5
+- **Watch:** https://www.youtube.com/watch?v=PCi7AuMpAw8
+- **Original / support:** https://www.ai-primer.com/creative/stories/chumbo-fight-scene-repair
+- **Type / date:** 2026-11-15 workflow analysis; full ~13-minute film, which contains a fight segment
+- **Action:** The team reportedly planned 13 short fight shots within one 30-second generation and repaired hand/bottle placement by specifying the correct hand, palm angle, grip and motion direction. Final editorial combined shots from more than 25 attempts.
+- **Camera / editing:** Mostly overhead action plan and frame-relative left/right directives create a concrete spatial constraint; full 13-minute film is not exclusively a fight.
+- **AI takeaway:** For AI action, write hand/object contact as explicit state constraints and generate multiple variations before selecting consistent edits, not only broad adjectives like 'dynamic'.
+- **Limitations:** Creative process is sourced to Magnific/AI Primer, not an independent claim of a flawless model result; watch video is the creator-linked full film.
+- **Full independent English Prompt:** [2026-11-20 batch](runs/2026-11-20.md)
+- **Tags:** ai,seedance-2.5,hand-contact,prop-continuity,shot-planning,2026
+
+
 ## Added 2026-11-19 — 2 source-linked reference(s)
 
 ### Elemental Battle — Kick Nost (Seedance 2.5 + GPT Image 2.5 Flare)
