@@ -1,5 +1,30 @@
 # Stunt & Choreography References
 
+## Added 2026-11-20 — 2 source-linked references
+
+### BEATDOWN BIBIMBAP — Brendon Huor & Nate Hitpas (LBP Stunts)
+- **Watch:** https://vimeo.com/57462022
+- **Original / support:** https://vimeo.com/57462022
+- **Type / date:** Classic original stunt-team Vimeo short; original publish date not asserted
+- **Action:** A two-performer Korean-style fight concept: Brendon Huor in black, Nate Hitpas in white, with choreography credited to both. Costume contrast lets the viewer track who initiates and who reacts.
+- **Camera / editing:** Emmanuel Manzanares is credited for filming/coordinating; Huor and Manzanares for editing. Study how professionally planned camera coverage supports discrete rehearsed beats.
+- **AI takeaway:** Constrain a two-person exchange to one attack, one block and a side change without losing shirt-color attribution.
+- **Limitations:** Credit/format information from the original creator page; exact moves and cut points have not been individually checked.
+- **Full independent English Prompt:** [2026-11-20 batch](runs/2026-11-20.md)
+- **Tags:** stunt,korean-action,duel,blocking,contrast
+
+### Whirlwind Action — Kickboxing Girl vs Guy (24p Classic Compilation)
+- **Watch:** https://www.youtube.com/watch?v=2hwWVfte6CU&t=1248s
+- **Original / support:** https://www.youtube.com/watch?v=2hwWVfte6CU
+- **Type / date:** 2026-03-07 compilation upload; 20:48 chapter from 2006–2011 original 24p stunt scenes
+- **Action:** At 20:48 the creator's chapter list identifies Jessie Graff vs Micah Brock ('Kickboxing Girl vs Guy'). Use it as one contained two-person movement reference within a 50-minute anthology.
+- **Camera / editing:** Classic 24p filmed stunt material, potentially more grounded than rapid edit montages; exact camera positions in this chapter were not frame-checked.
+- **AI takeaway:** Extract one identifiable kick/punch-counter micro-beat from 20:48–21:25, and recreate with original characters and safe spacing. Avoid confusing compilation chapter cuts with in-scene cuts.
+- **Limitations:** Uploader claims it is their own 2006–2011 work and provides chapter boundaries; direct timestamp derived from their chapter list.
+- **Full independent English Prompt:** [2026-11-20 batch](runs/2026-11-20.md)
+- **Tags:** stunt,whirlwind-action,kickboxing,creator-compilation,chaptered
+
+
 ## Added 2026-11-19 — 2 source-linked reference(s)
 
 ### Above the Shadows — Flashback Fight Pre-Vis (Alternate UFC Highlight Edit)
