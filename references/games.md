@@ -1,5 +1,23 @@
 # Game Action References
 
+## Added 2026-11-21 — 1 source-linked references
+
+### 1. Phantom Blade Zero — Official State of Play Combat Deep Dive (August 2026)
+- **Watch / 观看:** https://www.youtube.com/watch?v=blh1v1dGJ2s
+- **Original / corroborating source:** https://www.resetera.com/threads/phantom-blade-zero-state-of-play-20-mins-gameplay-deep-dive-aug-17-7pm-pt-10pm-et-aug-18-3am-bst.1606570/
+- **Date / type:** PlayStation official State of Play, 2026-08-17 US / 2026-08-18 UTC; approximately 20-minute gameplay overview
+- **动作设计 / Choreography:** Detailed weapon-switch, parry, counter, heavy-shield and guard-break systems; heavy shield encounter is shown around 9:18–9:30 in accompanying footage analysis.
+- **运镜 / Camera and editing:** Third-person gameplay camera maintains attacker, defender and large shield in frame, separating readable wind-up from impact.
+- **AI 视频借鉴 / Takeaway:** Build one precise boss anticipation → defence → counter response with grounded orientation; keep giant shield size and strike vector fixed.
+- **核验边界 / Limitations:** Contains developer-curated gameplay and commentary, not a continuous boss fight or an unedited combat showcase.
+- **Tags:** wuxia,boss-fight,parry,heavy-shield,gameplay
+
+**Original English Motion Prompt (independently written):**
+
+```text
+A cinematic fantasy game-style seven-second encounter: an original armoured giant raises a broad shield overhead, telegraphs a slow downward shield slam, and a lone adult swordswoman sidesteps to screen left before holding a defensive stance. Third-person over-shoulder follow camera at steady distance, full shield silhouette and both characters visible, no teleporting or scene cuts.
+```
+
 ## Added 2026-11-20 — 1 source-linked references
 
 ### Gladio Mori — Physics-Based Arena Fighting Release-Date Trailer

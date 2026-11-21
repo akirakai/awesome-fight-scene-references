@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-21 — 10 source-linked classic / 2026 fight studies (all six categories)
+
+- **martial-arts (2):** Asadula Imangazaliev vs Kongthoranee — ONE Championship Full Muay Thai Fight; Nicholas Maskhulia vs Ramini Feradze — Eurasian Professional Sanda League.
+- **film-tv (2):** The Raid 2 (2014) — Rama vs The Assassin, Kitchen Fight; Raging Fire (2021) — Donnie Yen vs Nicholas Tse Knife-Fight Expert Breakdown.
+- **games (1):** Phantom Blade Zero — Official State of Play Combat Deep Dive (August 2026).
+- **anime (1):** Chainsaw Man — The Movie: Reze Arc (2025), Bomb Devil Face Off Clip.
+- **stunt-choreography (2):** LBP/Asylum Stunt Practice — Andy Long, Jim Ng & Group One-Takes; Wheels on Meals Practice Fight — Mickey Facchinello vs Brendon Huor, Side-by-Side.
+- **ai-action (2):** Kas — KlingAI 3.0 Cinematic Fight Scene with Higgsfield Cinema Studio; AI動画生成 Prompt Lab — Rainy Tokyo Two-Woman Duel (Seedance 2.0 Prompt #02).
+
+[Full 2026-11-21 catalog with original video links, action / camera analysis, caveats and ten original English Motion Prompts](runs/2026-11-21.md). Checked against main category files and index; full historical run audit not claimed.
+
 ## 2026-11-20 — 10 new watch/source-linked fight and action studies (six categories)
 
 - **martial-arts (2):** Dakar 2026 — Gao Jiamin & Gao Haonan Taijiquan Showcase; Dakar 2026 — Chu Yu-En Silver-Medal Tai Chi Fan Routine.

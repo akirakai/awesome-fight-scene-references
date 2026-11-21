@@ -1,5 +1,39 @@
 # AI Action References
 
+## Added 2026-11-21 — 2 source-linked references
+
+### 1. Kas — KlingAI 3.0 Cinematic Fight Scene with Higgsfield Cinema Studio
+- **Watch / 观看:** https://www.youtube.com/watch?v=a0Gj9_oKC-E
+- **Original / corroborating source:** https://www.youtube.com/watch?v=a0Gj9_oKC-E
+- **Date / type:** Creator upload 2026-03-04; AI workflow / generated fight demonstration
+- **动作设计 / Choreography:** Creator tests two-person cinematic fight motion generated from prompts, with base visuals and character assets produced separately.
+- **运镜 / Camera and editing:** Higgsfield Cinema Studio is described as part of shot direction and presentation; compare visual impact with clarity of where characters actually stand.
+- **AI 视频借鉴 / Takeaway:** Isolate which component locks identity, which controls choreography and which specifies camera path in a multi-tool workflow.
+- **核验边界 / Limitations:** Creator attribution supports tools used (Nano Banana Pro, Claude, KlingAI 3.0, Higgsfield); no controlled comparison or underlying exact prompt verified.
+- **Tags:** ai-fight,kling-3,higgsfield,multi-tool-workflow
+
+**Original English Motion Prompt (independently written):**
+
+```text
+A seven-second photorealistic staged sparring scene with two original adult athletes in contrasting training jackets. Athlete A advances, Athlete B ducks under one deliberately slow choreographed arm swing, and both turn to face each other again. Camera tracks parallel to the action in a single smooth move, all limbs stay distinct, grounded feet and unchanging costumes.
+```
+
+### 2. AI動画生成 Prompt Lab — Rainy Tokyo Two-Woman Duel (Seedance 2.0 Prompt #02)
+- **Watch / 观看:** https://www.youtube.com/watch?v=re3zlcsICDw
+- **Original / corroborating source:** https://note.com/rich_fairy2056/n/nd547b4a86842
+- **Date / type:** Creator article posted 2026-08-10; embedded finished YouTube video and published generation prompt; 8-second clip #02
+- **动作设计 / Choreography:** Rain-soaked alley close-combat sequence in which the protagonist’s pinned-up hair is designed to loosen amid exchanges, creating a story-relevant visual state change.
+- **运镜 / Camera and editing:** Creator specifies a highly edited cinematic mixture: tracking, whip-pan, inserts and a short slow-motion accent; these are stated prompt intentions, not fully frame-audited outcomes.
+- **AI 视频借鉴 / Takeaway:** Lock protagonist and antagonist images, costume and hair progression; assign a single intentional state change and propagate it into the next clip.
+- **核验边界 / Limitations:** Original prompt and clip are linked at creator’s page; our English Motion Prompt below is original, not a reproduction. Video embed availability varies.
+- **Tags:** seedance-2,rain,female-duel,hairstyle-state,temporal-prompt
+
+**Original English Motion Prompt (independently written):**
+
+```text
+An eight-second original non-graphic staged fight between two adult women in a neon-lit rain alley. Woman A in a navy raincoat dodges one slow rehearsed punch from Woman B in a red jacket; A’s loosely tied scarf slips from her shoulder at 5 seconds and remains on the ground until the end. Low lateral tracking medium-wide shot, wet reflections, stable costume identity, the scarf falls only once, synced rain sounds, no extra participants.
+```
+
 ## Added 2026-11-20 — 2 source-linked references
 
 ### MayorKingAI — Ali–Tyson Styled 30-Second Seedance 2.5 Boxing Workflow

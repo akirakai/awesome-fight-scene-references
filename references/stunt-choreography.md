@@ -1,5 +1,39 @@
 # Stunt & Choreography References
 
+## Added 2026-11-21 — 2 source-linked references
+
+### 1. LBP/Asylum Stunt Practice — Andy Long, Jim Ng & Group One-Takes
+- **Watch / 观看:** https://vimeo.com/9666513
+- **Original / corroborating source:** https://vimeo.com/9666513
+- **Date / type:** LBP Stunts Chicago practice reel; original upload accessible on Vimeo, historical clip
+- **动作设计 / Choreography:** Large-team rehearsal with partner and group fights; the crew explicitly reports long one-take sections and a short group fight with Andy and Shawn.
+- **运镜 / Camera and editing:** Practice footage shot on Panasonic HVX200; the continuity of one-take group blocking is more instructive than flashy coverage.
+- **AI 视频借鉴 / Takeaway:** For three or more people, make only one exchange active at a time while background performers maintain fixed positions and react in sequence.
+- **核验边界 / Limitations:** Creator description confirms group-fight work and one-take sections; exact shot lengths and order not independently timed.
+- **Tags:** stunt-rehearsal,group-fight,one-take,blocking
+
+**Original English Motion Prompt (independently written):**
+
+```text
+Four original adult trained stunt performers rehearse a safe non-contact fight in a spacious gym. A and B perform one choreographed feint-and-block combination in the centre while C waits two metres behind B and D holds a marked position at frame edge; after the exchange C steps in and all four reset. Single static medium-wide full-body take, no unseen teleporting, no strikes to real bodies.
+```
+
+### 2. Wheels on Meals Practice Fight — Mickey Facchinello vs Brendon Huor, Side-by-Side
+- **Watch / 观看:** https://vimeo.com/220594945
+- **Original / corroborating source:** https://vimeo.com/220594945
+- **Date / type:** LBP Stunts Chicago; side-by-side practice comparison of a 2014 homage
+- **动作设计 / Choreography:** Brendon Huor and Mickey Facchinello present a rehearsal homage alongside the Jackie Chan / Benny Urquidez fight; excellent for studying choreography translation and actor timing.
+- **运镜 / Camera and editing:** Side-by-side format exposes differences in spacing, camera coverage, anticipation and footwork across two versions.
+- **AI 视频借鉴 / Takeaway:** Use a multi-pass method: compare a flat practice shot with the polished cinematic edit before refining prompts, while creating original combinations.
+- **核验边界 / Limitations:** This is an explicitly labelled training homage; source credits original action design to Sammo Hung’s team, not to the actors in the practice video.
+- **Tags:** choreography-comparison,side-by-side,rehearsal,classic-action
+
+**Original English Motion Prompt (independently written):**
+
+```text
+Split-screen training visualization of the SAME ORIGINAL non-contact three-beat rehearsal: left view is a stable full-body front camera, right view is a slightly lower 35mm cinema angle. Two adult stunt performers feint, block and step apart with matching timing in both halves; identical costumes, correct hands and feet, no added moves and no real contact.
+```
+
 ## Added 2026-11-20 — 2 source-linked references
 
 ### BEATDOWN BIBIMBAP — Brendon Huor & Nate Hitpas (LBP Stunts)

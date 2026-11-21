@@ -1,5 +1,23 @@
 # Anime Action References
 
+## Added 2026-11-21 — 1 source-linked references
+
+### 1. Chainsaw Man — The Movie: Reze Arc (2025), Bomb Devil Face Off Clip
+- **Watch / 观看:** https://www.tvguide.com/videos/chainsaw-man-the-movie-reze-arc/2060189391/chainsaw-man-the-movie-reze-arc-bomb-devil-face-off/10260262/
+- **Original / corroborating source:** https://www.imdb.com/title/tt30472557/
+- **Date / type:** Film released 2025; TV Guide clip page dated 2025-10-24; approximately 26-second promotional excerpt
+- **动作设计 / Choreography:** Brief animated supernatural confrontation; use the contrast between a powerful attack cue and a character response, not as a verified uncut fight sequence.
+- **运镜 / Camera and editing:** A short promotional clip, so treat it as a study in compressed escalation and clear silhouettes rather than claiming exact continuous shot choreography.
+- **AI 视频借鉴 / Takeaway:** One readable anticipation/impact/reaction beat for an original animated supernatural duel; separate VFX direction from body displacement.
+- **核验边界 / Limitations:** Clip page identifies a 0:26 fight excerpt; no frame-level interpretation or precise shot list verified. Playback can be region-dependent.
+- **Tags:** anime,supernatural,impact-frame,short-clip
+
+**Original English Motion Prompt (independently written):**
+
+```text
+An original cel-shaded urban fantasy duel with two adult fictional characters on an empty bridge at dusk. Character A raises a glowing fist; one narrow wave of light passes between them, Character B braces and steps back exactly once, then both silhouettes remain readable. Side-on anime composition, one concise flash at impact, consistent left-right screen direction, no gore.
+```
+
 ## Added 2026-11-20 — 1 source-linked references
 
 ### Black Clover — Yami vs Licht (Crunchyroll Official Clip)

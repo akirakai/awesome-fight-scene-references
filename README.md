@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-20
+## Latest additions — 2026-11-21
+
+**10 source-linked fight/martial-arts/AI-action references across all six categories** (2 martial-arts, 2 film-tv, 1 games, 1 anime, 2 stunt-choreography, 2 ai-action). Highlights: the classic *The Raid 2* kitchen duel, **Phantom Blade Zero** official 2026 combat deep dive, **Wheels on Meals** side-by-side stunt choreography study, and **Seedance 2.0** rainy Tokyo fight with a documented appearance-continuity prompt. Ten new independently written English Motion Prompts, action/camera notes, and provenance warnings included.
+
+[Read 2026-11-21 full reference batch](references/runs/2026-11-21.md) · [Browse the date index](references/INDEX.md).
+
+## Earlier additions — 2026-11-20
 
 **10 source-linked fight/action references across six categories** (2 martial-arts, 2 film-tv, 1 games, 1 anime, 2 stunt-choreography, 2 ai-action). Standouts: the **Nov 19 Furious Pak Lung high-kick PV** (a distinct video from the earlier teaser), *Gladio Mori* physics-driven combat, LBP Stunts' Korean-style choreography, **Black Clover** Yami vs Licht, and **Chumbo's 13-shot Seedance 2.5 fight repair**. This run includes ten original English Motion Prompts, watch/origin URLs, staging notes, and explicit source-confidence caveats.
 

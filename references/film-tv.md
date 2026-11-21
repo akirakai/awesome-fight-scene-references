@@ -1,5 +1,39 @@
 # Film / TV Action References
 
+## Added 2026-11-21 — 2 source-linked references
+
+### 1. The Raid 2 (2014) — Rama vs The Assassin, Kitchen Fight
+- **Watch / 观看:** https://www.youtube.com/watch?v=9Rp86b3CUMU
+- **Original / corroborating source:** https://theactionelite.com/mano-a-mano-kitchen-fight-from-the-raid-2/
+- **Date / type:** 2014 film; existing online fight-scene excerpt (third-party upload)
+- **动作设计 / Choreography:** Two-person duel in a confined kitchen; study staged escalation, pauses between attacks, short pivots and environmental obstacles.
+- **运镜 / Camera and editing:** The sequence is discussed for choreography and camera geography; watch the actual clip to note when the film chooses a wider view over a tighter reaction cut.
+- **AI 视频借鉴 / Takeaway:** Keep counter positions, sink, counter edge, weapon/hand ownership and who stands on which side of the room stable.
+- **核验边界 / Limitations:** Direct YouTube link is a third-party clip, not confirmed to be a rights-holder upload; availability may change. No claim of an exact move-by-move transcription.
+- **Tags:** silat,film,duel,kitchen,environmental-blocking
+
+**Original English Motion Prompt (independently written):**
+
+```text
+Two original adult stunt performers in a spacious, safely staged commercial kitchen face each other across a fixed counter. A lunges forward, B shifts laterally behind the counter and blocks a simulated strike with the forearm, then both separate into clearly visible stances. Single lateral dolly tracking shot, no real weapons or injuries, preserve counter positions and screen direction.
+```
+
+### 2. Raging Fire (2021) — Donnie Yen vs Nicholas Tse Knife-Fight Expert Breakdown
+- **Watch / 观看:** https://www.youtube.com/watch?v=gRsNWTvD4F0
+- **Original / corroborating source:** https://www.youtube.com/watch?v=gRsNWTvD4F0
+- **Date / type:** Scenic Fights breakdown published 2021-12-02; analysis video, not complete uncut film scene
+- **动作设计 / Choreography:** Expert annotated examples of butterfly knives, a baton, disarming and grappling; use it to study how weapon/hand assignments affect blocking and action readability.
+- **运镜 / Camera and editing:** The educational format intercuts film excerpts and demonstrations; do not mistake its montage for the original scene’s continuous editing.
+- **AI 视频借鉴 / Takeaway:** Specify a harmless rehearsal baton, grip hand, and defensive body orientation explicitly and avoid generating uncontrolled object morphing.
+- **核验边界 / Limitations:** Analysis contains clips and demonstrations, not a licensed full-scene upload. Technical claims come from the creators’ published breakdown.
+- **Tags:** hong-kong-action,weapon-prop,expert-analysis,continuity
+
+**Original English Motion Prompt (independently written):**
+
+```text
+A fictional rehearsal in a padded martial-arts studio with two adult stunt actors using soft foam practice batons. The right-handed performer makes one measured horizontal practice swing; the partner steps back and parries with the left forearm, ending apart in neutral stance. Locked 35mm full-body three-quarter camera, no sharp objects, no cuts, props keep constant dimensions.
+```
+
 ## Added 2026-11-20 — 2 source-linked references
 
 ### Furious (2026) — Pak Lung / Joey Iwanaga High-Kick Character PV

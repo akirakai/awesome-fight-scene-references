@@ -1,5 +1,39 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-21 — 2 source-linked references
+
+### 1. Asadula Imangazaliev vs Kongthoranee — ONE Championship Full Muay Thai Fight
+- **Watch / 观看:** https://www.youtube.com/watch?v=jBz755cBAXo
+- **Original / corroborating source:** https://www.youtube.com/watch?v=jBz755cBAXo
+- **Date / type:** ONE Championship official upload, 2026-02-28; full-fight video
+- **动作设计 / Choreography:** Full competitive Muay Thai exchange: study guard resets, range changes, probing strikes and visible response before another combination.
+- **运镜 / Camera and editing:** A broadcast-fight angle favors uninterrupted opponent spacing and complete footwork; verify camera changes in the source before borrowing edits.
+- **AI 视频借鉴 / Takeaway:** A believable one-attack, one-defense, footwork-reset beat with fighters remaining the same distance apart after a blocked strike.
+- **核验边界 / Limitations:** Original fight recording; detailed strike order not frame-audited.
+- **Tags:** muay-thai,real-fight,full-bout,distance,guard
+
+**Original English Motion Prompt (independently written):**
+
+```text
+In a regulated training ring, two original adult kickboxers maintain guard at arm-and-leg range. Fighter A steps forward with one controlled body kick, Fighter B checks the kick, and both plant their feet and reset their stances. Full-body ringside medium-wide view, natural inertia and impact timing, no cuts, no extra fighters, non-graphic sports sparring.
+```
+
+### 2. Nicholas Maskhulia vs Ramini Feradze — Eurasian Professional Sanda League
+- **Watch / 观看:** https://euwushu.tv/videos/nicholas-maskhulia-vs-ramini-feradze
+- **Original / corroborating source:** https://euwushu.tv/videos/nicholas-maskhulia-vs-ramini-feradze
+- **Date / type:** Bout 2026-02-14; posted 2026-02-16; 9:48 video
+- **动作设计 / Choreography:** Actual sanda competition is useful for reading punch-to-clinch transitions, defensive footwork and balance under pressure; this is not a staged routine.
+- **运镜 / Camera and editing:** Competition capture offers sustained spatial coverage. Prefer a consistent ringside wide angle for recreations rather than inventing rapid cinematic cutting.
+- **AI 视频借鉴 / Takeaway:** Use the fight as a real-physics constraint for a single defensive pivot and safe disengagement.
+- **核验边界 / Limitations:** Publisher identifies fighters, competition and duration; no individual exchange is claimed as a verified exact timestamp.
+- **Tags:** sanda,live-competition,clinch,weight-transfer
+
+**Original English Motion Prompt (independently written):**
+
+```text
+Two adult sanda athletes in a supervised training setting start two metres apart. Athlete A advances with a straight punch, Athlete B steps diagonally out of range and raises a guard, then both halt and re-centre without contact. Steady full-body sports broadcast view, continuous foot grounding, no crowd entering the ring.
+```
+
 ## Added 2026-11-20 — 2 source-linked references
 
 ### Dakar 2026 — Gao Jiamin & Gao Haonan Taijiquan Showcase
