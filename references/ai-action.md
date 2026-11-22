@@ -1,5 +1,29 @@
 # AI Action References
 
+## Added 2026-11-22 — 2 source-linked references
+
+### 1. Silhouetted Swordsman vs Sequential Monsters — Volodymyr Cherner / Seedance 2.0
+- Original watch: https://prompts.mystage.ai/prompts/seedance-2-0-silhouetted-swordsman-combat-prompt/
+- Original creator/source: https://x.com/vladimircherner/status/2040569543769145504
+- Date/type: Original X post dated 2026-04-03 by the prompt catalog; embedded demonstration and prompt mirror on MyStage
+- Action design: A red-black silhouetted swordsman is approached by different dark monsters, intended to appear one at a time. The publicly attributed prompt describes a white contact flash on impact followed by a return to deep shadow.
+- Camera/editing: Cataloged prompt specifies central-character tracking with quick micro-pans/whip-pans. Use it as a cinematic effect study, not evidence the model executes all physics perfectly.
+- AI-video takeaway: The transferable innovation is 1-frame contact flash as an editing anchor; simplify one enemy per 3-4 seconds and keep strike vector intact.
+- Verification: Prompt and video provenance are attributed by third-party MyStage; original X may require sign-in, raw video not frame-verified. Do not assume original prompt license for reuse.
+- Tags: seedance2,ai-generated,katana,impact-flash,silhouette,multi-opponent
+- Full independent English Prompt: [2026-11-22 curated batch](runs/2026-11-22.md)
+
+### 2. Kung Fu Girl — 15-second Image-to-Video Action Prompt / @johnAGI168
+- Original watch: https://seedanceprompt.io/prompts/kung-fu-girl-image-to-video-action-scene
+- Original creator/source: https://x.com/johnAGI168/status/2041511837426950454
+- Date/type: Original X post attributed to 2026-04-07 by SeedancePrompt; Seedance 2.0 image-to-video example
+- Action design: A single female fighter is meant to transition from her initial pose through evasion, strikes and a final landing. The source prompt emphasizes consistent character reference; clip's exact technical accuracy is not validated.
+- Camera/editing: Creator-attributed prompt asks for wide-angle opening, dynamic camera motion, blur and subtle shake. Study whether these help motion clarity or hide continuity errors.
+- AI-video takeaway: Split a long move list into start pose → one dodge → one clean strike → stable landing; reserve aggressive camera movement for a second pass.
+- Verification: Example and prompt indexed by a third-party catalog with original X link; no independent replay or provenance audit of render generation.
+- Tags: seedance2,ai-action,image-to-video,reference-identity,kung-fu,landing
+- Full independent English Prompt: [2026-11-22 curated batch](runs/2026-11-22.md)
+
 ## Added 2026-11-21 — 2 source-linked references
 
 ### 1. Kas — KlingAI 3.0 Cinematic Fight Scene with Higgsfield Cinema Studio
