@@ -1,5 +1,29 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-22 — 2 source-linked references
+
+### 1. 4th IWUF Taolu World Cup 2026 — 9.80 Changquan Gold Routine
+- Original watch: https://www.youtube.com/watch?v=5hu_wL1yfTw
+- Original creator/source: https://www.youtube.com/watch?v=5hu_wL1yfTw
+- Date/type: Uploader 2026-07-07; 2026 Taolu World Cup; third-party recording (not verified as IWUF's official upload)
+- Action design: High-tempo changquan display: study the alternation of extended stances, explosive aerial transitions and stable landings. The uploader describes a 9.80 gold routine; score not independently matched to an official result sheet.
+- Camera/editing: Competition-oriented performance footage; extract sustained full-body portions to evaluate jump apex, foot placement and final landing rather than relying on highlight cuts.
+- AI-video takeaway: Use takeoff, turn, landing and final pose as separate beat anchors. Keep support foot and limb proportions intact through the jump.
+- Verification: Uploader's title and description are the main source; no frame-by-frame validation and no independent official scoring check.
+- Tags: wushu,changquan,2026,taolu,acrobatic,full-body
+- Full independent English Prompt: [2026-11-22 curated batch](runs/2026-11-22.md)
+
+### 2. 4th IWUF Taolu World Cup 2026 — Men's Nanquan Top Three Compilation
+- Original watch: https://www.youtube.com/watch?v=QZCxthn3MEU
+- Original creator/source: https://www.youtube.com/watch?v=QZCxthn3MEU
+- Date/type: Uploader 2026-07-08; 2026 World Cup men's nanquan selection; third-party compilation
+- Action design: Compare crisp Southern-style stance transitions, compact upper-body power and punctuated pauses across elite performers. The uploader names Du Hongjie, Chan Chi Ngou and Huang Wen Sheng as the top three; rankings are uploader-reported.
+- Camera/editing: An edited selection of multiple athletes, not a continuous exchange or one performer's uncut routine. Reconstruct one performer's beat from a single sustained full-body passage.
+- AI-video takeaway: For grounded power, articulate planted foot → hip and shoulder rotation → fist extension → held finish. Do not blend motions from different athletes into a fake continuous take.
+- Verification: Compilation and result ordering based on uploader description; score and exact move timing not audited.
+- Tags: wushu,nanquan,2026,competition,stance,impact-pose
+- Full independent English Prompt: [2026-11-22 curated batch](runs/2026-11-22.md)
+
 ## Added 2026-11-21 — 2 source-linked references
 
 ### 1. Asadula Imangazaliev vs Kongthoranee — ONE Championship Full Muay Thai Fight
