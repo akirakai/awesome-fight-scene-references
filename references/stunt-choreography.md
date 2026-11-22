@@ -1,5 +1,29 @@
 # Stunt & Choreography References
 
+## Added 2026-11-22 — 2 source-linked references
+
+### 1. Brian Danner — Sword Fights Inc. Stunt / Weapons Demonstration Reel
+- Original watch: https://vimeo.com/558367696
+- Original creator/source: https://vimeo.com/channels/swordfightsinc/558367696
+- Date/type: Sword Fights Inc. channel entry titled 'Brian Danner 2025'; page reports upload approximately five years earlier, so 2025 is not asserted as upload year
+- Action design: Stunt performance, weapons technique and choreography are presented together by Brian Danner, identified as weapons specialist, performer and fight choreographer. It is an edited portfolio reel, not one continuous sword exchange.
+- Camera/editing: Look for those shots where full blade arcs and partner distance remain in view; do not stitch separated reel shots into a fictitious one-take choreography.
+- AI-video takeaway: For sword video prompts, lock wielding hand, blade trajectory, defensive parry side and recovery before stylized camera movement.
+- Verification: Original team channel and roles verified; exact weapon moves or clip times not individually checked.
+- Tags: swordfight,stunt-reel,weapon-choreography,brian-danner,blocking
+- Full independent English Prompt: [2026-11-22 curated batch](runs/2026-11-22.md)
+
+### 2. Zach Devereux — Fight Reel 2024
+- Original watch: https://vimeo.com/831503158
+- Original creator/source: https://vimeo.com/831503158
+- Date/type: Creator-posted Vimeo fight reel labeled 2024; compilation, not a verified uncut fight
+- Action design: A short portfolio-style reference for isolating individual performance phrases and transitions. Treat it as a sample reel; individual attacks/techniques are not identified in the page description.
+- Camera/editing: Compare selected short takes for performer readability, but avoid assuming any two adjacent montage clips share the same fight geography.
+- AI-video takeaway: Use reel fragments as micro-reference clips, and rebuild a new causal two-person exchange with fixed footwork and screen direction.
+- Verification: Page supplies only the creator name and 'Fightreel 2024'; no detailed technique, production context or frame-by-frame verification available.
+- Tags: fight-reel,stunt,short-action,performer-reference,2024
+- Full independent English Prompt: [2026-11-22 curated batch](runs/2026-11-22.md)
+
 ## Added 2026-11-21 — 2 source-linked references
 
 ### 1. LBP/Asylum Stunt Practice — Andy Long, Jim Ng & Group One-Takes
