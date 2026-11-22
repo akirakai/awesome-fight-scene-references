@@ -54,7 +54,13 @@ Example:
 - `references/INDEX.md` — dated discovery index
 - `references/runs/` — dated curated batches with category sections
 
-## Latest additions — 2026-11-21
+## Latest additions — 2026-11-22
+
+**10 source-linked reference videos across six categories** (2 martial-arts, 2 film-tv, 1 games, 1 anime, 2 stunt-choreography, 2 ai-action). Highlights: 2026 World Cup changquan and nanquan, filmmaker-hosted *BRAWLER* and *PLAYIN' AROUND*, Team NINJA's *Nioh 3* combat, *Gintama*'s Kagura moment, professional stunt/weapon reels, and two creator-attributed Seedance 2.0 action studies. Includes ten original English motion prompts, source provenance, movement/camera notes and verification caveats.
+
+[Read 2026-11-22 full reference batch](references/runs/2026-11-22.md) · [Browse dated index](references/INDEX.md).
+
+## Earlier additions — 2026-11-21
 
 **10 source-linked fight/martial-arts/AI-action references across all six categories** (2 martial-arts, 2 film-tv, 1 games, 1 anime, 2 stunt-choreography, 2 ai-action). Highlights: the classic *The Raid 2* kitchen duel, **Phantom Blade Zero** official 2026 combat deep dive, **Wheels on Meals** side-by-side stunt choreography study, and **Seedance 2.0** rainy Tokyo fight with a documented appearance-continuity prompt. Ten new independently written English Motion Prompts, action/camera notes, and provenance warnings included.
 
