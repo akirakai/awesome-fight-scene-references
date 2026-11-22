@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-22 — 10 new references, six categories
+
+- **martial-arts (2):** 4th IWUF Taolu World Cup 2026 — 9.80 Changquan Gold Routine; 4th IWUF Taolu World Cup 2026 — Men's Nanquan Top Three Compilation.
+- **film-tv (2):** BRAWLER — Martial Arts Action Short Film (4K); PLAYIN' AROUND — NYU Toy-Store Action Short (2024).
+- **games (1):** Nioh 3 — Team NINJA Official 17-Minute Gameplay Showcase.
+- **anime (1):** Gintama — Kagura Snaps! (Crunchyroll Official Episode 142 Clip).
+- **stunt-choreography (2):** Brian Danner — Sword Fights Inc. Stunt / Weapons Demonstration Reel; Zach Devereux — Fight Reel 2024.
+- **ai-action (2):** Silhouetted Swordsman vs Sequential Monsters — Volodymyr Cherner / Seedance 2.0; Kung Fu Girl — 15-second Image-to-Video Action Prompt / @johnAGI168.
+
+[Full 2026-11-22 catalog with watch/original links, action and camera notes and 10 original English Motion Prompts](runs/2026-11-22.md). Cross-checked README, INDEX and six category files for link/title duplicates; previous dated files not exhaustively audited.
+
 ## 2026-11-21 — 10 source-linked classic / 2026 fight studies (all six categories)
 
 - **martial-arts (2):** Asadula Imangazaliev vs Kongthoranee — ONE Championship Full Muay Thai Fight; Nicholas Maskhulia vs Ramini Feradze — Eurasian Professional Sanda League.
