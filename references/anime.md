@@ -1,5 +1,18 @@
 # Anime Action References
 
+## Added 2026-11-22 — 1 source-linked references
+
+### 1. Gintama — Kagura Snaps! (Crunchyroll Official Episode 142 Clip)
+- Original watch: https://www.youtube.com/watch?v=B35Rq-ZSMgM
+- Original creator/source: https://www.youtube.com/watch?v=B35Rq-ZSMgM
+- Date/type: Crunchyroll verified channel, 2021-11-11; excerpt of episode 142
+- Action design: An emotionally-driven sudden surge of force is the key reference. Study how a distinct character-state change makes an attack feel different from ordinary exchanges.
+- Camera/editing: Official anime excerpt: analyze the contrast between anticipation, strong pose silhouettes and intensified action. Exact frames/cuts have not been manually annotated.
+- AI-video takeaway: Build emotional escalation into motion: stillness and controlled posture → impulsive burst → the opponent's visible response → recovery. Keep energy effects subordinate to character identity.
+- Verification: Creator and episode attribution verified from official YouTube metadata; no precise shot-by-shot recreation claimed.
+- Tags: gintama,kagura,anime,emotional-escalation,impact-pose,classic
+- Full independent English Prompt: [2026-11-22 curated batch](runs/2026-11-22.md)
+
 ## Added 2026-11-21 — 1 source-linked references
 
 ### 1. Chainsaw Man — The Movie: Reze Arc (2025), Bomb Devil Face Off Clip
