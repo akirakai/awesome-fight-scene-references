@@ -5,6 +5,7 @@
 ### 1. BRAWLER — Martial Arts Action Short Film (4K)
 - Original watch: https://vimeo.com/949671007
 - Original creator/source: https://vimeo.com/949671007
+- Alternate original filmmaker YouTube upload (2025-06-01): https://www.youtube.com/watch?v=DevLrL39lRs
 - Date/type: Independent short; Fighting Spirit Film Festival awards listed for 2024; filmmaker-hosted Vimeo release
 - Action design: The filmmaker describes a focused fighter risking everything in a rescue-motivated brawl. Stunt action was directed by Lukaz Leong with choreography credited to Leong and Isky Fay; study how one clear objective drives short attacks and reactions.
 - Camera/editing: Cinematography and editing by Bulent Ozdemir-Larusso; action-camera operator Lukaz Leong. Compare stable two-body action coverage with punch-in reactions, but do not infer precise cuts without viewing the full clip.
