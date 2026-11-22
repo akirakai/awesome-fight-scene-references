@@ -1,5 +1,18 @@
 # Game Action References
 
+## Added 2026-11-22 — 1 source-linked references
+
+### 1. Nioh 3 — Team NINJA Official 17-Minute Gameplay Showcase
+- Original watch: https://www.youtube.com/watch?v=GfPMuwk2Mzg
+- Original creator/source: https://www.youtube.com/watch?v=GfPMuwk2Mzg
+- Date/type: Team NINJA Studio official, 2026-01-22; extended gameplay showcase
+- Action design: The demo showcases samurai and ninja fighting styles versus human and yokai opponents, with style-switching as a useful state transition. Study deliberate guarding followed by faster evasive maneuvering.
+- Camera/editing: Third-person gameplay grammar keeps enemy telegraphs and player recovery visible; for AI video, preserve one camera side when switching from grounded samurai to nimble ninja style.
+- AI-video takeaway: Design a visible stance/style transition, not an instantaneous costume/body jump. Keep an enemy's attack direction consistent through the switch.
+- Verification: Official 17-minute showcase verified; individual chosen boss and timecode not claimed until frame-reviewed.
+- Tags: nioh3,team-ninja,boss,yokai,samurai,ninja,style-switch
+- Full independent English Prompt: [2026-11-22 curated batch](runs/2026-11-22.md)
+
 ## Added 2026-11-21 — 1 source-linked references
 
 ### 1. Phantom Blade Zero — Official State of Play Combat Deep Dive (August 2026)
