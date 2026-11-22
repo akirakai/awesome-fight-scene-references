@@ -1,5 +1,29 @@
 # Film / TV Action References
 
+## Added 2026-11-22 — 2 source-linked references
+
+### 1. BRAWLER — Martial Arts Action Short Film (4K)
+- Original watch: https://vimeo.com/949671007
+- Original creator/source: https://vimeo.com/949671007
+- Date/type: Independent short; Fighting Spirit Film Festival awards listed for 2024; filmmaker-hosted Vimeo release
+- Action design: The filmmaker describes a focused fighter risking everything in a rescue-motivated brawl. Stunt action was directed by Lukaz Leong with choreography credited to Leong and Isky Fay; study how one clear objective drives short attacks and reactions.
+- Camera/editing: Cinematography and editing by Bulent Ozdemir-Larusso; action-camera operator Lukaz Leong. Compare stable two-body action coverage with punch-in reactions, but do not infer precise cuts without viewing the full clip.
+- AI-video takeaway: An original rescue-action short can keep its urgency without an endless combo: goal → one obstructing opponent → one readable counter → movement toward the exit.
+- Verification: Award and production credits verified on creator page; individual movement order and exact timestamps are not frame-verified.
+- Tags: indie-action,rescue-motivation,4k,stunt-team,character-objective
+- Full independent English Prompt: [2026-11-22 curated batch](runs/2026-11-22.md)
+
+### 2. PLAYIN' AROUND — NYU Toy-Store Action Short (2024)
+- Original watch: https://vimeo.com/1010062096
+- Original creator/source: https://vimeo.com/1010062096
+- Date/type: Made in 2024; director Bryan Uvaldo's original Vimeo upload
+- Action design: A woman fights through a chaotic toy store to buy a gift for her younger brother. Useful for action comedy where objective, crowded lanes and retail props determine who moves where. Stunt coordinator: Ian Dugan.
+- Camera/editing: Director/editor Bryan Uvaldo and cinematographer Ari Isenberg are credited; map aisles and shelf directions first, then use inserts only for pivotal prop interactions.
+- AI-video takeaway: One prop-related obstacle creates one physical action and one clear story beat. Preserve shelves, props and shopping goal through the cuts.
+- Verification: Short-film synopsis and production roles verified; suggested beat structure is an AI production adaptation, not a literal shot transcript.
+- Tags: action-comedy,retail-space,props,crowd-blocking,2024
+- Full independent English Prompt: [2026-11-22 curated batch](runs/2026-11-22.md)
+
 ## Added 2026-11-21 — 2 source-linked references
 
 ### 1. The Raid 2 (2014) — Rama vs The Assassin, Kitchen Fight
