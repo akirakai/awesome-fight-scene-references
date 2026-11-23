@@ -1,5 +1,11 @@
 # Awesome Fight Scene References
 
+## Latest additions — 2026-11-23
+
+**10 curated action references across all six categories (2 / 2 / 1 / 1 / 2 / 2).** Highlights: ONE Friday Fights 179's Nov 20 bout, the newly released Nov 22 *Punch Punch Forever* episode, Gareth Evans' *FEUDAL* professional fight previs, *Temporal Takedown*'s phone-previs/time-freeze workflow, and two AI action experiments. Each reference includes a source link, choreography and camera notes, caveats, and an independently authored English Motion Prompt.
+
+[Full 2026-11-23 batch](references/runs/2026-11-23.md) · [Dated index](references/INDEX.md).
+
 A curated collection of high-quality fight scene references for AI video generation — martial arts, film, games, anime, stunt choreography, and AI-generated action videos.
 
 ## What this repository collects
