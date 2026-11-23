@@ -1,5 +1,27 @@
 # AI Action References
 
+## Added 2026-11-23 — 2 new source-linked references
+
+### 1. Frozen-Time School Corridor — Kling 4.0 Flash (Dr Bloodline)
+- Original watch: https://behindthegen.com/w/frozen-time-school-corridor-fight-from-one-kling-40-flash-prompt
+- Original creator/source: https://behindthegen.com/w/frozen-time-school-corridor-fight-from-one-kling-40-flash-prompt
+- Date/type: Creator-attributed @AiwithBloodline clip and one-prompt workflow posted 2026-10-18; approximately 15 seconds
+- Action design: Telekinetic protagonist stops charging attackers, books and a chair mid-air, then releases a directed shockwave. Not hand-to-hand realism; excels as an effect-timing / object-continuity stress case.
+- Camera/editing: The published workflow calls for a slow zoom during frozen time. Study exact foreground/background object persistence when the environment unfreezes.
+- AI-video takeaway: Split an overlong prose prompt into a freeze-state table for every prop and attacker; test the same 15 seconds with and without environment-object count constraints.
+- Verification: Third-party workflow attribution and model label Kling 4.0 Flash; not independently reproduced or checked against original raw creator post; page availability may vary.
+- Full independently written English Motion Prompt: [2026-11-23 curated batch](runs/2026-11-23.md)
+
+### 2. Seedance 2.0 动作场面测试(1) — Bilibili Single-Scene Action Prompt
+- Original watch: https://www.bilibili.com/video/BV1Mac4zgEwk/
+- Original creator/source: https://www.bilibili.com/video/BV1Mac4zgEwk/
+- Date/type: Bilibili video published 2026-02-11 11:10; self-described Seedance 2.0 action scene test
+- Action design: Page description proposes a close facial opening, then a protagonist facing multiple black-clad opponents with evasions, strikes and reactions. Treat these as creator prompt intentions, not guaranteed frame-perfect model behavior.
+- Camera/editing: A self-described John Wick-like continuous-take request with subtle handheld movement, close-up opening and rapid action; the brief also mentions close-ups/slow motion, so assess actual edit continuity rather than assume one unbroken take.
+- AI-video takeaway: Compare stated camera instructions with observed output: whether the camera truly stays continuous, attacks contact bodies, and dark-clad opponents persist across frames.
+- Verification: Bilibili page identifies upload date and contains AI-generated-content disclosure; model claim originates in the creator's title and is not independently replicated.
+- Full independently written English Motion Prompt: [2026-11-23 curated batch](runs/2026-11-23.md)
+
 ## Added 2026-11-22 — 2 source-linked references
 
 ### 1. Silhouetted Swordsman vs Sequential Monsters — Volodymyr Cherner / Seedance 2.0
