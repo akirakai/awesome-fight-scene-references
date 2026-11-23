@@ -1,5 +1,27 @@
 # Stunt & Choreography References
 
+## Added 2026-11-23 — 2 new source-linked references
+
+### 1. Gareth Evans' FEUDAL — XYZ Films Original Fight Previsualization
+- Original watch: https://vimeo.com/575085756
+- Original creator/source: https://www.youtube.com/watch?v=wj43MK4ZpaE
+- Date/type: XYZ Films / XYZ Next creator-hosted classic action previs (publication year not verified)
+- Action design: Hannah Al Rashid, Yayan Ruhian and Cecep Arif Rahman in a civil-war treaty-delivery premise; choreography credited to Yayan Ruhian, Cecep Arif Rahman and Gareth Evans. A rare high-quality grounded fight-previs reference.
+- Camera/editing: Director Gareth Evans also shot and edited the previsualization. It can teach how camera placement and choreography are designed together before polished cinematography.
+- AI-video takeaway: Lock geography and choreography in previs before changing the camera or visual style; an objective (protect the treaty) determines movement and character choices.
+- Verification: XYZ Films-owned Vimeo and matching YouTube creator source credit cast, director and choreographers. Exact timecodes were not frame-verified.
+- Full independently written English Motion Prompt: [2026-11-23 curated batch](runs/2026-11-23.md)
+
+### 2. Temporal Takedown — Martin Sofiedal Practical Fight / Phone-Previs Workflow
+- Original watch: https://www.youtube.com/watch?v=RU3pcHFClP0
+- Original creator/source: https://filmshortage.com/dailyshortpicks/temporal-takedown/
+- Date/type: Creator's live-action sci-fi short featured in Film Shortage's October 2026 picks; date of original YouTube upload not independently verified
+- Action design: A fighter manipulates multiple attackers for one-second intervals of frozen time inside an auto workshop. Director says actors designed/performed choreography and filmed a phone-camera gym previs before production.
+- Camera/editing: The production explicitly used phone-shot beat-by-beat previs to plan angles and transitions, then shot in an Oslo car workshop; review how freeze-time remains an intelligible spatial device.
+- AI-video takeaway: Treat time freeze as a clear, rule-based event: moving objects stop simultaneously, one character alters one thing, and the release produces visible consequence; preserve environment layout.
+- Verification: Filmmaker interview hosted by Film Shortage identifies the choreography and previs workflow. Direct YouTube watch URL extracted from their embedded player; playable status may vary.
+- Full independently written English Motion Prompt: [2026-11-23 curated batch](runs/2026-11-23.md)
+
 ## Added 2026-11-22 — 2 source-linked references
 
 ### 1. Brian Danner — Sword Fights Inc. Stunt / Weapons Demonstration Reel
