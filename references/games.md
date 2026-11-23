@@ -1,5 +1,17 @@
 # Game Action References
 
+## Added 2026-11-23 — 1 new source-linked references
+
+### 1. Lost Soul Aside — PlayStation Official Weapons Trailer
+- Original watch: https://www.youtube.com/watch?v=X8wvBb0zRWQ
+- Original creator/source: https://www.playstation.com/ja-jp/games/lost-soul-aside/
+- Date/type: PlayStation Asia official video 2025-08-04; developer Ultizero Games, multiple weapon combat styles
+- Action design: Four contrasting weapons (sword, greatsword, poleblade, scythe) and fast switches mid-combo. Reach and recovery differ materially from weapon to weapon.
+- Camera/editing: An edited gameplay trailer, not a continuous duel. Third-person fighting grammar is useful for planning a single fixed-axis attack, switch, and ending stance.
+- AI-video takeaway: When changing from short to long reach, explicitly show the weapon transformation/switch and maintain its ownership. Do not hide an impossible instant swap in motion blur.
+- Verification: Uploader PlayStation Asia and game's official PlayStation page confirm weapon types and the system.
+- Full independently written English Motion Prompt: [2026-11-23 curated batch](runs/2026-11-23.md)
+
 ## Added 2026-11-22 — 1 source-linked references
 
 ### 1. Nioh 3 — Team NINJA Official 17-Minute Gameplay Showcase
