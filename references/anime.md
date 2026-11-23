@@ -1,5 +1,17 @@
 # Anime Action References
 
+## Added 2026-11-23 — 1 new source-linked references
+
+### 1. PUNCH PUNCH FOREVER Ep4 — Holes of Glory (Speedoru)
+- Original watch: https://www.newgrounds.com/portal/view/1063850
+- Original creator/source: https://www.youtube.com/watch?v=oW0mvGTReSU
+- Date/type: Creator Speedo original Newgrounds upload 2026-11-22 (5:57 PM EST); episode is labeled Ep4 on the creator page, despite inconsistent secondary episode lists
+- Action design: A retro-styled martial-arts tournament comedy escalates into a deadly gameshow obstacle course. Use the premise to study high-impact graphic poses, threat changes and comedic reversals, rather than asserting unverified specific punch counts.
+- Camera/editing: Animated 4:3 retro visual framing can make foreground obstruction, holds and sudden bursts read sharply. These are study targets, not precise shot notes.
+- AI-video takeaway: Alternate one strong key pose, one fast action burst, one absurd consequence and a hold for the gag. Keep subjects within the retro frame and do not clone a living artist's characters.
+- Verification: Creator-authored Newgrounds page, staff credits and Nov 22 timestamp verified; same page supplies the YouTube link.
+- Full independently written English Motion Prompt: [2026-11-23 curated batch](runs/2026-11-23.md)
+
 ## Added 2026-11-22 — 1 source-linked references
 
 ### 1. Gintama — Kagura Snaps! (Crunchyroll Official Episode 142 Clip)
