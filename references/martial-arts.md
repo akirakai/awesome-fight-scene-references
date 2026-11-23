@@ -1,5 +1,27 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-23 — 2 new source-linked references
+
+### 1. Superjeng Torfunfarm vs Wuttikrai Wor Chakrawut — ONE Friday Fights 179 KO Highlights
+- Original watch: https://www.instagram.com/p/Df-DtQ2m4qv/
+- Original creator/source: https://www.onefc.com/events/one-friday-fights-179/
+- Date/type: 2026-11-20 bout; ONE Championship-hosted Instagram highlights, linked from the official completed event page
+- Action design: A real Muay Thai exchange built around outside low kicks, an attempted forward counter, a flying knee and follow-up body/uppercut combinations; the second-round KO is officially reported. Distinguish the earlier first-round exchange from the final knockout.
+- Camera/editing: Competition coverage keeps both fighters' distance readable; highlight edits may intercut several moments, so study individual continuous exchanges rather than inventing one uncut sequence.
+- AI-video takeaway: Make distance, entry, first contact, the defender's response, and a guard reset observable. Do not convert an official highlight compilation into a false one-take.
+- Verification: Official ONE event links directly to this Instagram highlight. The bout was Nov 20; detailed strike descriptions are from ONE's Nov 21 reporting, not independent frame annotation.
+- Full independently written English Motion Prompt: [2026-11-23 curated batch](runs/2026-11-23.md)
+
+### 2. Nikita Tarnakin vs Yusuf Eren Temizel — WKF Karate One Rome 2026 Kumite
+- Original watch: https://www.youtube.com/watch?v=fdhl4WHlAWw
+- Original creator/source: https://www.wkf.net/karate-one/championship/%21/422/2026-karate-one-premier-league-rome
+- Date/type: Official World Karate Federation YouTube upload 2026-03-27; 2026 Rome Karate One Premier League men's -84kg round-robin bout
+- Action design: Point-karate timing: feints, probing distance, sudden explosive entry and immediate retraction/reset. High-value contrast against boxing or Muay Thai continuous exchanges.
+- Camera/editing: Tournament view is suited to comparing lunge distance and retreat in the same screen axis. Avoid treating referee breaks as uninterrupted action.
+- AI-video takeaway: A short-burst attack should visibly terminate with stance recovery and a new measured distance instead of feeding an infinite combo.
+- Verification: Official verified WKF channel and WKF's championship page confirm the bout. No frame-accurate strike log was made.
+- Full independently written English Motion Prompt: [2026-11-23 curated batch](runs/2026-11-23.md)
+
 ## Added 2026-11-22 — 2 source-linked references
 
 ### 1. 4th IWUF Taolu World Cup 2026 — 9.80 Changquan Gold Routine
