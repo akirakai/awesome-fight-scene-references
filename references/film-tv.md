@@ -1,5 +1,27 @@
 # Film / TV Action References
 
+## Added 2026-11-23 — 2 new source-linked references
+
+### 1. ARIA — Hugo Will Sci-Fi Action Short / Practical Stunt Extraction
+- Original watch: https://www.youtube.com/watch?v=SYkk-x2CxyM
+- Original creator/source: https://www.youtube.com/watch?v=SYkk-x2CxyM
+- Date/type: Filmmaker-channel upload dated 2024-07-04, although the on-page title contains '(2025)'; independently produced narrative short
+- Action design: An extraction mission becomes pursuit and close-quarters survival. Credited stunt/fight coordinator Tony Surphman and a larger previs team make it a useful practical-action production reference.
+- Camera/editing: Use the film's explicit practical-stunt/cinematography intent to study how corridor, stairs and chase geometry can be covered. Precise shot-by-shot edits were not independently verified.
+- AI-video takeaway: Build an extraction objective before the first hit; give the character a persistent carried object and preserve it through entrances, stairs and opponent transitions.
+- Verification: Direct filmmaker-channel video with crew credits. Channel's upload date and title year disagree; neither is represented as the shooting year.
+- Full independently written English Motion Prompt: [2026-11-23 curated batch](runs/2026-11-23.md)
+
+### 2. THE LAST PROMISE — Hanzi Nexus Martial-Arts Narrative Short
+- Original watch: https://www.youtube.com/watch?v=8HCZ9IXwesc
+- Original creator/source: https://zolotube.com/watch?v=8HCZ9IXwesc
+- Date/type: Hanzi Nexus video cataloged as published 2026-10-21; listed as a full approximately 9-minute martial arts short
+- Action design: An original narrative framed by loss, loyalty and a promise rather than an isolated display of strikes. Study how a personal stake changes the meaning of an exchange and the final pause.
+- Camera/editing: Use the full-film presentation to compare action beats against setup/reaction beats; specific camera angles are a study suggestion, not a verified shot transcript.
+- AI-video takeaway: Prompt action with a motive, single decisive exchange and a quiet outcome. Prioritize readable emotional pauses over non-stop attacks.
+- Verification: Third-party video catalog preserves a YouTube watch ID and attributes to Hanzi Nexus; the YouTube page was not independently readable in this session, so link availability is not guaranteed.
+- Full independently written English Motion Prompt: [2026-11-23 curated batch](runs/2026-11-23.md)
+
 ## Added 2026-11-22 — 2 source-linked references
 
 ### 1. BRAWLER — Martial Arts Action Short Film (4K)
