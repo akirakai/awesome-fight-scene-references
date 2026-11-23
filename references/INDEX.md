@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-23 — 10 curated fight / motion references
+
+- **martial-arts (2):** Superjeng Torfunfarm vs Wuttikrai Wor Chakrawut — ONE Friday Fights 179 KO Highlights; Nikita Tarnakin vs Yusuf Eren Temizel — WKF Karate One Rome 2026 Kumite.
+- **film-tv (2):** ARIA — Hugo Will Sci-Fi Action Short / Practical Stunt Extraction; THE LAST PROMISE — Hanzi Nexus Martial-Arts Narrative Short.
+- **games (1):** Lost Soul Aside — PlayStation Official Weapons Trailer.
+- **anime (1):** PUNCH PUNCH FOREVER Ep4 — Holes of Glory (Speedoru).
+- **stunt-choreography (2):** Gareth Evans' FEUDAL — XYZ Films Original Fight Previsualization; Temporal Takedown — Martin Sofiedal Practical Fight / Phone-Previs Workflow.
+- **ai-action (2):** Frozen-Time School Corridor — Kling 4.0 Flash (Dr Bloodline); Seedance 2.0 动作场面测试(1) — Bilibili Single-Scene Action Prompt.
+
+[Full 2026-11-23 watch links, choreography/camera notes, source caveats, and 10 original English Motion Prompts](runs/2026-11-23.md).
+
 ## 2026-11-22 — 10 new references, six categories
 
 - **martial-arts (2):** 4th IWUF Taolu World Cup 2026 — 9.80 Changquan Gold Routine; 4th IWUF Taolu World Cup 2026 — Men's Nanquan Top Three Compilation.
