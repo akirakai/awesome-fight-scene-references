@@ -1,5 +1,29 @@
 # Film / TV Action References
 
+## Added 2026-11-24 — 2 new source-linked references
+
+### 1. ENDLESS (EXTENDED) — Dhruv Maitra martial arts short
+- Original watch: https://www.youtube.com/watch?v=TDydXIcjC9w
+- Original creator/source: https://www.youtube.com/watch?v=TDydXIcjC9w
+- Date/type: 2026-02-26; director upload
+- Action design: 双人武术短片；创作者强调动作与情绪结合，值得研究连续交锋如何推进角色状态。
+- Camera / editing: 导演兼剪辑，摄影 Avishek Sikdar；建议对照动作中景和情绪反应镜头，具体切点未核验。
+- AI-video takeaway: 用动作的情绪变化组织节奏，不以随机碎切代替表演。
+- Tags: indie,martial-arts,emotion
+- Full independent motion prompt and provenance: [2026-11-24 curated batch](runs/2026-11-24.md)
+
+
+### 2. BEAST (2026) — MMA Championship Fight Scene
+- Original watch: https://www.youtube.com/watch?v=6Qa-pk4YZ7E
+- Original creator/source: https://www.youtube.com/watch?v=6Qa-pk4YZ7E
+- Date/type: 2026-04-06 clip; JoBlo Movie Clips, footage credited to Lionsgate/Rialto
+- Action design: 擂台剧情对抗；适合研究体力变化、角色反应与观众感知的比赛节奏。
+- Camera / editing: 正片节选；建议比较双人中景、面部反应与场地建立镜头，具体镜头未逐帧核验。
+- AI-video takeaway: 在同一场地锁定围栏、灯光和人物，动作与情绪连续。
+- Tags: MMA,film,cage,emotion
+- Full independent motion prompt and provenance: [2026-11-24 curated batch](runs/2026-11-24.md)
+
+
 ## Added 2026-11-23 — 2 new source-linked references
 
 ### 1. ARIA — Hugo Will Sci-Fi Action Short / Practical Stunt Extraction
