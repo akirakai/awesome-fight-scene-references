@@ -1,5 +1,29 @@
 # Stunt & Choreography References
 
+## Added 2026-11-24 — 2 new source-linked references
+
+### 1. Alex vs Jim & Laurie — Asylum Stunts Test Fight
+- Original watch: https://vimeo.com/6888985
+- Original creator/source: https://vimeo.com/6888985
+- Date/type: Classic LBP Stunts Chicago upload; exact publication date not verified
+- Action design: 专业二对一动作测试，适合分析三人站位和主次动作焦点。
+- Camera / editing: 由团队动作指导与剪辑；建议从中大全景检查每位演员的连续位置。
+- AI-video takeaway: 三人场面固定身份、入画顺序与空间关系，避免复制或瞬移。
+- Tags: stunt,2-on-1,blocking
+- Full independent motion prompt and provenance: [2026-11-24 curated batch](runs/2026-11-24.md)
+
+
+### 2. Break Things and Run — Fight Choreography & Stunts
+- Original watch: https://www.youtube.com/watch?v=UppmiGUUeM8
+- Original creator/source: https://www.youtube.com/watch?v=UppmiGUUeM8
+- Date/type: 2026-05-09; stunt performer Tim Rook upload
+- Action design: 短片动作节选，上传者参与编舞和表演；强调时机、反应、安全与摄影位置。
+- Camera / editing: 适合研究表演者反应和摄影位置的配合；实际镜头顺序未逐帧核验。
+- AI-video takeaway: 以安全排练式动作与可见反应为主，剪辑用于加强节奏而非遮挡错误。
+- Tags: stunt,short-film,timing
+- Full independent motion prompt and provenance: [2026-11-24 curated batch](runs/2026-11-24.md)
+
+
 ## Added 2026-11-23 — 2 new source-linked references
 
 ### 1. Gareth Evans' FEUDAL — XYZ Films Original Fight Previsualization
