@@ -1,5 +1,29 @@
 # Anime Action References
 
+## Added 2026-11-24 — 2 new source-linked references
+
+### 1. Clevatess II — Ray vs Klen
+- Original watch: https://www.youtube.com/watch?v=cbntl27YuxU
+- Original creator/source: https://www.youtube.com/watch?v=cbntl27YuxU
+- Date/type: 2026-11-21; Crunchyroll official episode 8 clip
+- Action design: 带有过往恩怨的对决，适合研究人物动机与攻防节奏的联系；具体招式未逐帧核验。
+- Camera / editing: 官方正片片段；建议关注关键姿势、反应镜头和屏幕方向。
+- AI-video takeaway: 以情绪和动作结果作为切镜依据，保持人物外形与相对位置。
+- Tags: anime,rivalry,2026
+- Full independent motion prompt and provenance: [2026-11-24 curated batch](runs/2026-11-24.md)
+
+
+### 2. BUCCHIGIRI?! — The Final Battle We Deserve
+- Original watch: https://www.youtube.com/watch?v=cDwj3d_LkS0
+- Original creator/source: https://www.youtube.com/watch?v=cDwj3d_LkS0
+- Date/type: 2024-04-07; Crunchyroll official episode 12 clip
+- Action design: 童年好友最终对决，官方简介强调踢与拳的风格反差。
+- Camera / editing: 建议观察两种动作的轮廓、蓄势与冲击帧如何形成对照；具体切点未核验。
+- AI-video takeaway: 给两名角色各自独立动作语言，避免生成镜像式同步攻击。
+- Tags: anime,contrast,impact-frame
+- Full independent motion prompt and provenance: [2026-11-24 curated batch](runs/2026-11-24.md)
+
+
 ## Added 2026-11-23 — 1 new source-linked references
 
 ### 1. PUNCH PUNCH FOREVER Ep4 — Holes of Glory (Speedoru)
