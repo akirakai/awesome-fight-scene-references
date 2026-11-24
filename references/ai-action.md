@@ -1,5 +1,29 @@
 # AI Action References
 
+## Added 2026-11-24 — 2 new source-linked references
+
+### 1. The duel — Jaime Yao / Flick, Seedance 2.5
+- Original watch: https://flick.art/film/the-duel-1c01b2
+- Original creator/source: https://flick.art/blog/how-to-choreograph-a-fight-scene-with-ai
+- Date/type: 2026-10 workflow article; 30 seconds, 21:9, 720p; creator-reported
+- Action design: 剑与长枪武侠对决；公开三张参考图、分镜时间窗和动作反馈拆分方法。
+- Camera / editing: 工作流明确编号镜头、独立摄影约束、实时节奏；来源为制作团队自述。
+- AI-video takeaway: 角色、场景、道具参考图分工；分镜动作结果与后续状态一致，不强制慢动作。
+- Tags: AI,Seedance-2.5,wuxia,shot-timing
+- Full independent motion prompt and provenance: [2026-11-24 curated batch](runs/2026-11-24.md)
+
+
+### 2. I Made This Superhero Fight With AI — JSFILMZ / Seedance 2.5
+- Original watch: https://www.youtube.com/watch?v=6_A6qqdbJ8g
+- Original creator/source: https://www.youtube.com/watch?v=6_A6qqdbJ8g
+- Date/type: 2026-11-06; creator upload, model attribution self-reported
+- Action design: 超能力英雄对抗；作者介绍用角色参考图、文本提示词和第二角色构建动作。
+- Camera / editing: Shorts 展示；建议研究角色与能力的视觉归属，具体运镜未逐帧核验。
+- AI-video takeaway: 把每种能力绑定到指定角色；先测试无兵器的身份一致性和特效方向。
+- Tags: AI,Seedance-2.5,superhero,identity
+- Full independent motion prompt and provenance: [2026-11-24 curated batch](runs/2026-11-24.md)
+
+
 ## Added 2026-11-23 — 2 new source-linked references
 
 ### 1. Frozen-Time School Corridor — Kling 4.0 Flash (Dr Bloodline)
