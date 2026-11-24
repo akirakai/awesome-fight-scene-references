@@ -1,5 +1,18 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-24 — 1 new source-linked references
+
+### 1. Sergo Alpaidze vs Luka Popiashvili — Eurasian Professional Sanda League
+- Original watch: https://euwushu.tv/videos/sergo-alpaidze-vs-luka-popiashvili
+- Original creator/source: https://euwushu.tv/videos/sergo-alpaidze-vs-luka-popiashvili
+- Date/type: 2026-02-14 bout; published 2026-02-16; 4:47
+- Action design: 真实散打对抗；关注双方进退、距离调整、身体平衡与攻防间隔。
+- Camera / editing: 赛事录像，建议选连续双人全身段，避开回放剪辑。
+- AI-video takeaway: 以真实步幅和重心恢复为基准，保持双方身份和位置。
+- Tags: sanda,sports,footwork
+- Full independent motion prompt and provenance: [2026-11-24 curated batch](runs/2026-11-24.md)
+
+
 ## Added 2026-11-23 — 2 new source-linked references
 
 ### 1. Superjeng Torfunfarm vs Wuttikrai Wor Chakrawut — ONE Friday Fights 179 KO Highlights
