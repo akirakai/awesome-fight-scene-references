@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-24 — 10 curated fight / motion references
+
+- **martial-arts (1):** Sergo Alpaidze vs Luka Popiashvili — Eurasian Professional Sanda League.
+- **film-tv (2):** ENDLESS (EXTENDED) — Dhruv Maitra martial arts short; BEAST (2026) — MMA Championship Fight Scene.
+- **games (1):** Valor Mortis — Official Gameplay Overview.
+- **anime (2):** Clevatess II — Ray vs Klen; BUCCHIGIRI?! — The Final Battle We Deserve.
+- **stunt-choreography (2):** Alex vs Jim & Laurie — Asylum Stunts Test Fight; Break Things and Run — Fight Choreography & Stunts.
+- **ai-action (2):** The duel — Jaime Yao / Flick, Seedance 2.5; I Made This Superhero Fight With AI — JSFILMZ / Seedance 2.5.
+
+[Full 2026-11-24 watch links, camera notes, caveats and original English Motion Prompts](runs/2026-11-24.md).
+
 ## 2026-11-23 — 10 curated fight / motion references
 
 - **martial-arts (2):** Superjeng Torfunfarm vs Wuttikrai Wor Chakrawut — ONE Friday Fights 179 KO Highlights; Nikita Tarnakin vs Yusuf Eren Temizel — WKF Karate One Rome 2026 Kumite.
