@@ -1,10 +1,10 @@
 # Awesome Fight Scene References
 
-## Latest additions — 2026-11-23
+## Latest additions — 2026-11-24
 
-**10 curated action references across all six categories (2 / 2 / 1 / 1 / 2 / 2).** Highlights: ONE Friday Fights 179's Nov 20 bout, the newly released Nov 22 *Punch Punch Forever* episode, Gareth Evans' *FEUDAL* professional fight previs, *Temporal Takedown*'s phone-previs/time-freeze workflow, and two AI action experiments. Each reference includes a source link, choreography and camera notes, caveats, and an independently authored English Motion Prompt.
+**10 curated action references across six categories.** Highlights: Crunchyroll's Nov 21 Clevatess II clip, first-person Valor Mortis gameplay, Asylum Stunts' two-on-one test, and Jaime Yao's Seedance 2.5 wuxia workflow.
 
-[Full 2026-11-23 batch](references/runs/2026-11-23.md) · [Dated index](references/INDEX.md).
+[Full 2026-11-24 batch](references/runs/2026-11-24.md) · [Dated index](references/INDEX.md).
 
 A curated collection of high-quality fight scene references for AI video generation — martial arts, film, games, anime, stunt choreography, and AI-generated action videos.
 
