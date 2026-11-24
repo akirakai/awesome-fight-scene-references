@@ -1,5 +1,18 @@
 # Game Action References
 
+## Added 2026-11-24 — 1 new source-linked references
+
+### 1. Valor Mortis — Official Gameplay Overview
+- Original watch: https://www.youtube.com/watch?v=-COqxeiVYO0
+- Original creator/source: https://www.gamespress.com/Valor-Mortis-Gameplay-Overview-Trailer-Breaks-Down-Combat-Weapons-and-
+- Date/type: 2026-09-30 publisher announcement and trailer
+- Action design: 官方说明展示第一人称近战、招架、反击、盾牌法术及移动能力。
+- Camera / editing: 第一人称实机与解说剪辑；适合观察镜头如何跟随玩家动作和敌方反馈。
+- AI-video takeaway: 测试第一人称手部、道具、视点与环境的连续性，不把多个剪辑段当成单一镜头。
+- Tags: first-person,game,parry,magic
+- Full independent motion prompt and provenance: [2026-11-24 curated batch](runs/2026-11-24.md)
+
+
 ## Added 2026-11-23 — 1 new source-linked references
 
 ### 1. Lost Soul Aside — PlayStation Official Weapons Trailer
