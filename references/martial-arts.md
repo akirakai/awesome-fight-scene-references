@@ -1,5 +1,18 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-25 — 1 new source-linked references
+
+### 1. Wushu Makes Its Youth Olympic Debut — Dakar 2026 Highlights
+- Original watch: https://www.youtube.com/watch?v=-bevweuDXbA
+- Original creator/source: https://www.youtube.com/watch?v=-bevweuDXbA
+- Date/type: 2026-11-15; Olympic Games official montage
+- Action design: 套路展示包含徒手、器械、跳跃与平衡；优先研究单个完整姿势及重心变化。可能与库内个别运动员的独立表演有画面交集，但这是独立的官方集锦。
+- Camera / editing: 集锦并非连续对抗；建议截取同一运动员的全身画面，避免跨镜头拼接为单一动作。
+- AI-video takeaway: 全身轮廓、起跳与落地连续性，服装与器械不变。
+- Tags: wushu,taolu,Olympics,full-body
+- Full independent motion prompt and provenance: [2026-11-25 curated batch](runs/2026-11-25.md)
+
+
 ## Added 2026-11-24 — 1 new source-linked references
 
 ### 1. Sergo Alpaidze vs Luka Popiashvili — Eurasian Professional Sanda League
