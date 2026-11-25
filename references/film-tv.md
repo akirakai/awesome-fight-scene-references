@@ -1,5 +1,30 @@
 # Film / TV Action References
 
+## Added 2026-11-25 — 2 new source-linked references
+
+### 1. FIGHT OR FLIGHT — Godefroy Ryckewaert
+- Original watch: https://www.youtube.com/watch?v=eE9-xoolX1s
+- Original creator/source: https://www.youtube.com/watch?v=eE9-xoolX1s
+- Supporting source: https://filmcombatsyndicate.com/fight-or-flight-three-minutes-thirty-stunt-guys-tons-of-action-in-godefroy-ryckewaerts-new-short/
+- Date/type: 2023-07-18; director upload; about 3 minutes
+- Action design: 约30名特技学员参与的动作短片；多人编舞是主要研究方向。
+- Camera / editing: 导演兼摄影剪辑；建议观察群体全景、主角动作中景和切镜后的人物方位，非逐帧镜头记录。
+- AI-video takeaway: 多人场景中每个动作节拍只有一个主要视觉焦点，群演保持独立位置。
+- Tags: stunt-school,group-action,indie
+- Full independent motion prompt and provenance: [2026-11-25 curated batch](runs/2026-11-25.md)
+
+
+### 2. THE LESSON — 60-second Action Comedy
+- Original watch: https://www.youtube.com/watch?v=keffogkvQPY
+- Original creator/source: https://www.youtube.com/watch?v=keffogkvQPY
+- Date/type: 2023-08-26; director upload; 60 seconds
+- Action design: 师徒武术动作喜剧，创作者称仅用一小时准备、四小时拍摄；适合研究人物关系与喜剧反转。
+- Camera / editing: 同一创作者负责摄影、编舞和剪辑；建议标注动作铺垫、结果和表情反应的切点。
+- AI-video takeaway: 短片中保留清楚的动作笑点，避免无目的的连招。
+- Tags: action-comedy,master-student,short
+- Full independent motion prompt and provenance: [2026-11-25 curated batch](runs/2026-11-25.md)
+
+
 ## Added 2026-11-24 — 2 new source-linked references
 
 ### 1. ENDLESS (EXTENDED) — Dhruv Maitra martial arts short
