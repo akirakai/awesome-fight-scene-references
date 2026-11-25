@@ -1,5 +1,29 @@
 # AI Action References
 
+## Added 2026-11-25 — 2 new source-linked references
+
+### 1. Zombie Apocalypse Tunnel Battle — Worlds of Tomorrow EP03
+- Original watch: https://www.youtube.com/watch?v=vVTRI4BTUy8
+- Original creator/source: https://www.youtube.com/watch?v=vVTRI4BTUy8
+- Date/type: 2026-04-27; creator-reported Seedance 2.0 plus Kling 3.0; action chapter at 0:18
+- Action design: 创作者展示隧道中的虚构怪物与武术角色交锋；按镜头生成并剪辑，作者标注0:18开始武术段落。
+- Camera / editing: 创作者描述采用电影宽银幕质感、24fps与多镜头制作；未经独立逐帧核验。
+- AI-video takeaway: 以同一角色与隧道空间参考图约束多个镜头；分开检验动作、光线和音效。
+- Tags: AI,Seedance-2.0,Kling-3.0,tunnel
+- Full independent motion prompt and provenance: [2026-11-25 curated batch](runs/2026-11-25.md)
+
+
+### 2. RESCUE — Seedance 2.0 First Test / AntVideograph
+- Original watch: https://www.youtube.com/watch?v=ojvGawszI90
+- Original creator/source: https://www.youtube.com/watch?v=ojvGawszI90
+- Date/type: 2026-03-25; creator-reported Seedance 2.0 video and Gemini Nano Banana 2 images
+- Action design: 创作者发布的救援主题AI打斗实验；模型与图像生成工具有明确标注，具体招式未逐帧核验。
+- Camera / editing: 建议检查分镜中人物身份、运动方向和背景连续性；原始摄影参数未披露。
+- AI-video takeaway: 用同一组人物图与场景图测试连续镜头，不将模型自述视为独立基准。
+- Tags: AI,Seedance-2.0,Nano-Banana-2,rescue
+- Full independent motion prompt and provenance: [2026-11-25 curated batch](runs/2026-11-25.md)
+
+
 ## Added 2026-11-24 — 2 new source-linked references
 
 ### 1. The duel — Jaime Yao / Flick, Seedance 2.5
