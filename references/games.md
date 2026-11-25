@@ -1,5 +1,18 @@
 # Game Action References
 
+## Added 2026-11-25 — 1 new source-linked references
+
+### 1. The First Berserker: Khazan — Yetuga Boss Fight
+- Original watch: https://www.youtube.com/watch?v=Vl4nrqhs7yo
+- Original creator/source: https://www.youtube.com/watch?v=Vl4nrqhs7yo
+- Date/type: 2025-03-24; PowerPyx gameplay; normal difficulty
+- Action design: 首个Boss的完整单人战斗录像，无援助灵体；适合研究大型敌人与玩家的体型关系及攻防节拍。
+- Camera / editing: 第三人称游戏视角，建议分析双方距离变化与摄影机如何保留目标，避免直接复制HUD。
+- AI-video takeaway: 大型角色尺寸恒定、重心变化可读、运动前后方向统一。
+- Tags: boss-fight,third-person,scale
+- Full independent motion prompt and provenance: [2026-11-25 curated batch](runs/2026-11-25.md)
+
+
 ## Added 2026-11-24 — 1 new source-linked references
 
 ### 1. Valor Mortis — Official Gameplay Overview
