@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-25 — 10 curated fight / motion references
+
+- **martial-arts (1):** Wushu Makes Its Youth Olympic Debut — Dakar 2026 Highlights.
+- **film-tv (2):** FIGHT OR FLIGHT — Godefroy Ryckewaert; THE LESSON — 60-second Action Comedy.
+- **games (1):** The First Berserker: Khazan — Yetuga Boss Fight.
+- **anime (2):** Ruthless Blade — CAPSULES 2 / 胶囊计划：喵十一; Chronoa Wants All The Smoke — That Time I Got Reincarnated as a Slime.
+- **stunt-choreography (2):** Shawn Vs. Alex — Fight Choreography Test 2; FINAL NOTE — Behind the Scenes / Jett Action Design.
+- **ai-action (2):** Zombie Apocalypse Tunnel Battle — Worlds of Tomorrow EP03; RESCUE — Seedance 2.0 First Test / AntVideograph.
+
+[Full 2026-11-25 watch links, camera notes, caveats and original English Motion Prompts](runs/2026-11-25.md).
+
 ## 2026-11-24 — 10 curated fight / motion references
 
 - **martial-arts (1):** Sergo Alpaidze vs Luka Popiashvili — Eurasian Professional Sanda League.
