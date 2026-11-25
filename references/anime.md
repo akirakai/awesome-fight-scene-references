@@ -1,5 +1,30 @@
 # Anime Action References
 
+## Added 2026-11-25 — 2 new source-linked references
+
+### 1. Ruthless Blade — CAPSULES 2 / 胶囊计划：喵十一
+- Original watch: https://www.youtube.com/watch?v=skIoRG4B2hU
+- Original creator/source: https://www.youtube.com/watch?v=skIoRG4B2hU
+- Supporting source: https://www.polygon.com/what-to-watch/532850/ruthless-blade-donghua-animation-short-film
+- Date/type: 2025-02-14; Made By Bilibili official upload; about 12 minutes
+- Action design: 白虎剑客与神秘对手的梦境武侠对决，结合三维动画及二维纹理，动作具舞蹈般的造型感。
+- Camera / editing: 建议研究宽景空间、书法般动作轮廓和关键姿势之间的节奏；具体切点未逐帧确认。
+- AI-video takeaway: 三维动作与二维笔触分层，冲击效果不遮挡角色轮廓。
+- Tags: donghua,wuxia,2D-3D,ink
+- Full independent motion prompt and provenance: [2026-11-25 curated batch](runs/2026-11-25.md)
+
+
+### 2. Chronoa Wants All The Smoke — That Time I Got Reincarnated as a Slime
+- Original watch: https://www.youtube.com/watch?v=cP7rxFXxUII
+- Original creator/source: https://www.youtube.com/watch?v=cP7rxFXxUII
+- Date/type: 2026-09-13; Crunchyroll official episode 22 clip
+- Action design: 觉醒后主动寻求对抗的角色场面，适合研究角色状态改变和战斗动机；具体招式未核验。
+- Camera / editing: 官方正片节选；建议对照觉醒前后关键姿势、反应与镜头距离。
+- AI-video takeaway: 让超能力与表情、姿态变化相关联，而非随机闪光。
+- Tags: anime,awakening,fantasy
+- Full independent motion prompt and provenance: [2026-11-25 curated batch](runs/2026-11-25.md)
+
+
 ## Added 2026-11-24 — 2 new source-linked references
 
 ### 1. Clevatess II — Ray vs Klen
