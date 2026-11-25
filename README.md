@@ -1,10 +1,10 @@
 # Awesome Fight Scene References
 
-## Latest additions — 2026-11-24
+## Latest additions — 2026-11-25
 
-**10 curated action references across six categories.** Highlights: Crunchyroll's Nov 21 Clevatess II clip, first-person Valor Mortis gameplay, Asylum Stunts' two-on-one test, and Jaime Yao's Seedance 2.5 wuxia workflow.
+**10 curated action references across six categories.** Highlights: Olympic Games' November 15 wushu montage, Ruthless Blade, LBP cramped-space choreography, and creator-published Seedance action experiments.
 
-[Full 2026-11-24 batch](references/runs/2026-11-24.md) · [Dated index](references/INDEX.md).
+[Full 2026-11-25 batch](references/runs/2026-11-25.md) · [Dated index](references/INDEX.md).
 
 A curated collection of high-quality fight scene references for AI video generation — martial arts, film, games, anime, stunt choreography, and AI-generated action videos.
 
