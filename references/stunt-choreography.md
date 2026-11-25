@@ -1,5 +1,29 @@
 # Stunt & Choreography References
 
+## Added 2026-11-25 — 2 new source-linked references
+
+### 1. Shawn Vs. Alex — Fight Choreography Test 2
+- Original watch: https://vimeo.com/8036482
+- Original creator/source: https://vimeo.com/8036482
+- Date/type: Classic LBP Stunts Chicago upload; exact date not verified
+- Action design: 团队明确以狭小空间中的双人动作编排为测试目标。
+- Camera / editing: Emmanuel Manzanares 负责动作、摄影与剪辑；建议用固定中大全景对照狭窄空间中的遮挡与走位。
+- AI-video takeaway: 房间尺寸、墙面和人物相对位置锁定；镜头不能穿墙或令演员瞬移。
+- Tags: previs,cramped-space,blocking,LBP
+- Full independent motion prompt and provenance: [2026-11-25 curated batch](runs/2026-11-25.md)
+
+
+### 2. FINAL NOTE — Behind the Scenes / Jett Action Design
+- Original watch: https://www.youtube.com/watch?v=u5q-VdfhjlM
+- Original creator/source: https://www.youtube.com/watch?v=u5q-VdfhjlM
+- Date/type: 2026-09-12; production team's behind-the-scenes upload
+- Action design: 独立动作短片的真实排练、动作编排、摄影和制作幕后；不是完整连续格斗。
+- Camera / editing: 幕后素材可用于研究演员排练与摄影机位置之间的对应关系，具体器材与镜头路径未核验。
+- AI-video takeaway: 分别建立动作预演、摄影机路径和最终画面三个参考轨道。
+- Tags: BTS,previs,camera,indie
+- Full independent motion prompt and provenance: [2026-11-25 curated batch](runs/2026-11-25.md)
+
+
 ## Added 2026-11-24 — 2 new source-linked references
 
 ### 1. Alex vs Jim & Laurie — Asylum Stunts Test Fight
