@@ -1,5 +1,17 @@
 # References Index
 
+## 2026-11-26 — 10 curated fight / motion references
+
+- **martial-arts (1):** Musharaf Qayoom vs Zakaryan Avanes.
+- **film-tv (2):** STOP THE FIGHT — BEN EAGLE; Undercut — Apartment Fight.
+- **games (2):** God of War (2018) — Fabian Johnston Animation Reel; Black Myth: Zhong Kui — 15 Minutes Gameplay Trailer.
+- **anime (2):** Bojji vs Ouken — Ranking of Kings; Akudama Drive — SPEED (episode 4).
+- **stunt-choreography (2):** Betrayal — Anime Inspired Test Fight; LBP Fight Practice: 40 PLUS.
+- **ai-action (1):** Ragnarök: Clash of the Black Fjord — Kōda.
+
+[Full 2026-11-26 watch links, camera notes, caveats and original English Motion Prompts](runs/2026-11-26.md)
+
+
 ## 2026-11-25 — 10 curated fight / motion references
 
 - **martial-arts (1):** Wushu Makes Its Youth Olympic Debut — Dakar 2026 Highlights.
