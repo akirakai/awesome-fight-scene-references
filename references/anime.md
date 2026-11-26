@@ -1,5 +1,29 @@
 # Anime Action References
 
+## Added 2026-11-26 — 2 new source-linked references
+
+### 1. Bojji vs Ouken — Ranking of Kings
+- Original watch: https://www.youtube.com/watch?v=SgBhjWCajQU
+- Original creator/source: https://www.youtube.com/watch?v=SgBhjWCajQU
+- Date/type: 2022-02-25; Crunchyroll official episode 17 clip
+- Action design: 体型、速度和不死能力造成的角色反差；研究以不同动作语言体现角色特点。
+- Camera / editing: 建议比较关键姿势、角色反应和全景中的尺度；具体切点未核实。
+- AI-video takeaway: 小体型角色和大型对手保持比例，动画节拍由姿势而非乱切表达。
+- Tags: anime,contrast,poses
+- Full independent motion prompt and provenance: [2026-11-26 curated batch](runs/2026-11-26.md)
+
+### 2. Akudama Drive — SPEED (episode 4)
+- Original watch: https://www.crunchyroll.com/watch/G31UXQ8J3/speed
+- Original creator/source: https://www.crunchyroll.com/news/features/2025/11/23/late-to-the-party-akudama-drive
+- Date/type: 2020-10-29 original episode; official streaming, may require subscription
+- Action design: 新干线移动环境中的角色对抗；官方专题强调各角色运动语言差异。
+- Camera / editing: 建议观察车厢空间轴线、霓虹色彩和高速动作之间的关系；非独立片段。
+- AI-video takeaway: 不同角色采用不同运动节奏，移动背景方向保持统一。
+- Tags: anime,cyberpunk,train
+- Full independent motion prompt and provenance: [2026-11-26 curated batch](runs/2026-11-26.md)
+
+
+
 ## Added 2026-11-25 — 2 new source-linked references
 
 ### 1. Ruthless Blade — CAPSULES 2 / 胶囊计划：喵十一
