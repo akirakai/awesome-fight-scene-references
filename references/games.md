@@ -1,5 +1,29 @@
 # Game Action References
 
+## Added 2026-11-26 — 2 new source-linked references
+
+### 1. God of War (2018) — Fabian Johnston Animation Reel
+- Original watch: https://vimeo.com/275152806
+- Original creator/source: https://vimeo.com/275152806
+- Date/type: Animator portfolio; shot-by-shot notes; 2018 game
+- Action design: The Stranger 对决的关键帧与动捕混合；作者标注 00:26–00:31 为踢击混合动画，00:45–00:48 为环境碰撞混合动画。
+- Camera / editing: 作者负责角色和摄影机动画；可对照不同制作技术的镜头衔接。
+- AI-video takeaway: 先用动捕作为物理基础，再加入关键帧夸张与环境反馈。
+- Tags: mocap,keyframe,game,animation
+- Full independent motion prompt and provenance: [2026-11-26 curated batch](runs/2026-11-26.md)
+
+### 2. Black Myth: Zhong Kui — 15 Minutes Gameplay Trailer
+- Original watch: https://www.youtube.com/watch?v=oi2QgPH61JM
+- Original creator/source: https://www.gematsu.com/2026/08/black-myth-zhong-kui-15-minute-gameplay-trailer
+- Date/type: 2026-08-20; Game Science work-in-progress gameplay
+- Action design: 直剑格挡、克制的闪避和大型蚌形 Boss；强调动作的经济性。
+- Camera / editing: 21:9 实机画幅，第三人称构图；研究角色与大型目标的尺度关系。
+- AI-video takeaway: 小幅闪避与环境尺度稳定，清晰的动作前后状态。
+- Tags: boss,game,wuxia,third-person
+- Full independent motion prompt and provenance: [2026-11-26 curated batch](runs/2026-11-26.md)
+
+
+
 ## Added 2026-11-25 — 1 new source-linked references
 
 ### 1. The First Berserker: Khazan — Yetuga Boss Fight
