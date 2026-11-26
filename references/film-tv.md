@@ -1,5 +1,29 @@
 # Film / TV Action References
 
+## Added 2026-11-26 — 2 new source-linked references
+
+### 1. STOP THE FIGHT — BEN EAGLE
+- Original watch: https://www.youtube.com/watch?v=HcqSyObnByw
+- Original creator/source: https://gridvids.com/ben-eagle/brutal-showdown-when-fists-are-not-the-answer-ben-eagle-action-short-film-stop-the-fight
+- Date/type: 2026-11-07; creator-attributed action short; direct player throttled, directory confirms original link
+- Action design: 以昔日朋友冲突和和解为主题的动作短片；研究动作与人物关系变化。
+- Camera / editing: 建议对照双人全景与表情反应；具体镜头未核实。
+- AI-video takeaway: 动作场景具有情绪动机，结尾以关系变化收束。
+- Tags: action-drama,emotion,indie
+- Full independent motion prompt and provenance: [2026-11-26 curated batch](runs/2026-11-26.md)
+
+### 2. Undercut — Apartment Fight
+- Original watch: https://vimeo.com/25875978
+- Original creator/source: https://vimeo.com/25875978
+- Date/type: Classic independent film excerpt; exact upload date not verified
+- Action design: Stephen Reedy 导演，Eric Jacobus 与 The Stunt People 编舞；以公寓内的动作场面研究环境与角色调度。
+- Camera / editing: 建议用门框与房间边界作为镜头匹配参照；实际切点未逐帧核实。
+- AI-video takeaway: 固定房间布局，避免人物穿墙或换位突变。
+- Tags: apartment,indie,blocking
+- Full independent motion prompt and provenance: [2026-11-26 curated batch](runs/2026-11-26.md)
+
+
+
 ## Added 2026-11-25 — 2 new source-linked references
 
 ### 1. FIGHT OR FLIGHT — Godefroy Ryckewaert
