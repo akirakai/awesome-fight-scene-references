@@ -1,6 +1,13 @@
 # Awesome Fight Scene References
 
-## Latest additions — 2026-11-25
+## Latest additions — 2026-11-26
+
+**10 curated action references.** Highlights: Kōda's November 24 ice-cavern animation, creator-documented AI workflows, and professional action choreography.
+
+[Full 2026-11-26 batch](references/runs/2026-11-26.md) · [Dated index](references/INDEX.md).
+
+
+## Earlier additions — 2026-11-25
 
 **10 curated action references across six categories.** Highlights: Olympic Games' November 15 wushu montage, Ruthless Blade, LBP cramped-space choreography, and creator-published Seedance action experiments.
 
