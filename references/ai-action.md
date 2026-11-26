@@ -1,5 +1,19 @@
 # AI Action References
 
+## Added 2026-11-26 — 1 new source-linked references
+
+### 1. Ragnarök: Clash of the Black Fjord — Kōda
+- Original watch: https://dropday.ai/c/ragnar-k-clash-of-the-black-fjord
+- Original creator/source: https://x.com/aimikoda/status/2125321758056009751
+- Date/type: 2026-11-24; creator-attributed Midjourney v8.2, Seedance 2.5, Fable 5.2; original X returned 403
+- Action design: 冰洞内的双人奇幻对决，作品目录描述闪电与动态光照。
+- Camera / editing: 建议研究冰面反光、闪电时序及角色轮廓是否互相遮挡；未逐帧验证。
+- AI-video takeaway: 特效分层、环境反射与角色身份固定；模型归属来自创作者被转引的说明。
+- Tags: AI,Seedance-2.5,ice,VFX
+- Full independent motion prompt and provenance: [2026-11-26 curated batch](runs/2026-11-26.md)
+
+
+
 ## Added 2026-11-25 — 2 new source-linked references
 
 ### 1. Zombie Apocalypse Tunnel Battle — Worlds of Tomorrow EP03
