@@ -1,5 +1,19 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-26 — 1 new source-linked references
+
+### 1. Musharaf Qayoom vs Zakaryan Avanes
+- Original watch: https://euwushu.tv/videos/musharaf-qayoom-vs-zakaryan-avanes
+- Original creator/source: https://euwushu.tv/videos/musharaf-qayoom-vs-zakaryan-avanes
+- Date/type: 2026-02-16 upload; 2026-02-14 bout; 8:06
+- Action design: 职业散打真实对抗；观察双方距离、步伐和重心恢复，不把比赛剪辑当作编舞。
+- Camera / editing: 建议截取无遮挡的双人全身镜头，保持赛事机位作为动作基准。
+- AI-video takeaway: 真实运动惯性、足底接触和动作间隔。
+- Tags: sanda,sport,full-body
+- Full independent motion prompt and provenance: [2026-11-26 curated batch](runs/2026-11-26.md)
+
+
+
 ## Added 2026-11-25 — 1 new source-linked references
 
 ### 1. Wushu Makes Its Youth Olympic Debut — Dakar 2026 Highlights
