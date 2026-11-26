@@ -1,5 +1,29 @@
 # Stunt & Choreography References
 
+## Added 2026-11-26 — 2 new source-linked references
+
+### 1. Betrayal — Anime Inspired Test Fight
+- Original watch: https://vimeo.com/25733385
+- Original creator/source: https://vimeo.com/25733385
+- Date/type: Classic Vlad Rimburg / LBP Stunts test; exact date not verified
+- Action design: 将动画式动作风格转译成真人特技编舞；研究夸张姿势与表演节拍。
+- Camera / editing: Emmanuel Manzanares 摄影剪辑；建议比较完整肢体轮廓与冲击节拍。
+- AI-video takeaway: 真人动作和动漫式关键姿势融合，避免靠大量随机切镜制造速度感。
+- Tags: anime-inspired,stunt,previs
+- Full independent motion prompt and provenance: [2026-11-26 curated batch](runs/2026-11-26.md)
+
+### 2. LBP Fight Practice: 40 PLUS
+- Original watch: https://vimeo.com/870862128
+- Original creator/source: https://vimeo.com/870862128
+- Date/type: LBP Stunts Chicago creator upload; exact date not verified
+- Action design: 公园中的团队特技练习，研究多人配合与身体表演。
+- Camera / editing: 导演兼摄影剪辑；建议利用地面、树木等环境参照观察空间连续性。
+- AI-video takeaway: 不依赖复杂布景，检验角色身份、多人站位和运动连续性。
+- Tags: stunt,group,park
+- Full independent motion prompt and provenance: [2026-11-26 curated batch](runs/2026-11-26.md)
+
+
+
 ## Added 2026-11-25 — 2 new source-linked references
 
 ### 1. Shawn Vs. Alex — Fight Choreography Test 2
