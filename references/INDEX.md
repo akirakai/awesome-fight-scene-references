@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-27 — 10 curated fight / motion references
+
+- **martial-arts (2):** Wayland Li Wushu — Year of the Horse Gala Demo; This Tai Chi Performance Looks Unreal — 2026 Wushu World Cup.
+- **film-tv (1):** The Edge of Divergence — Hector Soria.
+- **games (1):** ARMATUS — The Ghoul & The Surgeon.
+- **anime (1):** Sword of the Stranger — No Name Defends Kotaro.
+- **stunt-choreography (3):** Temple of Temper — Ron Smoorenburg / Peter Richwesz; Mickey vs Alex — LBP Fight Practice 05.20.2010; Andy vs Keith — Martial Arts Fight Choreography Test 6.
+- **ai-action (2):** Cloth Screen Animation — Tim Jayas; WAR IS THE WORLD — PAPADU PAPADU / LoLoLumi88.
+
+[Full 2026-11-27 watch links, study notes and original English Motion Prompts](runs/2026-11-27.md)
+
 ## 2026-11-26 — 10 curated fight / motion references
 
 - **martial-arts (1):** Musharaf Qayoom vs Zakaryan Avanes.
