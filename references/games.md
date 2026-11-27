@@ -1,5 +1,18 @@
 # Game Action References
 
+## Added 2026-11-27 — 1 new source-linked references
+
+### ARMATUS — The Ghoul & The Surgeon
+
+- Category: games
+- Original watch / source: https://www.youtube.com/watch?v=xQVTlPZILa0
+- Supplementary source / creator: https://finalweapon.net/2026/11/10/armatus-reveals-the-ghoul-and-the-surgeon-boss-fights-in-new-trailer/
+- Date/type: 2026-11-10 official PlayStation gameplay; uninterrupted dual boss encounter
+- Action design / study: 同时应对两个 Boss 的第三人称演出；关注威胁轮换与不同角色的运动节奏。
+- Camera / editing: 官方描述为连续战斗；研究肩后视角如何在多个主体之间保持可读性。
+- AI-video takeaway: 双 Boss 各自维持身份与尺度；明确视觉焦点，不依赖随机切镜。
+- Full prompt and provenance: [2026-11-27 curated batch](runs/2026-11-27.md)
+
 ## Added 2026-11-26 — 2 new source-linked references
 
 ### 1. God of War (2018) — Fabian Johnston Animation Reel
