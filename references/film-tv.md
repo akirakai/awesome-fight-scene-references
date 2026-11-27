@@ -1,5 +1,17 @@
 # Film / TV Action References
 
+## Added 2026-11-27 — 1 new source-linked references
+
+### The Edge of Divergence — Hector Soria
+
+- Category: film-tv
+- Original watch / source: https://filmcombatsyndicate.com/the-edge-of-divergence-cuts-to-the-truth-in-new-award-winning-ninja-action-short-from-hector-soria/
+- Date/type: 2026-11-18 article with viewing entry; award-winning indie sci-fi action short; standalone video URL not exposed
+- Action design / study: 两名忍者营救同伴的剧情动机；研究合作角色与动作叙事。媒体报道获最佳科幻及最佳动作短片段落奖。
+- Camera / editing: 建议检查双人协作的建立镜头、反应镜头与动作衔接；实际切点未核验。
+- AI-video takeaway: 以明确任务串联动作，保持两名角色的身份及画面方向。
+- Full prompt and provenance: [2026-11-27 curated batch](runs/2026-11-27.md)
+
 ## Added 2026-11-26 — 2 new source-linked references
 
 ### 1. STOP THE FIGHT — BEN EAGLE
