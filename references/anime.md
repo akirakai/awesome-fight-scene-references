@@ -1,5 +1,17 @@
 # Anime Action References
 
+## Added 2026-11-27 — 1 new source-linked references
+
+### Sword of the Stranger — No Name Defends Kotaro
+
+- Category: anime
+- Original watch / source: https://www.youtube.com/watch?v=Mv_BqNqMRvQ
+- Date/type: 2010-01-21 third-party upload; early sequence from 2007 film; not official upload
+- Action design / study: 护送者与被保护者的关系使动作有明确目的；研究角色轮廓与动作前后情绪。
+- Camera / editing: 建议分析空间建立、关键姿势与反应镜头；不假定具体镜头切点。
+- AI-video takeaway: 将保护目标作为稳定空间锚点；手绘动画关键姿势与角色身份一致。
+- Full prompt and provenance: [2026-11-27 curated batch](runs/2026-11-27.md)
+
 ## Added 2026-11-26 — 2 new source-linked references
 
 ### 1. Bojji vs Ouken — Ranking of Kings
