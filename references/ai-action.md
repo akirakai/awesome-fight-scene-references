@@ -1,5 +1,30 @@
 # AI Action References
 
+## Added 2026-11-27 — 2 new source-linked references
+
+### Cloth Screen Animation — Tim Jayas
+
+- Category: ai-action
+- Original watch / source: https://dropday.ai/c/cloth-screen-animation
+- Supplementary source / creator: https://x.com/TimJayas
+- Date/type: 2026-11-20 creator-attributed post; AI-generated code animation, not text-to-video; original post reachable from listing but exact status URL unverified
+- Action design / study: 将二维格斗动画显示在虚拟布面上，含血条和日落城市背景；作者称布料物理和动画逻辑均由代码生成。
+- Camera / editing: 研究固定画面坐标中的角色运动与布面变形；具体摄影路径未核实。
+- AI-video takeaway: 将动作状态与屏幕物理分离，作为可控预演思路；模型版本据作者自述。
+- Full prompt and provenance: [2026-11-27 curated batch](runs/2026-11-27.md)
+
+
+### WAR IS THE WORLD — PAPADU PAPADU / LoLoLumi88
+
+- Category: ai-action
+- Original watch / source: https://dropday.ai/c/war-is-the-world
+- Supplementary source / creator: https://www.whatpeoplemade.com/i/a-surreal-ai-generated-war-broadcast-326632.html
+- Date/type: 2026-11-14 creator-attributed Seedance 2.5 / Midjourney short; multi-shot mecha action, not continuous hand-to-hand; original X entry on listing
+- Action design / study: 巨型机甲与海岸科幻场景；借鉴尺度对比、剪辑及音效同步。
+- Camera / editing: 广播插播式叙事框架；创作者说明使用 Premiere Pro 手工剪辑。
+- AI-video takeaway: 保持机械角色尺寸与环境一致，音效和剪辑单独处理，不把成片当单次生成。
+- Full prompt and provenance: [2026-11-27 curated batch](runs/2026-11-27.md)
+
 ## Added 2026-11-26 — 1 new source-linked references
 
 ### 1. Ragnarök: Clash of the Black Fjord — Kōda
