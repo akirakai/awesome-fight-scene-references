@@ -1,5 +1,28 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-27 — 2 new source-linked references
+
+### Wayland Li Wushu — Year of the Horse Gala Demo
+
+- Category: martial-arts
+- Original watch / source: https://www.youtube.com/watch?v=MkxYhPTq_ho
+- Date/type: 2026-02-08 upload; 2026-02-07 performance; school original
+- Action design / study: 群体武术套路展示，研究不同表演者的姿态与节奏同步。
+- Camera / editing: 建议选用全身可见的连续段落，区分表演队形转换与剪辑跳转。
+- AI-video takeaway: 多人身份与队形锁定，支撑脚和收势连续性。
+- Full prompt and provenance: [2026-11-27 curated batch](runs/2026-11-27.md)
+
+
+### This Tai Chi Performance Looks Unreal — 2026 Wushu World Cup
+
+- Category: martial-arts
+- Original watch / source: https://www.youtube.com/watch?v=N3cMfC2C_D0
+- Date/type: 2026-07-07 upload; third-party performance clip; event attribution from uploader
+- Action design / study: 太极拳的慢快对比、重心转移与平衡；不是双人打斗。
+- Camera / editing: 建议用稳定全身构图分析连续动作，不将剪辑视为真实时间。
+- AI-video takeaway: 测试流畅转体、重量转移与自然速度变化，不人为添加慢动作。
+- Full prompt and provenance: [2026-11-27 curated batch](runs/2026-11-27.md)
+
 ## Added 2026-11-26 — 1 new source-linked references
 
 ### 1. Musharaf Qayoom vs Zakaryan Avanes
