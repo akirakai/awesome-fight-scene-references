@@ -1,6 +1,12 @@
 # Awesome Fight Scene References
 
-## Latest additions — 2026-11-26
+## Latest additions — 2026-11-27
+
+**10 curated action references.** Highlights: ARMATUS uninterrupted dual boss gameplay, LBP snow/night choreography, and code-generated cloth-screen animation.
+
+[Full 2026-11-27 batch](references/runs/2026-11-27.md) · [Dated index](references/INDEX.md).
+
+## Earlier additions — 2026-11-26
 
 **10 curated action references.** Highlights: Kōda's November 24 ice-cavern animation, creator-documented AI workflows, and professional action choreography.
 
