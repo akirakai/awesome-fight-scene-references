@@ -1,5 +1,39 @@
 # Stunt & Choreography References
 
+## Added 2026-11-27 — 3 new source-linked references
+
+### Temple of Temper — Ron Smoorenburg / Peter Richwesz
+
+- Category: stunt-choreography
+- Original watch / source: https://vimeo.com/874140786
+- Date/type: Creator portfolio fight scene test; exact publication date unverified
+- Action design / study: 专业演员动作测试，编舞由 Ron Smoorenburg 负责；研究表演与动作摄影如何协作。
+- Camera / editing: 建议标注全身动作、反应及遮挡切点；具体镜头未逐帧核验。
+- AI-video takeaway: 用固定机位先验证动作，再引入动态跟拍。
+- Full prompt and provenance: [2026-11-27 curated batch](runs/2026-11-27.md)
+
+
+### Mickey vs Alex — LBP Fight Practice 05.20.2010
+
+- Category: stunt-choreography
+- Original watch / source: https://vimeo.com/11921808
+- Date/type: 2010-05-20 practice date in title; LBP Stunts Chicago original
+- Action design / study: 新搭档的基础动作测试，研究双人表演时机、距离与反应节拍。
+- Camera / editing: 先从连续全身片段提取动作，再比较不同景别；确切切点未核实。
+- AI-video takeaway: 适合作为低复杂度双人动作基准，保持角色朝向、重心和位置。
+- Full prompt and provenance: [2026-11-27 curated batch](runs/2026-11-27.md)
+
+
+### Andy vs Keith — Martial Arts Fight Choreography Test 6
+
+- Category: stunt-choreography
+- Original watch / source: https://vimeo.com/9726523
+- Date/type: LBP Stunts Chicago original; classic snow/night test; date unverified
+- Action design / study: 雪夜双人手部编舞；同时研究自然环境中动作与服装轮廓。
+- Camera / editing: 作者明确这是夜景调色测试；建议比较暗部可读性和动作节拍。
+- AI-video takeaway: 雪地脚印、环境光、身体轮廓及连续动作同步。
+- Full prompt and provenance: [2026-11-27 curated batch](runs/2026-11-27.md)
+
 ## Added 2026-11-26 — 2 new source-linked references
 
 ### 1. Betrayal — Anime Inspired Test Fight
