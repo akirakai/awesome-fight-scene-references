@@ -1,5 +1,16 @@
 # References Index
 
+## 2026-11-28 — 10 curated fight / motion references
+
+- **martial-arts (2):** 阮俊强 — 武林风邳州金腰带精英赛 60kg 决赛; 11th Sanda World Cup — Day 1 Session 1.
+- **film-tv (1):** Loki's Game — a kinetic short film.
+- **games (1):** Tides of Annihilation — Geraint Boss Fight.
+- **anime (1):** The God of High School — Jin Mori vs Han Daewi Side-by-Side.
+- **stunt-choreography (2):** Andy's First Day In Chicago — LBP Stunts; Nicholas Foreman — Fight Practice.
+- **ai-action (3):** White-Haired Swordsman vs Desert Demon — Hesdof; Fighting Scene — Leon Lin; Astra vs Fable — llamochka.
+
+[Full 2026-11-28 watch links, study notes and original English Motion Prompts](runs/2026-11-28.md)
+
 ## 2026-11-27 — 10 curated fight / motion references
 
 - **martial-arts (2):** Wayland Li Wushu — Year of the Horse Gala Demo; This Tai Chi Performance Looks Unreal — 2026 Wushu World Cup.
