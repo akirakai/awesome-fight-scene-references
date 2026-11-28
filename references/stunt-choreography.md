@@ -1,5 +1,27 @@
 # Stunt & Choreography References
 
+## Added 2026-11-28 — 2 new source-linked references
+
+### Andy's First Day In Chicago — LBP Stunts
+
+- Category: stunt-choreography
+- Original watch / source: https://vimeo.com/9460812
+- Date/type: 经典团队原创练习；确切上传日期未核实
+- Action design / study: Andy Long 首次与该团队合作的短格斗与快速交流动作。
+- Camera / editing: 适合从简短排练中挑选一个完整动作单元，观察全身运动与镜头配合；未逐帧核验。
+- AI-video takeaway: 减少场景复杂度，先保证角色交换位置时的可追踪性。
+- Full prompt and provenance: [2026-11-28 curated batch](runs/2026-11-28.md)
+
+### Nicholas Foreman — Fight Practice
+
+- Category: stunt-choreography
+- Original watch / source: https://vimeo.com/75133880
+- Date/type: LBP Stunts 原创；确切上传日期未核实
+- Action design / study: Nicholas Foreman 的短动作练习，Jim Priz 与 Alex Hashioka 参与，Manzanares 负责编舞及摄影剪辑。
+- Camera / editing: 建议研究不同演员的身体轮廓、反应节奏与视觉焦点；不假定三人同时交锋。
+- AI-video takeaway: 适合测试多人角色身份跟踪与表演反应连续性。
+- Full prompt and provenance: [2026-11-28 curated batch](runs/2026-11-28.md)
+
 ## Added 2026-11-27 — 3 new source-linked references
 
 ### Temple of Temper — Ron Smoorenburg / Peter Richwesz
