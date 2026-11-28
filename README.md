@@ -1,6 +1,12 @@
 # Awesome Fight Scene References
 
-## Latest additions — 2026-11-27
+## Latest additions — 2026-11-28
+
+**10 curated action references.** Highlights: The God of High School official side-by-side, Loki's Game movement-driven narrative, Geraint boss fight, and code-generated 3D previs.
+
+[Full 2026-11-28 batch](references/runs/2026-11-28.md) · [Dated index](references/INDEX.md).
+
+## Earlier additions — 2026-11-27
 
 **10 curated action references.** Highlights: ARMATUS uninterrupted dual boss gameplay, LBP snow/night choreography, and code-generated cloth-screen animation.
 
