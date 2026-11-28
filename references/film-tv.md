@@ -1,5 +1,17 @@
 # Film / TV Action References
 
+## Added 2026-11-28 — 1 new source-linked references
+
+### Loki's Game — a kinetic short film
+
+- Category: film-tv
+- Original watch / source: https://vimeo.com/531714701
+- Date/type: 2020 年已有媒体报道；Vimeo 主创作品页；确切上传日期未核实
+- Action design / study: 两人冲突在神话角色介入后转为超现实肢体表达，融合舞蹈编舞和叙事。
+- Camera / editing: 主创列有 Steadicam、原创配乐及剪辑；建议比较身体节奏、镜头运动与音乐的对应，不假设具体切点。
+- AI-video takeaway: 由对抗动作渐变为舞蹈式运动，保留连续人物轮廓和运动动机。
+- Full prompt and provenance: [2026-11-28 curated batch](runs/2026-11-28.md)
+
 ## Added 2026-11-27 — 1 new source-linked references
 
 ### The Edge of Divergence — Hector Soria
