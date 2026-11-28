@@ -1,5 +1,17 @@
 # Game Action References
 
+## Added 2026-11-28 — 1 new source-linked references
+
+### Tides of Annihilation — Geraint Boss Fight
+
+- Category: games
+- Original watch / source: https://www.youtube.com/watch?v=OmCqfl2GA_E
+- Date/type: 2026-08-19 IGN 发布；约 7 分钟；PC 开发中版本
+- Action design / study: 亚瑟王传说背景下博物馆关卡的可选武士 Boss 战，研究人形敌人的动作节奏及奇幻风格。
+- Camera / editing: 建议选连续第三人称画面，比较角色相对位置和视角转动；YouTube 回读受限。
+- AI-video takeaway: 稳定角色朝向、场景尺度和特效时序，先验证无特效动作版本。
+- Full prompt and provenance: [2026-11-28 curated batch](runs/2026-11-28.md)
+
 ## Added 2026-11-27 — 1 new source-linked references
 
 ### ARMATUS — The Ghoul & The Surgeon
