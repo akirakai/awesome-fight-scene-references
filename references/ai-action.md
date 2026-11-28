@@ -1,5 +1,40 @@
 # AI Action References
 
+## Added 2026-11-28 — 3 new source-linked references
+
+### White-Haired Swordsman vs Desert Demon — Hesdof
+
+- Category: ai-action
+- Original watch / source: https://dropday.ai/c/white-haired-swordsman-vs-desert-demon
+- Creator post: https://x.com/sdof5257/status/2112028929058013663 (direct X fetch returned 403; embedded viewing entry above)
+- Date/type: 2026-10-19 原帖日期据 Dropday；AI 奇幻视频；模型版本未独立核实
+- Action design / study: 红衣白发剑客与巨大沙漠怪物对抗；来源描述含强风、闪电与锁链。
+- Camera / editing: 建议研究宽景的体型关系、风沙与角色轮廓、闪电光照一致性；具体运镜未核实。
+- AI-video takeaway: 固定怪兽体积、角色外观和环境风向；让特效跟随动作而非随机闪烁。
+- Full prompt and provenance: [2026-11-28 curated batch](runs/2026-11-28.md)
+
+### Fighting Scene — Leon Lin
+
+- Category: ai-action
+- Original watch / source: https://dropday.ai/c/fighting-scene
+- Creator post: https://x.com/LexnLin/status/2117391462044455132 (direct X fetch returned 403; embedded viewing entry above)
+- Date/type: 2026-11-02 原帖日期据 Dropday；AI 代码生成三维动画，非传统文生视频
+- Action design / study: 作者据称以 MakeHuman 人物为基础，借助 AI 生成动画逻辑和环境代码；30 分钟为作者自述。
+- Camera / editing: 建议使用可重复的相机轨迹和动作时间轴，比较灰模与最终渲染。
+- AI-video takeaway: 把角色状态、动画时间和摄影机分别控制，作为可编辑 Previs。
+- Full prompt and provenance: [2026-11-28 curated batch](runs/2026-11-28.md)
+
+### Astra vs Fable — llamochka
+
+- Category: ai-action
+- Original watch / source: https://dropday.ai/c/astra-vs-fable
+- Creator post: https://x.com/llamochkaa/status/2122715547091550320 (direct X fetch returned 403; embedded viewing entry above)
+- Date/type: 2026-11-17 原帖日期据 Dropday；Blender Python 资产生成与三维动画展示
+- Action design / study: 用机器人拳击短片可视化不同模型生成的三维资产；不是文生视频模型对比。
+- Camera / editing: 建议比较角色模型轮廓、网格复杂度与相同摄影机下的动作可读性。
+- AI-video takeaway: 统一动画、场景和相机后替换资产，隔离变量做 AI 动画测试。
+- Full prompt and provenance: [2026-11-28 curated batch](runs/2026-11-28.md)
+
 ## Added 2026-11-27 — 2 new source-linked references
 
 ### Cloth Screen Animation — Tim Jayas
