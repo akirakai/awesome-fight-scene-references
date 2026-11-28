@@ -1,5 +1,17 @@
 # Anime Action References
 
+## Added 2026-11-28 — 1 new source-linked references
+
+### The God of High School — Jin Mori vs Han Daewi Side-by-Side
+
+- Category: anime
+- Original watch / source: https://www.youtube.com/watch?v=rS89-iijba0
+- Date/type: 2020-09-02；Crunchyroll Presents 官方幕后对照
+- Action design / study: 官方说明为两人对决的制作基础对照，适合研究动画动作如何从基础素材转为最终画面。
+- Camera / editing: 双屏对照是重点；建议按同一动作节点比较轮廓、节奏和构图，具体帧未核验。
+- AI-video takeaway: 建立参考与成片的时间对齐，而非只比较单张画面。
+- Full prompt and provenance: [2026-11-28 curated batch](runs/2026-11-28.md)
+
 ## Added 2026-11-27 — 1 new source-linked references
 
 ### Sword of the Stranger — No Name Defends Kotaro
