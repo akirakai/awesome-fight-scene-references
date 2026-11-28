@@ -1,5 +1,27 @@
 # Martial Arts / Performance References
 
+## Added 2026-11-28 — 2 new source-linked references
+
+### 阮俊强 — 武林风邳州金腰带精英赛 60kg 决赛
+
+- Category: martial-arts
+- Original watch / source: https://www.douyin.com/video/7710678725717841994
+- Date/type: 2026-11-22 上传；标题标注比赛于 11-21；第三方现场视频
+- Action design / study: 真实竞技攻防的节奏、距离、重心变化；赛事名称与级别据上传者。
+- Camera / editing: 建议选择双方全身可见的连续画面，不把观众遮挡或回放当成连续动作。
+- AI-video takeaway: 用真实步幅和自然停顿校验双人运动。
+- Full prompt and provenance: [2026-11-28 curated batch](runs/2026-11-28.md)
+
+### 11th Sanda World Cup — Day 1 Session 1
+
+- Category: martial-arts
+- Original watch / source: https://euwushu.tv/videos/11th-sanda-world-cup-day-1-session-1-semifinal-bout-13
+- Date/type: 2026-05-13；2:02:50；赛事转播存档
+- Action design / study: 同一赛事的不同场次，适合研究不同选手的节奏差异；非短集锦。
+- Camera / editing: 从连续转播画面截取一个短回合，排除回放与切镜。
+- AI-video takeaway: 以固定擂台坐标和脚底接触作为运动基准。
+- Full prompt and provenance: [2026-11-28 curated batch](runs/2026-11-28.md)
+
 ## Added 2026-11-27 — 2 new source-linked references
 
 ### Wayland Li Wushu — Year of the Horse Gala Demo
